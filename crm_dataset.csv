@@ -1,0 +1,1001 @@
+Customer_ID,First_Name,Last_Name,Gender,Age,Country,City,Email,Phone_Number,Customer_Segment,Annual_Income_USD,Account_Creation_Date,Total_Purchases,Avg_Purchase_Value_USD,Last_Purchase_Date,Customer_Satisfaction_Score,Support_Tickets_Raised,Support_Tickets_Resolved,Email_Open_Rate,Churn
+CUST_0001,Robert,Bell,Male,64,Finland,Kimberlyborough,spreston@example.com,+1-540-389-6816x508,Retail,46917,2022-07-13,7,665.66,2025-04-29,4,2,2,1.0,Yes
+CUST_0002,Amy,Mcconnell,Female,29,United States Virgin Islands,East Michelle,mwilliams@example.net,001-535-473-6940x576,Corporate,42736,2021-06-20,13,1593.16,2025-07-07,3,2,1,0.4,Yes
+CUST_0003,Jason,Brown,Female,33,Niue,New Laurenport,riggscolleen@example.org,2772043807,SME,47990,2022-04-20,15,1377.09,2025-09-15,2,2,2,0.64,Yes
+CUST_0004,Brandon,Roberts,Female,41,Isle of Man,New Teresaburgh,joanne39@example.com,+1-908-341-8583x4350,Corporate,82551,2023-11-02,9,634.13,2024-10-29,5,1,1,0.89,No
+CUST_0005,Tracy,Cruz,Male,36,Liberia,Amberberg,matthew12@example.net,(537)267-9227,Corporate,78161,2025-01-27,9,942.6,2024-11-05,5,3,2,0.42,Yes
+CUST_0006,Lisa,Estes,Male,25,Saint Vincent and the Grenadines,East Pamela,dudleyjose@example.net,(819)489-5819,Retail,99623,2022-09-16,7,236.34,2024-10-10,2,3,0,0.77,No
+CUST_0007,Cody,Austin,Male,48,Colombia,Billside,nstewart@example.com,+1-398-903-3162x828,Retail,42440,2022-01-10,11,1801.39,2025-06-16,2,1,1,0.97,No
+CUST_0008,Lawrence,Lang,Female,38,Israel,East Ashleymouth,jnguyen@example.org,9895679680,Corporate,55205,2023-05-16,9,1874.08,2025-05-16,2,4,2,0.36,No
+CUST_0009,Patricia,Collins,Female,34,Paraguay,Davismouth,sjohnston@example.org,(471)349-0100,Enterprise,141156,2022-08-09,8,1960.62,2024-12-03,2,4,2,0.41,Yes
+CUST_0010,Diana,Howard,Female,40,Ecuador,North Rebeccafurt,ecoleman@example.net,+1-216-539-0810,Corporate,100811,2024-01-10,9,1743.68,2025-07-17,1,2,2,0.91,No
+CUST_0011,Cristina,Hill,Male,54,Brunei Darussalam,South Kellyland,susan50@example.org,7775181097,Corporate,143768,2021-11-13,8,389.22,2025-02-18,5,2,2,0.16,No
+CUST_0012,Pamela,Martinez,Other,33,Marshall Islands,East Oliviaborough,jessicathomas@example.com,(242)888-5973,SME,75103,2022-07-13,9,140.08,2025-03-05,1,5,1,0.03,Yes
+CUST_0013,Jennifer,Clark,Female,23,Solomon Islands,Brewerside,jonesjohn@example.org,564.246.9389x1382,Corporate,90812,2021-07-21,13,1180.21,2025-05-20,4,2,2,0.91,No
+CUST_0014,Steven,Ward,Male,25,Luxembourg,Cameronhaven,melissa28@example.org,850.718.0611x723,Retail,61627,2023-01-31,14,1829.58,2025-06-18,4,5,1,0.82,No
+CUST_0015,Greg,Barnes,Male,42,Iceland,Port William,david95@example.com,001-328-415-5815x1059,Corporate,126122,2021-12-12,13,395.84,2025-06-29,5,3,3,0.97,No
+CUST_0016,Tabitha,Davis,Male,35,Rwanda,New Crystalmouth,kkelly@example.com,+1-313-283-7261x1866,Enterprise,123032,2022-11-22,14,63.73,2025-01-24,4,3,1,0.06,No
+CUST_0017,Amy,Vargas,Male,42,Saint Helena,Jenniferfort,joshua70@example.net,(919)861-7968x868,Retail,39008,2021-10-29,14,1620.72,2025-08-15,2,1,1,0.16,No
+CUST_0018,Willie,Cooper,Female,29,French Southern Territories,Starkmouth,zachary06@example.net,440-618-6242,Corporate,91274,2021-03-13,10,199.75,2024-12-21,1,3,2,0.11,No
+CUST_0019,Olivia,Wallace,Male,32,Andorra,Tranborough,tracy43@example.net,001-991-434-7288x805,Retail,52402,2021-04-19,13,856.73,2025-04-12,2,0,0,0.68,No
+CUST_0020,Jessica,Anderson,Male,43,Slovenia,New Keith,kevincabrera@example.net,(362)686-0071,Corporate,73384,2024-10-21,10,1373.83,2025-08-22,4,3,3,0.61,Yes
+CUST_0021,Danielle,Williamson,Female,58,Ghana,East James,gscott@example.net,236.474.0776x14663,Retail,148922,2025-01-05,11,511.76,2025-08-06,1,1,1,0.36,No
+CUST_0022,Mariah,Robinson,Male,62,Peru,East Mary,gomezlori@example.com,(484)607-1214,Corporate,25793,2023-05-28,11,213.73,2025-03-10,2,0,0,0.06,Yes
+CUST_0023,Hector,Russell,Male,43,Ethiopia,Crosbyview,matthew12@example.org,(965)435-9191x668,SME,122827,2024-05-09,10,1551.54,2024-10-18,5,1,1,0.64,Yes
+CUST_0024,Michael,Montoya,Male,64,Sudan,West Stevenborough,cynthiawalker@example.com,(471)679-4378x320,Retail,25571,2024-11-13,7,1278.84,2024-11-11,2,5,1,0.57,No
+CUST_0025,Jason,Cole,Male,49,Nicaragua,Garciashire,andrew43@example.com,+1-630-411-4163x3988,Corporate,116867,2023-03-31,12,1977.56,2025-08-29,4,0,0,0.11,No
+CUST_0026,Robert,Gallegos,Female,27,Holy See (Vatican City State),North Christinestad,jessicaavery@example.net,784.535.1793x1827,SME,36209,2022-11-15,9,721.4,2025-06-23,1,3,3,0.91,Yes
+CUST_0027,Gabriel,Davila,Male,33,Iraq,South Marcus,matthew67@example.org,001-412-303-1142,Enterprise,133550,2022-11-24,5,170.44,2025-05-18,5,1,1,0.2,No
+CUST_0028,Mary,Phillips,Female,24,Israel,Lopezton,edwinbenson@example.org,+1-859-652-6509x3621,Retail,110930,2024-02-29,12,1481.98,2024-12-02,1,2,2,0.74,No
+CUST_0029,Samuel,Hill,Female,34,Ukraine,North Javierberg,maria71@example.net,722.700.1338x356,Retail,63148,2023-10-30,13,1067.38,2025-04-07,5,3,3,0.89,No
+CUST_0030,Raymond,Diaz,Male,40,Martinique,East Matthewtown,hmoss@example.com,+1-900-662-1796x6148,Retail,111218,2025-09-13,13,465.75,2025-03-22,1,4,0,0.58,Yes
+CUST_0031,Ricky,Burnett,Female,43,Bosnia and Herzegovina,Katherinechester,larsencraig@example.com,9242139716,Enterprise,22224,2022-08-20,16,1574.37,2025-01-14,4,0,0,0.25,No
+CUST_0032,Brenda,Robinson,Male,38,Burkina Faso,Sosaville,marysanders@example.org,736.303.2938x5647,Enterprise,126693,2023-10-30,10,447.32,2024-12-30,5,1,1,0.31,No
+CUST_0033,Kyle,Johnson,Male,39,Angola,Romanberg,donaldfrazier@example.com,(576)739-6640x322,Corporate,145551,2021-11-10,12,558.29,2025-08-15,3,4,1,0.89,No
+CUST_0034,Matthew,Taylor,Female,24,Montenegro,Martinfurt,dana79@example.net,298.786.6544,SME,68695,2020-11-17,7,230.43,2025-10-04,1,1,1,0.3,Yes
+CUST_0035,Carolyn,Cantu,Other,31,Rwanda,East Phillipville,dianamontgomery@example.net,+1-969-611-2550,Corporate,140779,2021-12-08,13,828.89,2025-05-22,1,4,3,0.75,No
+CUST_0036,David,Murphy,Female,32,Qatar,New Patricia,james81@example.org,(335)696-4577,Corporate,149714,2023-01-15,9,866.91,2024-11-09,2,5,3,0.99,No
+CUST_0037,Joshua,Perez,Male,24,Angola,Gutierrezview,james16@example.org,+1-810-382-9066x86159,Retail,129988,2023-02-11,7,1053.4,2025-06-23,5,1,1,1.0,No
+CUST_0038,Kimberly,Burns,Male,26,Ireland,Zacharyborough,bondrebecca@example.net,+1-979-379-5742x5265,SME,128944,2025-07-13,15,1432.48,2025-07-17,3,2,2,0.53,No
+CUST_0039,Joanna,Adams,Female,68,Tokelau,Wigginschester,qevans@example.net,(872)442-7786x4541,Retail,52441,2021-12-26,13,1816.9,2025-08-03,4,3,3,0.83,Yes
+CUST_0040,Shannon,Davies,Male,65,Azerbaijan,New Jasmine,fletcherpatrick@example.com,+1-946-297-3081,SME,126966,2023-05-13,10,318.58,2025-07-27,2,1,1,0.99,No
+CUST_0041,David,Smith,Male,25,Guam,North Loriburgh,lrogers@example.net,432.512.4476x17850,SME,59129,2022-07-30,14,155.98,2024-11-21,3,3,3,0.37,Yes
+CUST_0042,Kaylee,Reed,Female,67,Algeria,Laurachester,jessica81@example.com,+1-367-644-1183x1101,SME,120252,2021-12-18,10,86.14,2025-04-20,5,2,2,0.25,No
+CUST_0043,Jessica,Fitzgerald,Male,40,Bulgaria,Shortmouth,qbarker@example.net,+1-266-769-2383x72698,Retail,82368,2025-08-02,10,330.06,2025-02-15,3,3,3,0.11,No
+CUST_0044,Jenny,Adkins,Female,46,Nicaragua,Lake Glendatown,thomas54@example.net,001-205-988-2315,Retail,130395,2023-07-15,12,1333.0,2024-10-24,1,1,1,0.14,No
+CUST_0045,James,Silva,Male,35,Tajikistan,Caitlynmouth,marybriggs@example.net,(655)588-0569x4555,Retail,112122,2021-04-29,10,1468.58,2025-10-05,1,0,0,0.85,No
+CUST_0046,Carolyn,Smith,Female,48,Oman,Robinville,lori46@example.net,+1-761-770-4982,Retail,64760,2022-09-20,10,1583.69,2025-04-03,2,3,1,0.59,Yes
+CUST_0047,Ernest,Carroll,Male,47,French Southern Territories,North Deborah,briancastro@example.org,540.344.2856x9493,Retail,149655,2023-06-28,8,525.23,2024-12-19,5,0,0,0.87,No
+CUST_0048,Victoria,Lawson,Female,69,Benin,Sherryshire,josephgolden@example.com,245-540-2098x277,Enterprise,43478,2022-01-06,8,646.49,2024-10-26,5,1,1,0.79,No
+CUST_0049,Emily,Williams,Female,56,Anguilla,New Johnborough,kevinsmith@example.net,716.464.4696x3679,Corporate,147881,2025-07-29,6,992.11,2024-11-26,3,0,0,0.67,Yes
+CUST_0050,Sarah,Johnson,Male,52,Gambia,East Katherine,kporter@example.net,+1-960-762-7665x41772,Retail,91854,2025-02-22,11,173.21,2025-02-09,2,2,1,0.61,No
+CUST_0051,Savannah,Christensen,Other,35,Cote d'Ivoire,Davidfurt,turnertonya@example.com,344.736.2488,Retail,114230,2023-04-25,7,1241.73,2025-08-22,5,1,1,0.05,Yes
+CUST_0052,Paula,Fisher,Female,59,Iceland,South Javiertown,eharris@example.org,733-977-8173x13464,Corporate,105716,2022-01-24,6,1968.28,2025-09-05,1,1,1,0.87,No
+CUST_0053,Andrew,Patton,Female,56,Estonia,Ramseyburgh,browncrystal@example.org,(996)271-6799,Corporate,32180,2023-01-25,8,753.57,2025-08-31,3,1,0,0.42,No
+CUST_0054,Robert,Burch,Female,34,Chad,New Dalemouth,eric36@example.net,4433427784,Corporate,118538,2022-09-09,12,1518.05,2025-07-19,4,0,0,0.56,Yes
+CUST_0055,Jessica,Dixon,Female,31,French Southern Territories,East Taylor,nixonpaul@example.com,(792)407-0296,Enterprise,35372,2021-11-12,12,1025.07,2025-04-30,1,1,0,0.02,No
+CUST_0056,Timothy,Smith,Female,48,Haiti,North Christopher,murphychristopher@example.org,450.819.2258,Corporate,49796,2022-08-31,13,299.23,2025-08-08,2,0,0,0.94,No
+CUST_0057,Henry,Garcia,Male,41,Reunion,Woodardport,michael90@example.org,001-820-398-7722x576,Enterprise,78272,2023-12-28,8,1185.36,2024-11-01,5,2,0,0.9,No
+CUST_0058,Allen,Kelley,Male,52,Togo,Jefferystad,lisa64@example.org,309.391.6229,SME,138295,2021-02-17,11,634.75,2025-02-20,1,3,0,0.54,No
+CUST_0059,Melissa,Gomez,Male,61,Madagascar,Powellland,nicole21@example.com,(457)551-5789,Retail,109963,2021-05-29,10,117.09,2025-04-18,4,2,0,0.58,No
+CUST_0060,Brandon,Gardner,Male,62,Colombia,North Alexander,mahoneymarcus@example.org,+1-354-220-2044,Enterprise,118826,2024-07-12,13,1288.11,2024-10-17,4,3,1,0.71,No
+CUST_0061,Amanda,Walsh,Male,51,Egypt,Fernandochester,jeremy22@example.com,001-350-978-5731,Retail,140592,2025-07-17,9,1724.92,2024-12-29,2,2,2,0.26,No
+CUST_0062,Theodore,Vargas,Male,20,Czech Republic,Cassandraland,georgedawn@example.net,(298)674-1604,SME,113635,2021-01-02,7,722.3,2025-09-30,1,1,1,0.22,No
+CUST_0063,Shannon,Brown,Female,54,Seychelles,Sarahport,alopez@example.net,465-966-8688x20836,Retail,131022,2022-10-23,14,811.08,2025-10-01,3,3,3,0.67,No
+CUST_0064,Laura,Williams,Male,60,Timor-Leste,Murphyborough,diazeric@example.com,(989)393-1531x1815,SME,74040,2023-07-26,12,1787.49,2025-09-25,1,0,0,0.1,Yes
+CUST_0065,Patricia,Friedman,Male,57,Haiti,West Amandaton,walter38@example.com,001-468-504-9481,SME,95357,2022-08-10,10,1636.54,2024-10-17,4,0,0,0.45,No
+CUST_0066,Jesse,Anderson,Female,43,Sudan,Port Jonathanberg,amanda37@example.com,744-410-6983,SME,91368,2024-09-12,7,1444.16,2025-08-07,2,1,0,0.49,No
+CUST_0067,Margaret,Smith,Male,40,Guam,Stevenmouth,nicholaslee@example.com,001-961-293-9383x4118,SME,98356,2022-11-20,8,535.15,2025-02-13,2,4,3,0.38,No
+CUST_0068,Travis,Jefferson,Female,61,Malawi,East Tracy,uvargas@example.net,001-237-712-0874x42348,Retail,36211,2023-06-25,10,1824.92,2025-06-06,3,4,4,0.19,No
+CUST_0069,Scott,Fields,Male,56,Sri Lanka,Lake Jacobberg,tina52@example.net,349-990-4666,Retail,125426,2024-01-25,9,351.11,2025-08-06,2,0,0,0.36,No
+CUST_0070,Megan,Contreras,Other,32,Italy,Salazarstad,larry69@example.com,501.846.5290x902,Corporate,25842,2023-03-17,11,1272.2,2025-02-16,2,7,4,0.34,No
+CUST_0071,Nicholas,Perez,Female,66,Hong Kong,Lake Catherine,heatherwilliams@example.com,898.521.8744,Retail,83115,2021-10-27,8,106.16,2025-01-31,2,3,2,0.5,No
+CUST_0072,Penny,Levy,Male,21,Saint Martin,Duncanberg,tuckerjennifer@example.net,+1-463-733-4150x3928,Corporate,86852,2023-08-10,7,1305.25,2025-10-05,2,3,0,0.67,No
+CUST_0073,Megan,Jackson,Male,46,Indonesia,South Heather,penny06@example.org,(956)803-0727,Retail,145737,2021-11-03,14,590.43,2025-02-18,2,4,1,0.97,No
+CUST_0074,Alicia,Mathis,Female,39,Cocos (Keeling) Islands,Lake Jonathan,william04@example.com,5259142819,Enterprise,65968,2022-09-26,11,926.87,2025-03-19,4,2,1,0.14,No
+CUST_0075,Benjamin,Wright,Female,42,Niue,Ashleyfurt,wdawson@example.com,320-983-7410,Corporate,37508,2023-07-26,9,723.27,2025-07-06,1,3,2,0.87,Yes
+CUST_0076,Cassandra,Carroll,Female,30,Uruguay,Port Heather,delgadosheila@example.net,(788)582-5303x0129,SME,42005,2024-04-15,3,386.88,2024-12-18,5,1,1,0.28,No
+CUST_0077,Michael,Mendoza,Female,35,Puerto Rico,Matthewshaven,zjohnson@example.com,814-424-8584x19056,Retail,74575,2024-06-27,16,1262.86,2025-05-27,2,3,3,0.59,No
+CUST_0078,Megan,Foster,Male,50,Mozambique,Thomasside,zlee@example.net,802.364.1001,SME,100742,2024-08-09,9,1769.85,2025-02-10,5,1,1,0.55,No
+CUST_0079,Michael,Wood,Male,33,Turkmenistan,Lake Lori,xedwards@example.net,901-514-7216,Enterprise,38971,2021-07-29,5,1920.21,2025-06-19,5,1,1,0.56,Yes
+CUST_0080,Katherine,Delgado,Male,62,Denmark,New Sierra,debra98@example.net,(804)903-2137,Corporate,45599,2023-10-12,9,425.08,2024-11-23,4,2,1,0.72,Yes
+CUST_0081,Ian,Smith,Female,59,Ireland,Whitechester,brian76@example.org,302.311.5736x304,Corporate,107592,2024-10-17,10,1448.88,2025-09-11,2,2,1,0.38,No
+CUST_0082,John,Short,Female,61,Lesotho,Lake Thomas,holderbradley@example.org,706.360.1341,SME,86914,2024-10-10,12,1345.46,2025-01-20,5,2,2,0.32,No
+CUST_0083,Heather,Young,Male,19,Bahamas,Lake Anthony,emartin@example.com,(202)667-9984x76597,Retail,138062,2025-03-22,12,719.59,2025-04-23,2,2,1,0.85,No
+CUST_0084,Andrea,Gonzalez,Male,52,Malawi,Dayview,hilljoshua@example.org,001-586-391-7369x1649,Corporate,87055,2020-11-13,9,87.24,2025-06-30,3,3,3,0.22,No
+CUST_0085,Kyle,Gonzalez,Male,59,Guernsey,Morenoville,amanda29@example.org,001-225-834-1114,Retail,107697,2022-09-27,7,1395.09,2025-04-13,3,3,1,0.18,No
+CUST_0086,Lauren,Morales,Male,51,Tonga,Harrisonmouth,kathrynmitchell@example.net,740.844.0886x8056,Retail,126239,2022-09-10,9,1893.71,2025-07-09,3,4,2,0.02,No
+CUST_0087,Kelly,Valdez,Female,47,Guam,Rebeccaberg,nancymcneil@example.net,909-857-6554x0604,Retail,124397,2024-04-25,14,1282.63,2024-11-08,5,3,1,0.21,No
+CUST_0088,Christina,Henderson,Female,30,Kyrgyz Republic,Meyerstad,smithkathleen@example.org,(309)704-2079x28663,Retail,143106,2025-05-16,13,898.82,2024-11-25,3,2,2,0.52,No
+CUST_0089,Katelyn,Joseph,Female,30,Ecuador,Bellton,kennethmay@example.com,(632)938-7816x9368,Retail,25355,2024-02-02,9,1074.05,2025-02-02,4,1,1,0.54,Yes
+CUST_0090,Daniel,Rodriguez,Male,35,Greenland,Herreraburgh,knguyen@example.com,001-269-911-9060x43833,Retail,74120,2025-09-24,9,439.28,2024-10-26,4,2,2,0.25,No
+CUST_0091,Jessica,Martin,Male,49,Brazil,Lisaborough,moorekatelyn@example.com,614.478.8630,Enterprise,94619,2021-05-26,7,1513.56,2024-10-19,5,4,2,0.07,No
+CUST_0092,Phillip,Lee,Female,49,China,Sheltonport,jenniferbyrd@example.org,867.612.0857x139,Corporate,58342,2022-07-26,12,1505.52,2025-09-07,2,1,1,0.74,No
+CUST_0093,Kyle,Brown,Female,52,Madagascar,Port Thomas,kellerpatricia@example.com,+1-658-371-0600,Enterprise,105992,2022-11-12,10,333.76,2024-12-30,1,2,2,0.76,Yes
+CUST_0094,Daniel,Long,Female,56,Palau,Lake Dennis,lukemiller@example.net,(584)613-6655x67615,Corporate,98860,2024-12-04,6,1762.06,2024-12-09,2,1,1,1.0,No
+CUST_0095,Dean,Greene,Female,63,Lao People's Democratic Republic,South Brandon,rgarcia@example.net,(738)634-6795x0932,Retail,22257,2024-07-24,9,574.92,2025-02-10,2,1,1,0.9,No
+CUST_0096,Lisa,Rosales,Female,69,Bahamas,Cranestad,xfarmer@example.net,613-696-6305x077,Corporate,47364,2024-01-08,10,1965.4,2025-01-25,2,2,1,0.93,No
+CUST_0097,Katherine,Fleming,Female,46,Zambia,West Anthony,vwerner@example.com,341.440.3868x06287,Corporate,44972,2022-03-07,12,796.66,2025-01-12,2,1,1,0.8,Yes
+CUST_0098,Allison,Medina,Male,66,Austria,Kathrynland,olowe@example.org,8677011616,Retail,131715,2024-04-22,10,396.87,2025-03-20,1,4,3,0.62,No
+CUST_0099,Christopher,Parker,Male,46,Tunisia,Ballardhaven,kanderson@example.org,412.576.8794x9881,Corporate,46654,2020-12-22,10,735.85,2025-05-17,3,1,1,0.13,Yes
+CUST_0100,Terry,Hines,Male,61,Libyan Arab Jamahiriya,Johnsonhaven,sheppardrebecca@example.com,001-982-612-4894,Retail,100769,2025-03-08,11,908.35,2025-05-20,2,2,2,0.62,No
+CUST_0101,Andrea,Stokes,Male,33,Japan,Trujillochester,petersensamantha@example.org,781-737-6146x842,Corporate,101423,2024-05-28,13,185.15,2025-09-10,4,1,1,0.06,No
+CUST_0102,Victoria,Wolfe,Female,61,Nepal,Myerschester,jenniferharrell@example.org,8228925211,Corporate,49320,2022-06-21,6,1177.53,2024-12-24,5,4,2,0.89,Yes
+CUST_0103,Vincent,White,Male,64,Vanuatu,South Melissa,sonya54@example.org,256-813-1282,Retail,40808,2025-03-01,10,1215.38,2025-04-13,5,3,3,0.48,No
+CUST_0104,Marc,Hall,Female,27,Iceland,North Johnborough,martinjames@example.org,229-808-2073x03418,Retail,72389,2023-02-22,9,1490.91,2025-05-10,4,1,1,0.7,Yes
+CUST_0105,Denise,Mendez,Female,47,Bahamas,Aguilarburgh,georgezavala@example.org,5512585939,SME,115690,2023-09-17,13,106.88,2025-04-23,2,2,2,0.05,No
+CUST_0106,Mason,Martinez,Male,42,Tanzania,South Brittneychester,choward@example.net,660.220.9400,Corporate,138581,2021-10-06,9,1105.41,2025-05-20,1,0,0,0.53,No
+CUST_0107,Kayla,Becker,Male,56,United States Minor Outlying Islands,Taylorton,ggillespie@example.org,001-648-858-4060,Retail,147927,2025-02-04,10,153.17,2025-03-19,3,3,0,0.3,No
+CUST_0108,Timothy,Morales,Female,37,Namibia,Christinehaven,seth41@example.com,8962752146,Enterprise,54773,2023-04-20,9,1417.23,2025-08-05,5,3,3,0.28,No
+CUST_0109,Michael,Stewart,Male,22,Korea,Smithmouth,ryanthomas@example.org,685-652-5541,Retail,71168,2023-08-18,5,158.67,2025-04-12,3,2,0,0.39,No
+CUST_0110,Valerie,Kelley,Male,18,Russian Federation,Kimberlyton,greenkatherine@example.org,949-301-3401x25178,Corporate,47747,2024-01-20,13,1827.87,2025-08-03,1,4,1,0.0,Yes
+CUST_0111,Sara,Davis,Male,47,Micronesia,Gonzalezland,gsoto@example.net,652.369.6506x55535,Enterprise,96396,2021-12-23,13,1419.06,2025-08-12,5,2,0,0.47,No
+CUST_0112,Christopher,White,Male,66,Guam,South Katelyn,hernandeznatalie@example.net,614.582.7770,Retail,128374,2023-10-26,11,1039.41,2025-07-17,3,3,3,0.49,No
+CUST_0113,Marcus,Davidson,Female,20,Libyan Arab Jamahiriya,Nicholasmouth,qsnyder@example.com,+1-512-315-0871,Retail,127692,2022-01-27,9,910.93,2025-04-26,1,1,1,0.86,No
+CUST_0114,Erin,Dixon,Female,62,Mozambique,Wayneborough,mark64@example.com,303-616-2294x11592,Retail,103692,2024-02-15,4,304.81,2025-05-12,3,1,1,0.45,Yes
+CUST_0115,Daniel,Boyd,Female,31,Rwanda,Lake Racheltown,jefferyanderson@example.com,001-350-827-4919,Retail,77505,2021-06-18,15,617.45,2025-04-04,2,4,1,0.36,No
+CUST_0116,Jeffery,Booker,Female,47,Kyrgyz Republic,East Karlshire,james44@example.com,3886490047,Retail,105896,2025-09-11,8,1744.47,2024-12-17,1,3,3,0.99,No
+CUST_0117,Jesus,Collins,Female,67,Venezuela,Millerstad,jessicajones@example.net,416.743.6451x8248,Corporate,38135,2021-02-12,10,1813.68,2025-03-11,3,1,1,0.57,No
+CUST_0118,Jason,Mercado,Male,21,Hungary,Matthewbury,jacquelinelewis@example.org,731.892.5730,Retail,110887,2024-12-31,16,51.46,2025-04-11,2,2,2,0.47,No
+CUST_0119,Laura,Gibbs,Female,35,Yemen,South Erin,tuckerandrew@example.com,(378)407-2058,Corporate,142118,2021-06-25,9,1208.57,2025-03-15,2,1,1,0.5,No
+CUST_0120,Eric,Sampson,Female,54,Cameroon,Karaside,richard42@example.net,6197143512,Enterprise,116035,2023-09-11,12,1452.64,2025-07-18,1,1,1,0.81,No
+CUST_0121,Wendy,Gonzales,Female,42,Holy See (Vatican City State),East Samuel,ssnow@example.org,001-543-887-8848,SME,67377,2024-05-08,6,1256.56,2025-03-26,4,1,1,0.34,Yes
+CUST_0122,Scott,Jones,Female,65,Belgium,North Kristina,hjohnson@example.org,(551)777-3340,Corporate,43554,2024-12-25,9,209.28,2024-12-13,5,0,0,0.39,No
+CUST_0123,Michelle,Alexander,Male,18,Mayotte,South Micheal,brownlinda@example.net,+1-432-793-5772x703,Retail,82491,2020-11-20,11,474.56,2025-08-10,1,3,1,0.76,Yes
+CUST_0124,Dana,Steele,Male,63,Greenland,New Mark,heatherrussell@example.com,622.986.5096x38521,Corporate,75621,2025-04-12,10,538.16,2024-12-27,2,1,1,0.07,No
+CUST_0125,Michael,Jones,Male,32,Poland,Cuevasville,tristanmorgan@example.com,001-894-501-5550x59183,Corporate,134667,2024-08-19,10,1671.86,2025-02-26,2,3,1,0.87,No
+CUST_0126,Melissa,Gibson,Male,26,Pakistan,East Andreamouth,warnereric@example.com,227-664-6192x773,Corporate,78283,2020-10-13,14,953.24,2025-05-11,1,2,2,0.43,No
+CUST_0127,Timothy,Haynes,Female,32,Myanmar,Port Richardtown,florescassandra@example.net,001-982-525-5880x212,Retail,105140,2021-10-22,14,999.32,2024-10-24,4,1,1,0.58,No
+CUST_0128,Angie,Williams,Female,66,Saint Helena,Woodport,josephfields@example.org,(638)234-2956x437,SME,36923,2025-06-11,20,1873.04,2025-02-17,5,5,2,0.76,No
+CUST_0129,James,Ramos,Male,41,Guinea,Batesshire,john07@example.org,8828572911,Corporate,67591,2022-03-26,10,1292.32,2025-08-04,3,0,0,0.27,No
+CUST_0130,Antonio,Gray,Female,21,French Guiana,Lake John,gilesrebecca@example.net,(503)391-3860x060,Retail,82261,2021-01-30,13,1802.4,2025-02-11,1,6,0,0.89,No
+CUST_0131,Daniel,Alvarez,Male,29,Lebanon,South Alexander,patrick14@example.net,981-557-4900,Retail,136149,2025-09-15,7,940.19,2025-04-08,5,2,2,0.98,No
+CUST_0132,Lori,Terry,Male,54,Czech Republic,Kellyville,jamesmiller@example.org,+1-904-682-2542x295,Corporate,74336,2025-06-14,11,341.4,2025-06-23,5,2,2,0.49,No
+CUST_0133,Vanessa,Smith,Male,54,Bhutan,Patrickfurt,tprice@example.org,(527)712-5421x97335,SME,94083,2023-02-28,17,1863.37,2025-06-26,2,0,0,0.94,No
+CUST_0134,Jennifer,Smith,Male,60,Iceland,Alexburgh,richardadams@example.com,001-935-252-5226x201,SME,80948,2023-03-05,12,944.47,2025-07-18,3,3,0,0.0,No
+CUST_0135,Richard,Evans,Female,23,Tokelau,South Kevinside,christopher59@example.org,001-686-709-7868x0282,SME,129819,2025-09-02,6,404.18,2025-07-28,1,0,0,0.89,No
+CUST_0136,Debra,Gallagher,Male,56,Myanmar,West Davidfort,wscott@example.net,5394392300,Retail,53002,2022-06-26,9,639.67,2025-09-13,2,1,1,0.31,No
+CUST_0137,Stacey,Benson,Female,63,United States of America,Moraleshaven,seth59@example.com,554.928.7033x81213,Corporate,100098,2024-11-06,15,149.07,2025-04-26,2,0,0,0.31,No
+CUST_0138,Troy,Brown,Female,41,United Arab Emirates,Mackstad,davisrichard@example.org,422-501-5774,Corporate,136236,2021-01-29,11,963.19,2025-03-16,4,2,1,0.23,No
+CUST_0139,Connie,Joseph,Male,28,Bulgaria,South Grant,sampsonkevin@example.com,+1-784-503-3769x01341,Retail,93016,2024-02-29,11,1713.6,2025-05-21,5,0,0,0.32,No
+CUST_0140,Daniel,Campos,Other,30,San Marino,Owensside,deborahtucker@example.org,+1-564-906-7743x35620,Retail,46672,2025-02-11,12,1870.48,2025-08-28,1,2,2,0.21,Yes
+CUST_0141,Donna,Durham,Other,51,Northern Mariana Islands,Brucefurt,unovak@example.net,5862441775,SME,24213,2024-12-06,11,1868.57,2025-01-05,1,2,0,0.91,No
+CUST_0142,Alexander,Howard,Male,42,Bolivia,Monicaburgh,teresa21@example.com,001-558-645-7146x87675,Retail,30293,2023-02-01,4,294.2,2024-11-26,1,2,2,0.9,No
+CUST_0143,Linda,Leon,Female,24,Sri Lanka,Thomasland,lucasadam@example.org,(237)631-7865x4713,Corporate,119977,2024-09-01,15,795.01,2025-05-08,2,2,2,0.1,No
+CUST_0144,Tyler,Hall,Male,69,Russian Federation,Coreychester,omontgomery@example.net,703.877.2626,Retail,75860,2021-06-22,7,105.05,2025-09-21,4,5,1,0.14,No
+CUST_0145,Michael,Jones,Male,21,Finland,Jessicaland,valerie34@example.net,360-474-1032,Retail,82507,2024-08-14,11,1717.57,2025-05-12,3,1,1,0.86,No
+CUST_0146,Sandra,Vincent,Male,25,Ethiopia,Martinville,hlopez@example.net,348-888-0898x76694,Retail,77134,2020-12-03,9,749.57,2025-06-20,2,3,1,0.4,No
+CUST_0147,Zachary,Fernandez,Female,37,Switzerland,Brandonberg,torreselizabeth@example.com,001-963-579-0690,Enterprise,22100,2025-09-19,14,1280.68,2025-09-18,3,1,1,0.17,No
+CUST_0148,Jason,Shaffer,Female,46,Palestinian Territory,Stoneville,okirk@example.com,585.793.5922x012,SME,130153,2025-09-10,7,1444.05,2025-09-23,4,1,1,0.51,No
+CUST_0149,Jill,Johnson,Male,68,Sudan,Hoffmanside,terrychristine@example.net,5269068516,Enterprise,81997,2022-01-04,12,888.2,2024-12-23,5,1,1,0.42,No
+CUST_0150,Lisa,Thompson,Male,62,Burkina Faso,Blaketown,ewilliams@example.com,(567)514-7820,Corporate,48172,2021-01-16,13,647.56,2025-08-29,1,1,1,0.22,Yes
+CUST_0151,Michael,Vazquez,Female,63,Ireland,Reedberg,daniellucas@example.com,353.734.7355,Retail,40132,2023-09-18,8,1926.32,2025-09-03,3,3,3,0.72,Yes
+CUST_0152,Jill,Serrano,Male,27,Kuwait,Jesusview,velezmark@example.com,982-749-7538,Corporate,137861,2023-04-29,9,1930.75,2025-08-31,2,1,1,0.63,No
+CUST_0153,Scott,Anderson,Male,60,Zimbabwe,South Robertfort,robertking@example.com,+1-432-539-4262x595,Corporate,38199,2025-04-11,15,614.4,2025-07-30,3,3,0,0.1,No
+CUST_0154,Miranda,Walton,Female,51,Tuvalu,North Shariland,dayjames@example.org,001-745-210-9181,SME,56609,2024-09-12,10,985.27,2025-04-06,5,1,1,0.93,Yes
+CUST_0155,Erica,Smith,Other,43,Micronesia,Carterside,william80@example.com,001-239-938-4396x64520,Retail,62965,2022-05-23,9,1947.05,2025-07-13,1,3,3,0.56,No
+CUST_0156,Brandon,Russell,Male,58,Israel,Joshuafort,cummingsrichard@example.com,001-990-401-0886x408,Corporate,28016,2022-08-28,10,59.49,2024-11-25,3,0,0,0.25,No
+CUST_0157,John,Dominguez,Female,66,Gabon,Rubenfort,patriciacunningham@example.net,001-521-293-2895x1875,Retail,59779,2025-08-08,16,854.72,2024-11-11,5,2,1,0.21,Yes
+CUST_0158,Emily,Huynh,Female,20,Timor-Leste,Lake Carla,guerrerobrittany@example.com,447.456.9090,Retail,122797,2023-07-20,9,245.89,2024-11-01,2,5,3,0.14,No
+CUST_0159,Christina,Brown,Male,23,Western Sahara,South Matthew,talvarez@example.org,3472289495,SME,51881,2024-07-25,5,1042.86,2025-04-02,4,2,2,0.42,No
+CUST_0160,David,Adams,Female,22,Slovenia,West Carmenhaven,christopher15@example.com,+1-464-744-7342x7992,Corporate,102594,2023-02-11,6,98.11,2025-05-20,2,0,0,0.14,No
+CUST_0161,Jesse,Jones,Male,22,Gibraltar,West Brandon,rfuller@example.net,001-650-237-4491,Retail,44472,2021-02-26,11,843.45,2025-03-01,1,3,1,0.42,Yes
+CUST_0162,Joseph,Walker,Female,64,Guyana,Lake Robertport,jasonowens@example.net,721.861.7572,Retail,126882,2021-08-17,9,480.36,2025-02-02,2,3,1,0.15,Yes
+CUST_0163,Dominique,Moreno,Female,40,Guyana,South Ricardo,christopher70@example.org,853-512-6398,Corporate,120462,2021-03-22,13,1089.95,2025-05-04,2,2,1,0.66,No
+CUST_0164,Amber,Garcia,Female,66,Panama,North Evan,hannah80@example.net,+1-376-604-9215x76961,SME,71813,2023-09-21,12,1992.19,2025-03-16,2,4,1,0.79,No
+CUST_0165,Katelyn,Ball,Male,26,Guadeloupe,Hatfieldbury,kentjames@example.org,9645913008,SME,120368,2022-08-15,6,1611.05,2024-12-02,2,1,1,0.55,No
+CUST_0166,Gregory,Ford,Female,52,Aruba,Port Staceyland,laura63@example.net,533.251.1667x4810,Enterprise,146731,2025-05-26,13,1699.0,2025-04-16,1,2,2,0.68,No
+CUST_0167,Eileen,Williams,Male,37,Guinea-Bissau,Port Jasmine,cpowell@example.net,612-674-1864,SME,56021,2023-10-27,8,1288.77,2024-12-28,5,3,0,0.94,No
+CUST_0168,Preston,Armstrong,Male,66,Congo,Samanthafort,andrewsemily@example.org,(464)773-1999,Retail,74131,2021-09-24,9,131.04,2025-03-05,3,0,0,0.64,No
+CUST_0169,James,Barry,Male,59,Sri Lanka,Hayesside,awilson@example.com,271.837.9806x1850,Corporate,44087,2023-12-25,8,453.26,2024-12-22,4,2,0,0.36,No
+CUST_0170,Rebecca,Obrien,Female,52,Kenya,Port Allenport,justinwhite@example.net,001-717-919-1847x908,Corporate,32828,2022-01-30,7,1853.88,2025-05-03,3,1,1,0.45,No
+CUST_0171,Juan,James,Female,67,El Salvador,New Barry,brianhayes@example.com,+1-598-858-8591x10191,Retail,81610,2024-10-15,12,763.92,2025-06-11,3,1,0,0.86,No
+CUST_0172,Janet,Nixon,Male,35,Austria,New Jimmyland,fmyers@example.com,635.455.1078x5879,SME,116664,2023-01-16,3,252.09,2025-04-09,4,1,1,0.13,No
+CUST_0173,Julia,Armstrong,Female,34,Montserrat,Phillipsfurt,katie35@example.org,507-226-7753x5053,Retail,143619,2023-03-29,11,1419.69,2025-04-24,1,5,2,0.33,No
+CUST_0174,Justin,Munoz,Male,41,Central African Republic,West Melanieburgh,julie71@example.net,(243)975-4500,Enterprise,21401,2023-05-12,16,633.94,2025-01-12,4,4,2,0.58,No
+CUST_0175,Matthew,Knight,Female,20,Cote d'Ivoire,Alexandraport,ewalters@example.net,001-203-383-6010x3577,Corporate,105179,2021-04-06,10,574.27,2025-08-19,1,2,2,0.68,No
+CUST_0176,Michael,Compton,Male,49,Zimbabwe,Sherrybury,harrisjay@example.net,+1-250-948-4388,Corporate,35193,2023-08-28,11,1996.06,2024-11-28,3,1,1,0.76,No
+CUST_0177,Allison,Murphy,Female,52,Ukraine,Gibsonland,lorimurphy@example.org,(476)556-0788,Corporate,112389,2022-12-30,12,1723.37,2024-12-22,1,1,1,0.32,No
+CUST_0178,Colleen,Steele,Male,55,Korea,East Melanietown,gabriel93@example.net,+1-967-582-5727x9956,SME,64864,2024-12-29,6,845.48,2025-06-19,5,0,0,0.15,Yes
+CUST_0179,Joanne,Ray,Female,30,Luxembourg,Lake Jonathanmouth,calvindavis@example.com,693-391-1390x626,Corporate,40307,2024-07-03,9,1961.51,2025-07-21,4,2,1,0.95,Yes
+CUST_0180,Alyssa,Smith,Male,64,Thailand,Jackton,gibbssara@example.com,997.284.1840x70820,Corporate,122518,2021-01-27,13,1317.72,2025-08-15,5,1,1,0.08,No
+CUST_0181,Cassandra,Vega,Male,42,Palestinian Territory,North Shelly,summerwilliams@example.org,8666836254,Retail,39611,2024-10-25,12,1496.94,2025-08-12,3,3,2,0.1,No
+CUST_0182,Michael,Martin,Male,26,Russian Federation,Port Michael,williamlopez@example.com,898.766.6070x151,Corporate,63791,2025-08-15,14,111.45,2025-02-01,4,4,1,0.49,No
+CUST_0183,Mitchell,Cox,Female,21,Bhutan,Michaelton,whitealexander@example.net,233-679-6717x2071,Retail,31950,2021-06-23,12,287.13,2024-12-10,3,2,2,0.82,No
+CUST_0184,Brandi,Chang,Female,31,Belgium,Port Nicoleberg,kevin40@example.com,001-459-314-4294x9696,SME,96240,2022-02-26,6,1284.52,2025-01-28,5,1,1,0.77,No
+CUST_0185,Robert,Evans,Male,54,Greenland,Mariafurt,greenjonathan@example.com,+1-803-341-3177x4589,Corporate,128647,2022-10-07,10,1803.1,2025-06-17,3,2,2,0.94,Yes
+CUST_0186,Gerald,Ruiz,Female,51,Thailand,Riveraside,ortizantonio@example.com,599.957.1910,Corporate,97403,2023-02-11,15,1266.3,2025-04-16,4,3,0,0.14,No
+CUST_0187,Stephanie,Shannon,Female,28,Philippines,East Jenniferfort,tyler14@example.org,001-586-478-6317x8754,Retail,22745,2023-02-24,11,311.35,2025-09-30,4,3,1,0.38,No
+CUST_0188,Joyce,Mclean,Female,58,Jersey,West Laura,tammyvazquez@example.com,531.734.0613,Retail,75243,2020-11-24,9,275.73,2025-05-14,3,1,1,0.28,No
+CUST_0189,Jessica,Murray,Female,20,Estonia,Lake Kristina,erinmiller@example.org,+1-454-735-0850x9901,SME,23866,2025-02-20,15,1696.16,2024-11-15,4,2,2,0.86,No
+CUST_0190,Penny,Fisher,Male,45,Cayman Islands,Gouldshire,mcdonaldmelissa@example.net,001-527-909-7851x84768,Retail,52245,2021-04-03,12,321.64,2024-10-11,4,3,3,0.49,No
+CUST_0191,Rachel,Vasquez,Male,46,Burundi,South Davidville,spencertrevor@example.net,9033132509,Retail,64724,2024-03-06,10,1064.45,2024-11-10,3,1,1,0.03,No
+CUST_0192,Karen,Romero,Female,26,Latvia,South Faithland,usharp@example.com,726-403-5463,Retail,148681,2021-12-22,11,122.37,2025-07-22,5,2,0,0.71,No
+CUST_0193,Daniel,Lopez,Female,20,Saint Martin,New Scottborough,charlesnavarro@example.net,001-353-878-1830,Enterprise,91354,2022-10-09,11,207.31,2025-02-11,4,3,1,0.39,No
+CUST_0194,Danielle,Terrell,Female,42,Guinea,South Douglasstad,jamestanner@example.com,879-819-8440x938,SME,71374,2022-04-28,7,1361.08,2025-02-11,4,0,0,0.53,No
+CUST_0195,Stacey,Hubbard,Male,51,Sweden,Port Kellystad,kiddsophia@example.org,403.697.0681x478,Retail,134397,2021-05-29,10,1393.9,2024-10-22,4,2,2,0.89,No
+CUST_0196,Sonya,Morris,Male,29,French Polynesia,Port Sonya,annjackson@example.net,+1-394-585-0822x4457,Retail,137480,2024-07-01,8,715.87,2025-01-11,4,2,2,0.26,No
+CUST_0197,Sarah,Mejia,Female,59,French Polynesia,Lake Stephaniemouth,julie03@example.org,001-234-827-3331x36466,Retail,144577,2022-01-29,13,470.44,2025-07-26,3,2,2,0.24,No
+CUST_0198,Shawn,Cox,Female,26,Tajikistan,South Jessicaville,lisa10@example.org,(773)401-8556x139,SME,50116,2023-07-08,12,1636.74,2025-02-20,5,1,1,0.26,No
+CUST_0199,Caitlin,Booth,Female,32,United States Virgin Islands,South Frederickside,fpatrick@example.net,+1-410-971-7428,Corporate,101029,2023-03-23,13,473.35,2025-09-18,5,3,2,0.34,No
+CUST_0200,Kayla,Gonzalez,Female,57,Gibraltar,New Susan,aprilmay@example.org,5374721241,Retail,113574,2025-08-25,9,1106.95,2025-03-12,1,3,3,0.11,No
+CUST_0201,Kelly,Stein,Female,42,Barbados,Joseside,summersdiane@example.net,001-336-937-1343x51556,Retail,40447,2021-12-23,10,1938.01,2024-12-28,4,2,2,0.7,No
+CUST_0202,John,Marsh,Male,22,United Arab Emirates,Candiceberg,johngarcia@example.com,612.265.1506x3636,Retail,50431,2020-11-19,13,338.31,2024-10-22,4,0,0,0.21,No
+CUST_0203,Tamara,Day,Male,28,Mozambique,Coxshire,colleenaguilar@example.net,336.338.3297,Corporate,37908,2025-10-05,11,1884.71,2025-08-03,1,1,1,0.93,No
+CUST_0204,Lisa,Young,Female,51,Heard Island and McDonald Islands,Brandonside,vanessa78@example.com,550-566-1285x4785,SME,49336,2020-11-01,12,406.64,2025-02-28,5,3,1,0.22,No
+CUST_0205,Angela,Woodard,Female,41,Chile,North Susan,jonesrebecca@example.org,353.774.3986x74004,Retail,60992,2024-04-17,13,1156.51,2024-11-25,2,4,0,0.26,No
+CUST_0206,Brittany,Nash,Male,32,Tanzania,South Lisa,ktorres@example.com,847.788.9416x18351,Retail,75350,2021-05-31,11,785.17,2025-02-17,2,0,0,0.3,No
+CUST_0207,Katherine,Johnson,Male,55,Andorra,West Sherryville,denise50@example.net,(538)202-8264x24534,Retail,89561,2024-08-11,13,1931.61,2024-11-11,5,0,0,0.77,Yes
+CUST_0208,Adam,Cole,Female,25,Botswana,West Theresa,conniebrown@example.com,+1-932-285-8938x39767,Enterprise,137254,2025-03-10,8,583.41,2025-06-23,4,2,1,0.43,No
+CUST_0209,Keith,Chavez,Male,22,Guam,East Brian,youngrebecca@example.org,382.422.9437x6283,Retail,71955,2024-06-29,12,829.33,2024-12-12,2,1,1,0.82,No
+CUST_0210,Joshua,Cohen,Male,65,Eritrea,New Gary,qsanchez@example.com,556-413-1185x820,SME,81240,2024-07-06,7,1966.58,2025-06-15,3,2,2,0.78,No
+CUST_0211,Jason,Chambers,Female,43,Pitcairn Islands,Masontown,natasha50@example.org,246-447-2616x5137,Corporate,40093,2023-11-23,11,1096.12,2025-02-08,3,1,1,0.93,No
+CUST_0212,Samuel,Mcconnell,Female,35,French Polynesia,Henryville,nancy19@example.org,590-615-6604,Retail,26155,2021-03-20,7,1030.13,2025-07-03,1,0,0,0.76,No
+CUST_0213,Tyler,Johnson,Female,23,Korea,East Joan,lbrown@example.net,(506)993-7765,Retail,66607,2023-03-16,16,552.67,2025-03-13,5,0,0,0.05,No
+CUST_0214,Craig,Mendoza,Male,54,Luxembourg,East Kimberlychester,ronaldmurray@example.com,280-329-0929x340,Retail,53487,2023-08-31,8,1417.66,2025-07-22,5,1,1,0.84,No
+CUST_0215,Anne,Doyle,Female,65,South Georgia and the South Sandwich Islands,North Jamie,stephanie80@example.net,553.553.2262x8703,Corporate,133194,2023-07-15,9,78.03,2025-03-08,2,1,1,0.94,No
+CUST_0216,William,Johnson,Male,30,Algeria,Matthewmouth,tammy72@example.org,(262)983-4166x0205,SME,75668,2023-11-03,8,146.55,2025-08-17,4,4,1,0.99,No
+CUST_0217,Kyle,Chen,Male,45,Armenia,North Kristiton,douglaspratt@example.net,001-461-529-1867,Corporate,40963,2024-08-06,8,1218.75,2025-03-04,5,0,0,0.13,Yes
+CUST_0218,Jennifer,Flores,Female,22,Anguilla,Parkmouth,jeffrey24@example.net,(606)481-9275,Corporate,70124,2025-01-21,8,716.27,2024-12-25,2,1,1,0.61,No
+CUST_0219,Preston,Whitehead,Female,30,Belarus,Lewisshire,tbrown@example.net,+1-209-386-0654x2876,Retail,72870,2025-03-20,11,1908.97,2024-11-16,2,3,1,0.2,No
+CUST_0220,Isabella,Adams,Female,34,Dominican Republic,Westburgh,kennedychristian@example.net,487-301-2383,Enterprise,76547,2022-11-15,11,1811.22,2024-12-29,5,7,1,0.26,No
+CUST_0221,Eric,Beck,Female,67,Heard Island and McDonald Islands,South Jacqueline,ericrivera@example.net,001-747-317-3716,SME,84110,2021-03-24,8,1441.73,2025-10-06,2,0,0,0.75,No
+CUST_0222,Robert,Conley,Female,57,Central African Republic,Larsonborough,laura41@example.org,8147913243,Retail,73554,2022-08-18,11,1645.38,2025-01-20,1,5,3,0.98,No
+CUST_0223,David,Mitchell,Male,62,Saint Barthelemy,North Elizabethton,matthewwolfe@example.net,(386)373-6672,Enterprise,40936,2023-03-06,8,1351.3,2024-10-19,1,1,1,0.59,No
+CUST_0224,David,Costa,Male,49,Finland,Port Ashleyland,kylekhan@example.com,+1-655-342-5961x351,Corporate,136895,2023-03-07,12,294.89,2025-03-10,5,1,1,0.85,Yes
+CUST_0225,Suzanne,Watson,Male,46,Burundi,East Ricky,zmyers@example.com,+1-332-965-6608x2241,Corporate,24426,2025-08-13,8,1542.81,2025-09-22,4,3,1,0.01,No
+CUST_0226,Brian,Dougherty,Male,68,Mali,Davisville,leah99@example.org,(720)565-6231x7487,SME,108839,2024-01-12,13,459.87,2025-04-26,1,2,2,0.04,No
+CUST_0227,Michael,Miller,Other,20,Bolivia,Lake Laura,bennettchristie@example.org,(806)629-6986x322,SME,130816,2024-08-20,6,680.71,2024-11-25,1,0,0,0.6,No
+CUST_0228,Lisa,Delacruz,Male,57,Somalia,East Mary,robert62@example.org,(633)869-6723x05074,Corporate,47606,2025-01-01,14,1647.51,2024-10-11,5,1,1,0.39,No
+CUST_0229,Rebecca,Parrish,Female,51,Syrian Arab Republic,West Susanmouth,laura19@example.com,+1-447-552-6062x88024,Retail,67832,2022-07-02,9,1096.22,2025-02-11,3,1,0,0.89,Yes
+CUST_0230,Christopher,Guerrero,Female,57,North Macedonia,Port Stephanieland,sarah83@example.org,(895)745-7996,Retail,48151,2020-12-25,6,1726.88,2025-01-25,2,0,0,0.3,No
+CUST_0231,Robin,Scott,Female,44,French Guiana,South David,jasmine80@example.com,309-635-8053x776,Enterprise,99303,2025-07-17,12,465.42,2025-07-29,1,0,0,0.43,Yes
+CUST_0232,Betty,Clark,Female,30,Iran,West Williamburgh,carrillotara@example.org,(318)787-2406x0004,Retail,31308,2024-06-12,8,1235.17,2024-10-14,3,3,0,0.53,No
+CUST_0233,Robert,Bailey,Female,62,Mongolia,Martinstad,lynn93@example.com,001-947-770-0499x9567,Retail,129781,2024-03-08,15,213.39,2025-04-22,4,3,0,0.27,No
+CUST_0234,Christina,Gill,Female,50,Myanmar,Santanashire,sherri66@example.com,930.272.1375x0776,Corporate,82522,2023-11-02,15,1303.97,2024-10-30,3,4,2,0.91,Yes
+CUST_0235,Katelyn,Ho,Male,23,Iran,West Kaitlyn,charles40@example.net,+1-461-949-4199x44990,Corporate,143523,2020-11-09,8,1536.94,2025-08-16,5,2,1,0.46,Yes
+CUST_0236,Daniel,Castillo,Female,41,North Macedonia,Ronaldhaven,cunninghamjermaine@example.net,+1-528-891-7095x11521,Corporate,65671,2021-06-26,8,1190.62,2025-04-06,4,1,1,0.42,Yes
+CUST_0237,Joshua,Harris,Male,36,South Georgia and the South Sandwich Islands,South Bryan,ambergreen@example.org,986-478-8585x0630,Enterprise,110306,2022-07-04,16,569.15,2025-05-20,4,1,1,0.85,No
+CUST_0238,Kristina,Kim,Male,33,Holy See (Vatican City State),Danielside,nicole14@example.net,4718272194,Retail,114108,2024-11-21,10,111.12,2025-10-03,3,3,2,0.31,No
+CUST_0239,Alexandra,Miller,Female,57,Slovenia,Erinside,forbeselizabeth@example.org,2106403129,Retail,126984,2021-12-03,7,282.93,2025-02-11,5,2,2,0.82,No
+CUST_0240,Nicole,Schultz,Male,45,Tunisia,Delgadoburgh,colinshelton@example.org,705-524-8695,Retail,22204,2022-05-10,14,1263.49,2025-01-31,1,2,2,0.12,No
+CUST_0241,Bradley,Gonzalez,Female,50,Egypt,Lake Craigland,erodriguez@example.net,001-556-519-9737,SME,112769,2022-04-19,13,1872.12,2025-01-03,3,2,1,0.18,No
+CUST_0242,Amanda,Cooper,Female,65,Jamaica,Whitechester,briley@example.com,310.948.5560x29106,Corporate,107265,2022-03-22,8,452.74,2025-05-26,1,2,2,0.95,No
+CUST_0243,Amanda,Parker,Female,58,Fiji,Kennethshire,allenruth@example.com,(382)390-1903,Retail,51131,2023-03-13,9,1483.3,2025-07-25,3,0,0,0.84,No
+CUST_0244,William,Ramos,Male,30,United States of America,Dawnland,cwright@example.org,001-283-353-3275x315,SME,72428,2021-12-21,16,1739.58,2025-04-27,1,1,1,0.39,No
+CUST_0245,Angela,Ortiz,Male,60,Poland,Chadchester,stephanie90@example.net,+1-875-431-5764x314,SME,53870,2024-01-18,6,1065.72,2025-07-05,3,1,1,0.64,No
+CUST_0246,Penny,Nunez,Female,62,Czech Republic,Rodneymouth,staylor@example.org,001-451-956-3799x5985,SME,123547,2020-12-08,17,1355.07,2025-05-02,4,0,0,0.94,No
+CUST_0247,Sandra,Jones,Male,42,Bahamas,Emilyland,aarondowns@example.net,908-990-9774,Enterprise,124918,2024-02-21,12,1639.28,2025-01-31,2,3,0,0.21,No
+CUST_0248,Christine,Perez,Other,59,San Marino,North Craig,nicolestokes@example.net,001-242-826-5754,Retail,69067,2022-06-04,11,558.32,2024-11-26,4,4,3,0.06,No
+CUST_0249,Elizabeth,Weber,Other,53,Falkland Islands (Malvinas),Port Phillipville,jenniferharper@example.org,+1-741-374-6912,SME,78585,2023-01-04,9,628.95,2025-09-22,1,1,1,0.54,No
+CUST_0250,Tammy,Schneider,Female,44,Monaco,Jacksonfurt,marie47@example.org,+1-325-463-0286x0353,Corporate,127011,2025-04-11,7,51.22,2025-09-12,5,5,3,0.14,No
+CUST_0251,Christopher,Sellers,Male,55,Sudan,North Jamesfort,adam24@example.com,(424)359-1295x596,SME,132217,2021-08-12,11,1928.03,2025-06-09,4,0,0,0.19,No
+CUST_0252,George,Richardson,Male,24,Pitcairn Islands,Lindsayview,iwyatt@example.net,(232)664-1632,SME,41607,2021-01-31,14,1839.21,2024-11-11,2,2,2,0.89,No
+CUST_0253,Brian,Huffman,Female,22,Kenya,North Stephenchester,leroywatkins@example.com,(393)896-4077x37416,SME,44968,2021-08-21,12,1540.91,2024-10-26,1,0,0,0.01,No
+CUST_0254,James,Moore,Male,60,Grenada,West Kathleenmouth,scott48@example.org,250-542-8413,Corporate,118934,2024-07-05,5,204.2,2025-07-09,4,7,1,0.82,No
+CUST_0255,Patrick,Lopez,Male,62,Trinidad and Tobago,Franklinport,chelsey10@example.com,6459607829,Retail,31908,2021-10-30,13,922.63,2024-11-26,3,4,2,0.52,No
+CUST_0256,Tiffany,Henry,Female,68,Poland,Parkbury,gary20@example.com,237-736-0616,Corporate,46423,2024-10-16,4,248.69,2024-11-06,5,1,0,0.56,No
+CUST_0257,Jennifer,Thomas,Female,48,Kuwait,Clarkmouth,jeremy86@example.com,9464171689,Enterprise,129151,2021-06-02,5,81.04,2025-08-06,1,0,0,0.67,No
+CUST_0258,Karl,Porter,Female,40,Greenland,Lake Travis,monicamartin@example.net,+1-561-590-7307x864,Enterprise,94707,2024-02-09,11,1251.56,2024-11-28,4,1,1,0.43,No
+CUST_0259,Nicholas,Robertson,Female,59,United States of America,Port Justin,kathy81@example.org,001-795-271-9903x5093,Retail,98257,2021-03-17,9,1923.62,2025-02-01,1,2,1,0.12,No
+CUST_0260,Jennifer,Lowe,Male,27,Niger,North Josephport,rschultz@example.org,001-966-205-3299x8544,Retail,146282,2025-07-02,7,1810.59,2024-10-21,3,4,2,0.1,No
+CUST_0261,Ariana,Lee,Female,49,Guatemala,Desireehaven,bdillon@example.net,703.471.2089x0566,Retail,81215,2021-12-16,5,1408.67,2025-06-09,2,1,1,0.75,No
+CUST_0262,Alexa,Day,Other,60,Greece,North Carly,katherineyoung@example.net,001-880-280-4712x671,SME,75835,2025-02-09,10,238.45,2024-12-03,4,0,0,0.22,No
+CUST_0263,Kelly,Romero,Male,47,Suriname,Loriborough,franklineric@example.org,(659)631-6514,SME,69429,2025-06-23,6,584.62,2024-10-27,1,2,0,0.03,No
+CUST_0264,Elizabeth,Brown,Female,56,Niue,Rogersburgh,amandaharris@example.net,484-496-8448x82202,Retail,102152,2024-07-18,13,674.11,2025-03-18,1,1,1,0.98,No
+CUST_0265,Joseph,Lopez,Female,48,Kazakhstan,Clarkland,mnichols@example.com,204-479-7271x0217,Corporate,128048,2022-02-14,9,1538.14,2025-03-16,1,2,2,0.98,No
+CUST_0266,Valerie,Gordon,Female,35,Peru,Jenniferville,lauraharrison@example.net,352-854-8371,SME,58458,2022-05-08,11,1614.39,2025-06-22,2,0,0,0.38,No
+CUST_0267,Jonathan,Simpson,Female,53,Turkey,New Miguel,jonathan50@example.com,(911)588-0908x4336,SME,66169,2024-03-09,6,800.96,2024-10-27,1,0,0,0.03,No
+CUST_0268,Kaitlyn,Lang,Female,19,Lao People's Democratic Republic,Rodriguezborough,donald90@example.org,358-499-4370x4813,Corporate,27659,2022-07-10,8,864.87,2025-06-23,5,0,0,0.73,No
+CUST_0269,Tommy,King,Male,31,Greenland,New Stevenfurt,daguilar@example.com,219-427-8503,Corporate,80614,2024-12-24,4,136.79,2024-11-27,5,1,1,0.83,No
+CUST_0270,Jasmine,Swanson,Male,30,Maldives,North Loganmouth,ysmith@example.org,+1-285-925-9223x841,Corporate,128905,2022-02-10,8,613.82,2025-07-29,1,2,1,0.13,No
+CUST_0271,Peggy,Richards,Female,46,Brazil,Kyleborough,gregory76@example.com,(286)610-0350x5643,Retail,97240,2021-02-18,11,930.01,2024-10-21,5,4,2,0.14,No
+CUST_0272,Michael,Smith,Female,29,Uruguay,Danielfurt,reneecruz@example.com,+1-553-956-2568x19917,Corporate,52793,2025-05-25,14,278.12,2024-12-25,4,3,1,0.82,No
+CUST_0273,Allen,Garza,Female,56,Taiwan,Butlerbury,pwolfe@example.com,611-371-9148,Corporate,133688,2021-05-25,7,933.87,2025-04-09,5,4,4,0.92,Yes
+CUST_0274,Isaac,Wilson,Female,19,Latvia,North Janet,smithricky@example.org,(812)804-4792,SME,66473,2021-10-28,13,1713.69,2025-09-11,1,5,2,0.79,No
+CUST_0275,Timothy,Cox,Female,49,Botswana,Lake Sarahbury,michael39@example.org,313.469.7008,Corporate,116762,2024-03-12,12,1183.58,2025-06-04,3,0,0,0.2,No
+CUST_0276,Shawn,Walton,Female,30,Russian Federation,North Nicole,reneelee@example.net,878.552.1681x92354,SME,109388,2021-09-26,7,203.91,2024-12-26,4,3,2,0.41,No
+CUST_0277,Sherry,Ramirez,Female,63,Romania,South Adriana,tramirez@example.org,3569359935,Retail,117618,2021-10-29,16,423.76,2024-12-05,2,2,2,0.6,No
+CUST_0278,Amy,Fields,Female,44,Cameroon,North Jody,olsonshawn@example.org,729.396.6620x3187,Corporate,108330,2024-09-01,8,975.36,2024-11-01,1,1,1,0.16,No
+CUST_0279,Ryan,Schneider,Female,66,Tajikistan,Crosbystad,nicholas05@example.com,(932)997-7981,Retail,126956,2024-05-09,9,754.9,2025-07-24,2,1,0,0.21,No
+CUST_0280,Nichole,Osborne,Female,58,Sudan,Goldenberg,alarson@example.com,001-803-506-0191x94084,Retail,138452,2024-10-31,10,749.52,2025-03-22,3,1,1,0.28,No
+CUST_0281,Carmen,Williams,Female,34,Christmas Island,Lake Donnaberg,qsmith@example.com,+1-595-901-3603x1213,SME,75751,2025-09-21,8,1082.07,2024-11-08,2,4,1,0.51,No
+CUST_0282,Sandra,Wilson,Male,57,Sao Tome and Principe,Bridgetfurt,cummingsjennifer@example.net,001-961-305-9842x47685,Enterprise,146311,2025-02-04,8,1189.57,2025-06-29,1,5,3,0.51,No
+CUST_0283,Holly,Mitchell,Male,48,Tajikistan,North Justin,sandrawright@example.net,714.806.8910x0546,Retail,98915,2024-01-24,6,1603.88,2024-10-22,1,0,0,0.81,No
+CUST_0284,Amanda,Carrillo,Male,51,Dominica,Gabrielaborough,murphyanthony@example.com,001-422-240-9293x4731,Corporate,74254,2024-01-24,10,714.88,2025-02-04,3,2,1,0.75,No
+CUST_0285,Debra,Sullivan,Female,41,Dominica,West Helenland,david49@example.org,+1-845-791-6705,SME,27006,2024-01-09,5,1620.66,2025-10-04,1,2,0,0.91,No
+CUST_0286,Shannon,Nelson,Male,62,Italy,Stevenfurt,gmoore@example.com,001-930-753-6671x901,Retail,138171,2025-06-12,19,710.29,2025-06-05,3,5,1,0.83,Yes
+CUST_0287,Rebekah,Watts,Male,52,Nigeria,Ryanside,susan85@example.net,+1-386-661-7967x4693,Corporate,136682,2021-05-25,8,158.09,2025-02-15,3,0,0,0.25,No
+CUST_0288,Vincent,Gallagher,Female,65,Micronesia,Guzmanview,singletonscott@example.net,(524)355-4815,SME,94218,2025-04-19,9,1130.67,2025-02-15,1,0,0,0.33,No
+CUST_0289,Ricardo,Haas,Male,23,Norway,West Angelica,ethan66@example.org,235.287.3227x066,Corporate,85344,2023-03-04,8,1196.41,2025-05-07,5,4,1,0.5,No
+CUST_0290,John,Larson,Female,36,Gabon,Robertsborough,gjohnson@example.net,001-249-323-1018x0332,Retail,53840,2023-01-10,8,1872.35,2025-09-02,3,3,2,0.01,No
+CUST_0291,Joseph,Hill,Male,47,Germany,New Jennifermouth,ppoole@example.org,798.946.2543x03418,Retail,52430,2025-09-21,13,1465.82,2024-11-19,1,2,2,0.9,No
+CUST_0292,Andrea,Compton,Male,24,Russian Federation,Jamesberg,johnwells@example.org,6623562777,SME,43091,2021-11-14,9,1839.66,2025-02-07,5,4,3,0.04,No
+CUST_0293,Madison,Boyer,Female,27,Guernsey,North Dylan,acostajanet@example.net,+1-870-510-5939x62586,Corporate,146053,2021-02-12,11,1821.28,2025-05-17,3,1,1,0.32,Yes
+CUST_0294,Karen,Jones,Male,58,Micronesia,North Amandaport,murrayemily@example.net,745-298-0297,Retail,52983,2020-11-17,16,1228.92,2025-03-11,5,1,1,0.57,No
+CUST_0295,Heather,Hoover,Male,49,Grenada,Lake Robert,hjuarez@example.net,223.486.2314x6087,SME,43989,2025-03-17,10,1079.14,2025-04-28,4,1,1,0.52,No
+CUST_0296,Nicole,Perez,Female,51,Pitcairn Islands,Port Scott,seanchristensen@example.com,+1-784-346-0500x13195,Retail,95451,2023-05-12,7,1137.01,2025-05-25,4,1,1,0.65,Yes
+CUST_0297,Kevin,Clark,Female,45,Colombia,Littlemouth,nfrank@example.org,996-532-3468,SME,128088,2022-04-28,8,1957.75,2024-11-19,5,1,1,0.53,No
+CUST_0298,Sarah,Tucker,Male,32,Mexico,East Alejandro,courtney01@example.org,(524)893-0115x310,Retail,38990,2024-10-19,11,1557.68,2025-03-06,3,3,2,0.23,Yes
+CUST_0299,Brooke,Wilson,Female,47,Spain,Solisstad,jenniferallen@example.org,+1-811-337-8504,Enterprise,110270,2023-12-13,12,257.22,2025-05-18,1,1,1,0.2,No
+CUST_0300,Carrie,Valencia,Male,54,Solomon Islands,Maryton,eadams@example.net,+1-802-694-1612x62554,Retail,100360,2023-08-03,8,1567.94,2025-01-23,2,2,2,0.91,No
+CUST_0301,Kevin,Lee,Male,46,Portugal,Brandiside,ryanbeck@example.com,505.565.3904x074,Retail,139469,2021-09-17,13,382.55,2025-03-26,1,2,2,0.26,Yes
+CUST_0302,Erin,Fleming,Female,39,Croatia,North Gary,jennifercarter@example.com,001-873-311-4567x0147,Retail,56081,2022-10-24,6,922.33,2025-05-18,2,1,1,0.28,No
+CUST_0303,John,Zhang,Female,21,Central African Republic,West Robert,mlong@example.net,960-597-4988x947,Retail,31033,2022-08-18,11,460.4,2025-08-22,2,6,2,0.41,No
+CUST_0304,Kenneth,Miller,Female,37,Trinidad and Tobago,South Carolynport,woodjoanna@example.org,588-993-2975x870,SME,128272,2025-06-01,7,1394.69,2025-06-18,3,2,0,0.14,No
+CUST_0305,Kathryn,Barajas,Female,49,Cyprus,New Michaelview,jacobsjoel@example.com,3466699344,Enterprise,36241,2024-04-05,9,1760.75,2024-12-29,5,5,4,0.51,No
+CUST_0306,Christina,Pearson,Other,53,British Virgin Islands,Kellyberg,ericbryant@example.org,290-880-3528x472,Retail,144932,2025-03-30,7,616.21,2025-08-12,1,3,1,0.67,Yes
+CUST_0307,Gene,Johnson,Female,67,Heard Island and McDonald Islands,Port Robert,sherry95@example.net,850.277.5708x793,Corporate,142451,2021-09-02,15,209.92,2025-05-14,5,0,0,0.79,No
+CUST_0308,Lisa,Henry,Male,21,New Caledonia,Waltonmouth,andreahudson@example.org,(401)205-8800x0323,SME,25939,2024-03-23,13,632.06,2025-07-24,4,0,0,0.71,No
+CUST_0309,Amanda,Carpenter,Female,44,Maldives,Port Elizabeth,jeffrey60@example.net,001-431-400-1664,SME,133000,2021-08-30,11,1361.11,2024-12-11,3,0,0,0.15,Yes
+CUST_0310,Matthew,Acosta,Male,34,British Virgin Islands,South Ashleybury,hermanwalter@example.net,515-633-2019x405,Corporate,67562,2023-08-11,12,691.08,2025-01-15,3,5,2,0.46,No
+CUST_0311,Dan,Nixon,Male,29,Gibraltar,Jacobsstad,scotthenderson@example.com,449-830-3740,Retail,55063,2022-11-13,13,592.32,2024-12-24,4,2,2,0.04,No
+CUST_0312,Suzanne,Hartman,Male,39,Serbia,South Veronica,greeves@example.net,786.731.6838x23756,Corporate,140373,2025-06-24,6,409.65,2025-02-20,1,1,1,0.02,No
+CUST_0313,Laura,Fletcher,Male,34,Iceland,Karenville,mcconnellcarlos@example.org,3415625722,Corporate,120000,2025-07-13,4,1020.16,2025-07-06,4,0,0,0.44,No
+CUST_0314,Austin,Lowe,Other,27,Denmark,Mendozaville,williamscharles@example.net,+1-875-413-3968x277,Retail,96721,2022-02-15,8,588.1,2024-10-31,1,1,1,0.25,No
+CUST_0315,Jeffrey,Martin,Female,18,Lesotho,Sanchezberg,terrance42@example.org,001-783-982-1641x61531,Corporate,47045,2025-07-09,8,1475.47,2025-08-15,2,0,0,0.68,Yes
+CUST_0316,Michael,Campbell,Female,39,Bhutan,Jesseland,elliskelsey@example.net,841-699-1497,Retail,136634,2023-08-26,7,199.41,2025-05-17,3,1,1,0.72,No
+CUST_0317,Tiffany,Martinez,Male,43,Tunisia,South Brandon,xgeorge@example.org,515-823-5109x7445,SME,64769,2025-05-03,13,1344.86,2025-03-20,1,5,2,0.9,No
+CUST_0318,Dawn,Hernandez,Male,35,Mayotte,Pinedaville,suzanne59@example.org,(803)837-6569,Retail,67118,2021-04-30,7,513.24,2025-09-06,5,1,1,0.76,Yes
+CUST_0319,Jennifer,Williams,Male,67,Samoa,Lake Donaldhaven,zsalazar@example.net,960.776.6400x556,Corporate,104703,2022-03-19,9,1004.09,2025-02-22,5,0,0,0.05,No
+CUST_0320,Lonnie,Yang,Male,31,South Georgia and the South Sandwich Islands,Andrewsstad,richardchad@example.net,252-753-5112x624,Corporate,121948,2021-07-22,10,607.88,2024-10-12,3,5,0,0.37,No
+CUST_0321,Kelsey,Noble,Female,64,Philippines,New Saraland,johnsonveronica@example.com,(340)682-7959x808,Corporate,41625,2021-11-18,13,1459.4,2025-04-03,4,1,1,0.27,No
+CUST_0322,Charles,Ward,Female,46,Lesotho,Diazville,snash@example.com,+1-289-573-8907,Retail,124724,2020-12-14,10,1893.35,2025-08-30,4,4,4,0.39,No
+CUST_0323,Kayla,Gutierrez,Female,29,Madagascar,West Scotthaven,stephenhines@example.org,775.214.4317x0878,Corporate,148557,2024-11-11,5,1838.3,2025-06-22,1,1,1,0.16,No
+CUST_0324,Julie,Hunter,Male,53,Slovenia,North Melaniefort,ibarrachristian@example.org,(326)953-4428x30748,Corporate,47076,2021-04-18,6,1187.68,2025-01-28,4,1,1,0.1,Yes
+CUST_0325,Sarah,Butler,Female,52,Saint Lucia,Hunterview,joshua50@example.net,(243)263-5148x337,Corporate,142245,2025-08-24,8,952.09,2025-01-14,3,1,1,0.52,No
+CUST_0326,Holly,Stewart,Female,69,French Polynesia,Donnaview,tammy81@example.net,6612717690,Corporate,84805,2024-01-02,5,1645.69,2025-09-14,1,1,1,0.72,Yes
+CUST_0327,Jason,Miller,Female,29,Yemen,Rebeccaborough,shortbrian@example.net,+1-827-957-7422x7119,Corporate,64605,2024-12-24,7,1382.49,2025-05-30,2,3,2,0.7,No
+CUST_0328,Christopher,Rosales,Female,24,Chad,Nguyenton,andre49@example.org,830-809-7343,SME,104565,2025-03-09,11,407.95,2024-12-31,4,3,1,0.45,Yes
+CUST_0329,Kelly,Espinoza,Male,46,Cayman Islands,East Meganview,wardshannon@example.org,788-411-3764x75943,Retail,108509,2025-01-10,8,1650.79,2024-11-26,4,2,2,0.52,No
+CUST_0330,Jesse,Hughes,Male,28,Netherlands,Sarahland,owensjoshua@example.net,247.457.4168x964,SME,59121,2022-01-21,10,886.32,2025-01-29,1,2,2,0.52,No
+CUST_0331,Kimberly,Baker,Male,50,Vanuatu,East David,barbarabowman@example.net,753.593.5993,Corporate,85101,2024-02-01,10,418.52,2025-06-27,5,1,1,0.69,No
+CUST_0332,Jonathan,Ward,Female,23,Sudan,Wagnerside,ethompson@example.com,453.915.3226x89613,Retail,51433,2024-02-29,7,599.5,2025-01-01,4,3,0,0.05,No
+CUST_0333,Thomas,Bullock,Male,64,Christmas Island,New Matthew,solismichele@example.org,(786)309-1068x08818,Retail,63309,2020-10-11,15,571.68,2025-09-04,3,1,0,0.71,Yes
+CUST_0334,Lynn,Meyer,Male,32,Peru,West Margaret,greencarl@example.net,001-692-300-8682,Retail,87468,2022-08-30,12,1062.45,2025-08-18,4,4,2,0.58,No
+CUST_0335,Jennifer,Smith,Male,49,Mauritius,Lake Shawn,uolson@example.org,5175841659,SME,64254,2025-09-20,9,507.02,2025-07-14,2,1,1,0.2,No
+CUST_0336,Jorge,Odom,Male,68,Taiwan,New Jasonside,johnny05@example.net,278-208-0413,SME,87293,2020-10-12,11,290.95,2025-02-06,4,3,2,0.05,No
+CUST_0337,Karina,Wagner,Female,28,Uzbekistan,Antonioberg,briggsdylan@example.com,870.355.2312x346,SME,116258,2023-03-12,13,291.2,2025-09-04,5,2,0,0.11,No
+CUST_0338,Brooke,Barrett,Female,40,Tunisia,Beardburgh,carlsonjennifer@example.org,(436)714-2883,Corporate,57853,2022-07-17,8,1187.39,2025-05-07,4,1,0,0.52,No
+CUST_0339,Gabrielle,Wade,Male,43,Micronesia,New Amandachester,farmerdavid@example.net,9926498235,Corporate,58405,2023-10-01,6,1482.78,2025-01-02,1,2,2,0.76,No
+CUST_0340,Anna,Gillespie,Male,51,Czech Republic,Masonberg,kim98@example.com,001-797-262-7329x7479,Retail,86652,2024-07-21,11,676.99,2025-07-17,4,4,0,0.33,No
+CUST_0341,Mark,Smith,Female,63,Guadeloupe,North Michelle,uadams@example.org,(882)925-0115,Retail,63527,2023-12-30,13,117.57,2025-07-01,5,2,0,0.38,No
+CUST_0342,Michael,Anderson,Male,51,Zambia,New Bobbybury,jreyes@example.org,571.490.9666x00384,Corporate,97227,2022-11-07,10,298.09,2025-09-27,1,2,2,0.93,No
+CUST_0343,Christopher,Johnson,Male,46,Saint Martin,Lauriefurt,batesmatthew@example.net,339-248-3183,Retail,20492,2021-11-28,10,1833.65,2025-01-12,3,1,1,0.21,No
+CUST_0344,Curtis,Glenn,Male,21,Comoros,Kimberlyview,kimberlyellis@example.org,+1-477-402-6883x78983,Retail,113418,2020-11-14,10,1012.41,2025-01-23,1,2,2,0.1,No
+CUST_0345,Melissa,Robles,Male,34,Germany,Brownhaven,sarahoconnor@example.org,001-339-375-4926x891,Corporate,28811,2024-11-19,6,934.47,2025-03-19,2,2,1,0.34,No
+CUST_0346,Elizabeth,Moore,Female,52,Denmark,Fitzpatrickland,logandeborah@example.org,222-730-9702x44673,SME,113344,2021-12-26,13,124.2,2025-06-29,1,1,0,0.75,Yes
+CUST_0347,Neil,Roth,Female,30,Netherlands,South Dorisstad,davidfranklin@example.org,001-491-595-6640x97395,Enterprise,44272,2025-04-01,13,1470.84,2025-04-17,3,0,0,0.63,No
+CUST_0348,Michelle,Duarte,Male,58,Azerbaijan,Martinfurt,nmaldonado@example.org,001-241-858-6606,Enterprise,113935,2024-02-20,9,1079.73,2025-07-11,4,0,0,0.42,No
+CUST_0349,Jessica,Burns,Male,56,Fiji,Jasminehaven,stewartpenny@example.net,349-350-4189x34752,Corporate,92010,2024-03-10,12,444.06,2025-05-31,1,1,0,0.96,Yes
+CUST_0350,Daniel,Lam,Female,32,India,North Glenn,tiffany24@example.com,001-377-802-6626x026,Corporate,112492,2021-08-03,11,264.64,2025-07-07,1,3,2,0.73,No
+CUST_0351,Richard,Caldwell,Female,46,Luxembourg,Johnberg,obennett@example.net,775-399-8767,Corporate,67153,2022-06-25,9,797.61,2025-10-08,1,1,1,0.06,No
+CUST_0352,Allen,Paul,Female,46,Papua New Guinea,Port Cheyenneberg,lcole@example.net,(596)368-3752x74097,SME,128042,2023-01-28,6,1682.47,2025-02-26,1,2,0,0.74,No
+CUST_0353,Tracy,Larson,Female,28,Mongolia,North Kristinchester,crystal56@example.org,(733)943-4385,Retail,74110,2023-11-11,11,1737.32,2025-06-19,3,1,1,0.02,No
+CUST_0354,Crystal,Vargas,Male,69,Finland,Lake Kenneth,xgarcia@example.org,541-529-7858x79977,Corporate,33979,2025-01-23,7,1225.55,2025-09-16,5,2,2,0.65,No
+CUST_0355,Michael,Smith,Male,49,Liberia,Schwartzbury,danielcolon@example.org,001-436-471-5226,SME,130059,2023-10-09,10,1468.7,2025-02-16,5,4,1,0.21,No
+CUST_0356,Loretta,Harris,Female,19,Ecuador,Crawfordbury,coxderrick@example.com,9772331692,Retail,128101,2025-08-23,11,274.55,2025-01-13,1,1,1,0.7,No
+CUST_0357,Jesse,Taylor,Male,64,Saudi Arabia,South Michaelland,annettecasey@example.org,(935)624-9104x73387,Corporate,48328,2025-07-17,13,1196.85,2025-04-06,3,1,1,0.31,No
+CUST_0358,Matthew,Crane,Female,31,New Caledonia,West Bobby,yherring@example.net,001-355-828-3996x3398,Corporate,132911,2021-03-04,10,1350.58,2025-09-15,3,1,1,0.87,No
+CUST_0359,Ashley,Hayes,Female,37,Kuwait,Rasmussenchester,chambersderek@example.org,819-210-2780x9652,Retail,32867,2023-02-08,8,441.39,2025-04-02,1,3,3,0.34,No
+CUST_0360,Ellen,Ayala,Female,39,French Polynesia,Salazarshire,yoderleah@example.org,+1-308-953-0066x159,Retail,79234,2024-01-18,18,1766.3,2024-11-12,2,4,1,0.62,No
+CUST_0361,Aaron,Robertson,Male,28,Austria,Brownchester,fmills@example.org,+1-421-608-6611x953,Retail,45851,2025-07-13,16,430.24,2025-07-20,1,6,2,0.29,No
+CUST_0362,Megan,Schmidt,Female,44,Afghanistan,Tateport,susan42@example.com,(839)903-5448x21423,Retail,51279,2024-12-15,9,661.28,2025-01-15,2,1,1,0.92,No
+CUST_0363,Tony,Maynard,Male,20,Cameroon,Chandlertown,qcervantes@example.net,+1-547-675-1242x22641,Retail,137431,2023-11-26,16,1260.09,2025-03-20,1,1,1,0.78,No
+CUST_0364,Steven,Watson,Female,34,Belize,Andersonport,amanda83@example.org,+1-998-673-3528x95240,SME,116063,2024-01-31,12,1294.78,2025-08-30,2,6,0,0.24,No
+CUST_0365,Caitlyn,Allison,Female,61,Panama,Sarafort,cgray@example.org,828.659.0356,Retail,93402,2024-11-28,7,1413.8,2024-12-31,2,2,2,0.95,No
+CUST_0366,Alexis,Garcia,Male,45,Benin,North Ethan,gina62@example.com,760-547-7146,Corporate,35449,2025-03-10,7,268.42,2024-12-30,1,2,2,0.36,No
+CUST_0367,William,Petersen,Other,46,Timor-Leste,Morrisville,mary77@example.net,(204)948-7889,Retail,96221,2021-11-14,12,1706.46,2025-01-21,2,3,3,0.65,No
+CUST_0368,Melissa,Rodgers,Female,38,Jersey,Port Roberthaven,kennethlawson@example.com,001-690-229-0586x252,Enterprise,109080,2025-01-27,11,1089.05,2025-07-01,4,4,3,0.74,No
+CUST_0369,Alison,Mcbride,Male,64,Colombia,New Brianland,coffeycourtney@example.com,(759)322-9358x85189,Retail,25451,2024-12-15,6,969.08,2025-03-26,5,0,0,0.02,No
+CUST_0370,Elizabeth,Gibson,Male,33,Luxembourg,Lake Michelleshire,andrewchaney@example.com,001-488-396-5833x3379,Corporate,107178,2021-04-10,11,1963.14,2025-09-19,3,3,2,0.96,No
+CUST_0371,Jessica,Newton,Male,54,Korea,South Samuelbury,zjohnson@example.com,865-826-6342,SME,61316,2025-08-20,14,1493.74,2025-02-26,2,3,0,0.34,No
+CUST_0372,Marcus,Gomez,Male,37,Algeria,West Tonyborough,jesse34@example.org,836.207.8426,SME,83064,2025-01-20,12,280.11,2025-07-10,2,3,1,0.19,No
+CUST_0373,Corey,Acosta,Male,23,Guernsey,West Brucetown,hallmarc@example.net,+1-807-769-3347x74361,Retail,83761,2024-05-08,11,1525.25,2024-12-24,3,1,0,0.85,No
+CUST_0374,Joseph,Torres,Female,36,Sudan,Hughesburgh,wrightlaura@example.org,919-550-6171x02014,SME,125490,2023-11-28,9,235.74,2025-03-11,2,0,0,0.7,Yes
+CUST_0375,Jessica,Neal,Male,22,Suriname,Rachelton,cclark@example.com,9179261446,Corporate,58870,2025-04-13,11,103.57,2025-04-18,3,0,0,0.09,No
+CUST_0376,Nicholas,Meyers,Male,20,Mongolia,North Mark,tjohnson@example.net,001-388-229-4452x5121,Corporate,116566,2025-04-24,10,837.07,2025-03-07,1,1,1,0.12,No
+CUST_0377,Christina,Morales,Female,18,Czech Republic,Huntstad,shaffertony@example.org,+1-523-240-1228x287,Retail,143749,2022-12-29,6,1987.48,2025-03-26,4,1,1,0.72,No
+CUST_0378,Joshua,Colon,Male,55,Albania,South Russellchester,tracyleon@example.net,3947635975,Retail,143765,2025-06-03,14,391.02,2024-11-12,4,1,1,0.07,No
+CUST_0379,Kevin,Hansen,Female,32,Somalia,South Timothy,haleyeric@example.com,836.489.9454x421,SME,144881,2025-06-04,12,1361.66,2025-02-28,5,1,1,0.92,No
+CUST_0380,Meredith,Burnett,Male,51,Samoa,Christopherbury,ysmith@example.net,(842)700-7206,Corporate,50873,2024-06-04,8,388.12,2024-11-13,2,5,5,0.74,Yes
+CUST_0381,Erin,Collins,Male,52,Rwanda,East Wendyfort,julia51@example.net,7212521437,Corporate,148389,2022-07-11,11,1463.33,2025-05-19,5,3,0,0.34,No
+CUST_0382,Dillon,Chan,Female,66,Moldova,Daltonland,freemankyle@example.net,+1-718-918-2257x324,SME,78627,2023-10-20,7,1035.44,2025-08-25,1,2,2,0.36,No
+CUST_0383,Ronald,Hines,Female,42,Mexico,Port Samanthatown,kristingreen@example.org,657.420.2918x514,SME,86155,2025-05-12,5,1375.94,2025-02-06,4,1,0,0.51,No
+CUST_0384,Michael,Knight,Female,41,Cocos (Keeling) Islands,South Brian,gillespielindsay@example.net,274-621-4440,Retail,119186,2025-09-11,8,445.6,2024-11-15,1,1,1,0.36,No
+CUST_0385,Alexander,Montes,Female,29,Canada,Beckerland,hilljames@example.org,395-234-8218x1196,Corporate,45372,2022-05-12,9,1503.98,2024-11-08,1,1,1,0.78,No
+CUST_0386,Michael,Delacruz,Female,35,Mauritius,Tracyside,hsalas@example.net,001-384-346-7757x478,Retail,23642,2025-09-14,14,1991.46,2025-01-26,2,3,2,0.97,No
+CUST_0387,Kathryn,Stanley,Male,32,Latvia,South Darrenbury,mitchellmartha@example.org,001-590-331-6862x2104,SME,149148,2024-03-16,6,1348.02,2025-08-19,1,6,2,0.58,No
+CUST_0388,Christine,Oconnell,Male,61,Ecuador,Port Heatherchester,leedrew@example.net,001-312-297-4779x039,Corporate,48001,2023-06-05,16,1012.29,2025-01-20,4,2,2,0.45,Yes
+CUST_0389,Mark,Sanchez,Female,33,Ireland,Krystalshire,olandry@example.org,4602151153,Enterprise,54064,2020-12-12,10,1850.19,2025-01-29,5,4,1,0.22,No
+CUST_0390,Shannon,Edwards,Female,44,Afghanistan,West Alyssa,dayrodney@example.net,6198123464,Retail,114826,2024-02-11,8,80.91,2025-04-08,4,0,0,0.65,No
+CUST_0391,Christopher,Nguyen,Other,25,China,East Kerryland,whitevictoria@example.org,(452)273-0210,Retail,34122,2025-07-09,15,1473.35,2025-05-05,2,3,3,0.69,No
+CUST_0392,Bruce,Black,Male,63,Cocos (Keeling) Islands,Duaneborough,davilacrystal@example.org,981.202.9975,Retail,44820,2021-06-25,8,1783.06,2025-03-28,4,6,1,0.69,No
+CUST_0393,Heather,Wells,Male,42,Congo,East Stephanieport,brittanymolina@example.org,+1-666-721-4628x54141,Retail,88431,2024-08-16,6,170.27,2025-08-08,3,2,2,0.03,No
+CUST_0394,Jared,Bailey,Female,34,Ireland,New Kaitlyn,smithjessica@example.org,3587435016,Retail,75745,2021-07-24,10,927.63,2024-11-18,5,3,3,0.9,No
+CUST_0395,Michael,Gutierrez,Male,46,Kenya,New Samanthaside,mendozajared@example.com,742.335.1759x179,Enterprise,70081,2021-03-09,9,449.2,2025-01-31,3,2,2,0.34,No
+CUST_0396,Gregory,Franklin,Female,25,Tuvalu,Lake Matthewmouth,pwatkins@example.com,411-829-2839,Retail,90902,2021-09-04,9,1154.71,2024-12-13,3,1,1,0.74,No
+CUST_0397,Alexander,Brewer,Female,32,Saint Barthelemy,Port Edward,rebecca26@example.org,339.590.6637x429,Retail,28711,2025-04-09,6,1316.61,2025-01-26,2,1,0,0.76,No
+CUST_0398,Marie,Bailey,Male,44,Suriname,Andersonville,pooleelizabeth@example.com,448.811.8551x5635,SME,105132,2024-10-06,9,640.12,2025-06-05,1,2,2,0.65,No
+CUST_0399,Jason,Brown,Female,63,New Zealand,East Maria,michelledavidson@example.com,5982356711,Corporate,38793,2021-05-24,10,946.96,2025-08-27,3,5,2,0.39,No
+CUST_0400,Timothy,Colon,Female,67,Slovenia,Lake Courtneyton,jessicagriffin@example.com,001-410-679-8300x159,SME,28199,2024-01-15,10,594.71,2025-01-16,4,2,2,0.61,No
+CUST_0401,Christopher,Richardson,Male,69,Tunisia,Vincentstad,halllorraine@example.net,001-398-819-5896,Retail,96253,2021-03-07,10,770.31,2025-06-03,1,1,1,0.04,No
+CUST_0402,Mary,Lam,Female,24,Syrian Arab Republic,Port Terriberg,jonesadam@example.com,259.711.1340x26642,Corporate,56191,2025-04-06,11,361.1,2025-05-16,4,2,0,0.76,Yes
+CUST_0403,Veronica,Bowman,Female,20,Switzerland,Port Haroldport,ejohnson@example.net,8635313118,Retail,30211,2021-03-04,9,1776.84,2025-02-16,4,1,1,0.1,No
+CUST_0404,James,Flynn,Female,46,Mongolia,Lamshire,tross@example.net,442-519-8684,Retail,131086,2022-01-22,12,69.52,2025-06-13,1,2,1,0.4,No
+CUST_0405,Bradley,Davis,Male,61,Bermuda,New Shelia,floreskevin@example.org,+1-365-273-6469x9885,Enterprise,83069,2021-03-04,11,1770.7,2025-02-17,1,1,1,0.1,No
+CUST_0406,Tracey,Joseph,Female,41,Philippines,New Jonathan,harrismonica@example.com,864.796.7852,Retail,108896,2022-04-26,13,1164.77,2025-04-12,4,0,0,0.84,No
+CUST_0407,Robin,Gill,Male,20,Faroe Islands,Susanmouth,barrettcole@example.net,+1-672-422-7596x271,Corporate,76746,2024-11-17,13,696.73,2025-04-02,2,2,2,0.55,No
+CUST_0408,Eric,Chavez,Male,37,Trinidad and Tobago,Summerton,hlopez@example.org,(251)297-7421,Corporate,41542,2021-05-07,13,1459.96,2025-01-23,5,2,2,0.69,No
+CUST_0409,Lauren,Medina,Female,63,Isle of Man,Johnport,codymatthews@example.com,(433)715-3023x64526,Retail,51312,2024-10-01,10,1040.12,2025-02-22,5,2,2,0.68,Yes
+CUST_0410,Amanda,Jefferson,Male,32,Anguilla,Perkinshaven,leedanielle@example.net,+1-996-834-3871x3514,SME,65242,2022-12-24,7,1023.26,2025-04-20,2,0,0,0.84,No
+CUST_0411,James,Bray,Male,42,Saint Kitts and Nevis,New Nancy,taylorsandra@example.net,285.253.2788x1539,Retail,121971,2021-01-21,10,264.78,2025-08-25,1,2,0,0.13,No
+CUST_0412,Robert,Boyd,Female,47,Ecuador,Juliestad,podom@example.net,931-822-2294x5531,Corporate,113783,2024-03-07,8,809.56,2025-08-24,4,2,2,0.66,No
+CUST_0413,Kenneth,Diaz,Female,31,Serbia,West Rebeccaview,rodriguezjodi@example.com,(968)431-3999,Enterprise,145681,2023-04-13,8,520.08,2025-03-04,5,2,2,0.58,No
+CUST_0414,Desiree,Hawkins,Female,24,Malawi,North Robertbury,jasonpatterson@example.net,(625)708-3824x01808,Corporate,107893,2023-03-02,11,80.61,2025-07-31,4,0,0,0.03,No
+CUST_0415,Cheryl,Campbell,Female,34,Turks and Caicos Islands,Hesterton,jmorgan@example.net,+1-565-817-6941x721,Enterprise,75388,2021-04-08,4,752.19,2025-03-12,2,1,0,0.2,No
+CUST_0416,Richard,Gonzalez,Male,61,Zambia,Lake Kylestad,patrickbrooks@example.org,(216)255-9848x72259,Retail,126581,2023-03-29,10,225.15,2024-12-26,4,3,2,0.27,Yes
+CUST_0417,David,Dudley,Male,37,Sweden,East Danielside,christopherdavis@example.com,6558774026,Corporate,47691,2023-11-24,9,550.82,2025-02-09,2,1,1,0.07,No
+CUST_0418,Kimberly,Chapman,Male,53,Gibraltar,Evanschester,sandrapowers@example.com,(790)234-8521,Retail,97960,2021-06-23,11,230.41,2025-09-01,1,0,0,0.35,No
+CUST_0419,Christopher,Estrada,Female,26,Mexico,East Albertville,cruiz@example.org,992-285-7939x418,SME,104388,2021-04-12,13,246.84,2025-06-07,2,2,2,0.03,No
+CUST_0420,Barbara,Brooks,Female,55,Netherlands,Susanchester,wallen@example.net,(492)792-7106,Enterprise,42601,2023-01-12,16,438.07,2025-08-25,2,2,2,0.55,Yes
+CUST_0421,Jacob,Robinson,Female,65,Iran,Matthewfurt,shirley70@example.org,734-645-2194,Retail,138307,2025-09-25,12,1999.71,2024-11-08,5,1,1,0.21,No
+CUST_0422,Diana,Parker,Female,39,Antigua and Barbuda,Port Dawn,hmerritt@example.net,528.632.9467x132,Corporate,38020,2022-04-26,9,54.26,2024-11-09,4,2,2,0.29,No
+CUST_0423,Christopher,Wilson,Male,19,British Indian Ocean Territory (Chagos Archipelago),Amandaville,deanna96@example.net,(454)567-1789x713,Retail,28155,2025-10-09,13,1295.41,2025-01-07,5,1,1,0.91,Yes
+CUST_0424,Ashley,Juarez,Female,41,Madagascar,West Adam,matthewmiller@example.net,284.768.8391,Corporate,89119,2024-02-27,11,325.43,2024-11-23,3,2,2,0.5,No
+CUST_0425,Jason,Brown,Male,25,Cambodia,North Adamborough,ucunningham@example.com,843-733-0506,Corporate,101051,2023-10-30,13,1845.22,2025-09-29,2,0,0,0.27,Yes
+CUST_0426,Joseph,Brown,Female,28,Azerbaijan,Wangfurt,zsantos@example.org,368.556.9259x685,Enterprise,56777,2023-07-07,4,232.58,2025-08-25,3,2,2,0.6,No
+CUST_0427,Dana,Martinez,Male,30,Australia,Downsport,robin94@example.org,001-288-644-2482,Corporate,39710,2023-09-10,4,1912.37,2025-07-22,5,2,2,0.2,No
+CUST_0428,Lauren,Miller,Female,34,Burundi,Jonesberg,lisa62@example.org,+1-520-890-3448,Retail,128714,2021-07-16,5,1241.31,2025-03-12,4,2,2,0.07,No
+CUST_0429,Brittany,Simon,Male,25,Northern Mariana Islands,Robertchester,jeffreymiller@example.org,497.944.8573,Retail,44532,2023-04-17,16,52.47,2025-04-27,5,2,1,0.02,No
+CUST_0430,James,Munoz,Male,38,Isle of Man,Ramirezstad,shawjames@example.com,460.758.8223,Retail,148727,2024-09-05,11,1793.31,2025-04-27,4,2,1,0.95,No
+CUST_0431,Richard,Anderson,Male,35,Cameroon,New Loretta,christine01@example.net,001-841-686-8557,Retail,38601,2025-03-10,9,1067.34,2025-08-26,4,2,2,0.72,No
+CUST_0432,Richard,Cook,Female,47,Sri Lanka,North Tammy,hortonneil@example.org,001-503-508-4232x664,Retail,83227,2022-06-15,9,562.21,2025-02-22,1,1,1,0.8,No
+CUST_0433,Victor,May,Female,35,Dominican Republic,West Ericfort,arthur83@example.com,001-935-787-8374x340,SME,24967,2023-05-19,6,1546.19,2025-04-15,2,3,0,0.98,No
+CUST_0434,Patrick,Barr,Male,63,Faroe Islands,Cunninghamland,garciajames@example.com,865-241-1424,Corporate,104289,2022-08-23,7,1857.0,2024-12-30,5,3,2,0.93,No
+CUST_0435,Nicholas,Simmons,Male,64,Paraguay,Jasonstad,jthomas@example.org,001-470-341-5805x5176,Corporate,40022,2024-03-25,10,993.2,2024-10-09,4,1,1,0.74,No
+CUST_0436,Julia,Jimenez,Female,48,Uzbekistan,East Michellemouth,jessica64@example.org,516-416-9144x24569,Retail,63463,2020-10-10,14,665.33,2025-01-17,5,0,0,0.69,No
+CUST_0437,Adam,George,Male,55,Niger,Samuelside,wthomas@example.org,(763)382-5846,SME,94671,2025-10-09,6,1588.44,2025-08-13,5,0,0,0.34,Yes
+CUST_0438,Emily,Patel,Female,49,American Samoa,Barkerbury,tammymills@example.com,001-754-224-3912x85065,SME,25722,2021-03-12,12,1379.48,2025-03-21,4,1,1,0.1,Yes
+CUST_0439,Heidi,Perez,Female,28,Guadeloupe,Bowenmouth,ewells@example.net,607-618-9974,Retail,47413,2023-06-17,5,1783.07,2025-02-06,3,2,2,0.57,No
+CUST_0440,Chad,Hernandez,Male,62,Benin,Robinsonfort,jacquelinekim@example.org,553-361-4361,SME,112772,2023-04-05,7,1400.4,2025-09-08,2,2,2,0.58,No
+CUST_0441,Selena,Coleman,Male,42,Reunion,South Toddfort,peggy75@example.org,369-327-8532x9928,Corporate,101050,2024-09-02,10,524.88,2025-10-01,2,4,2,0.95,No
+CUST_0442,Lisa,Hill,Other,50,Djibouti,Port Angela,vanessaallen@example.net,579.240.4581x108,Retail,129432,2021-05-31,11,1866.74,2025-08-24,1,0,0,0.44,No
+CUST_0443,Stephanie,Scott,Male,55,Burundi,West Richard,christopher88@example.com,3738870203,Corporate,122748,2025-07-02,10,254.43,2025-05-09,1,1,1,0.69,No
+CUST_0444,David,Howe,Male,58,Colombia,South Garybury,davidcervantes@example.com,423.371.1531x3833,Corporate,125922,2024-10-04,9,572.49,2025-01-25,1,5,0,0.57,No
+CUST_0445,Philip,Mcmahon,Female,25,Zimbabwe,Reedshire,andrew35@example.org,(819)552-6043,Retail,105867,2022-12-18,10,1064.38,2024-11-01,2,4,1,0.18,Yes
+CUST_0446,Melanie,Brown,Female,28,Morocco,Lake David,ocarroll@example.org,4455092787,Enterprise,103596,2025-06-06,10,1153.2,2025-03-29,3,0,0,0.59,No
+CUST_0447,Meredith,Collins,Other,39,Argentina,Jacksonshire,zcook@example.net,+1-765-261-9052x41377,SME,86732,2021-11-29,7,79.86,2025-07-13,2,2,2,0.54,Yes
+CUST_0448,Michael,Miller,Female,68,Albania,Davidside,moniquelopez@example.com,001-964-578-1266,Corporate,32297,2023-04-21,9,1572.12,2025-03-04,2,2,2,0.49,No
+CUST_0449,Lori,Bullock,Male,41,Antigua and Barbuda,Glennton,kelly09@example.org,6244601160,Corporate,88323,2022-11-19,7,755.13,2025-09-21,2,5,2,0.51,No
+CUST_0450,Travis,Leon,Male,58,Mexico,Lake Elizabethfort,ashleyvang@example.net,+1-792-274-5703x28754,Corporate,43816,2024-03-12,8,842.52,2025-01-22,2,0,0,0.16,No
+CUST_0451,Alexis,Roberts,Female,34,Kazakhstan,Petersonchester,curtisamanda@example.com,2286224244,Corporate,144341,2020-11-25,11,1628.27,2025-06-15,3,0,0,0.46,No
+CUST_0452,Ashley,Lewis,Female,29,Panama,Jessicafort,underwoodjesse@example.net,001-501-272-1904,Corporate,60695,2024-03-06,10,789.6,2024-11-03,1,2,2,0.61,No
+CUST_0453,Jenny,Thompson,Male,63,Saudi Arabia,Pattersonbury,michaelsmith@example.net,573.496.1147x93603,Retail,39702,2022-01-04,15,142.09,2024-11-08,5,1,0,0.49,No
+CUST_0454,Sherry,Phillips,Female,49,Sri Lanka,Stacyberg,jenniferking@example.net,001-979-241-1541x10877,Corporate,45242,2021-02-01,13,394.06,2025-06-22,1,3,3,0.49,No
+CUST_0455,Brett,Anderson,Male,32,Finland,Jackport,poncechristina@example.com,741.547.5360,SME,75841,2023-08-27,8,1914.01,2025-04-04,1,0,0,0.08,No
+CUST_0456,Michael,Griffith,Female,33,Turkmenistan,Port Brandonbury,mary20@example.org,+1-734-716-2077x148,Corporate,148498,2023-06-30,11,187.29,2025-07-13,5,3,0,0.19,No
+CUST_0457,Jennifer,Thomas,Male,39,Saint Helena,Juliemouth,hwhitaker@example.net,001-305-585-7964x2957,Retail,87712,2021-01-04,11,742.12,2025-05-02,2,1,1,0.32,No
+CUST_0458,Angela,Clark,Male,45,Italy,Kyleburgh,jessedalton@example.org,272-510-1746x7482,SME,105663,2023-03-29,5,1031.2,2025-06-17,3,3,2,0.42,No
+CUST_0459,Brian,Nelson,Male,37,Poland,Port Gregorystad,kmorse@example.com,001-721-558-3946x5423,Retail,127096,2024-10-17,7,1011.9,2025-07-07,3,0,0,0.59,No
+CUST_0460,Carrie,Miller,Male,50,Israel,North James,william57@example.net,274-454-3455x783,Retail,112764,2020-11-11,14,57.72,2025-10-08,1,1,1,0.86,Yes
+CUST_0461,Kelly,Velez,Male,27,Montenegro,Ericksonburgh,rebecca18@example.org,390-618-4213x005,Retail,73574,2024-10-14,9,1027.27,2024-10-09,5,1,1,0.16,Yes
+CUST_0462,Denise,Stout,Female,57,Iceland,Richardsonland,morgantravis@example.com,588.497.7785x87249,Retail,105744,2021-06-08,8,798.36,2025-02-26,4,1,1,0.02,No
+CUST_0463,Samuel,Stevens,Female,49,Lebanon,Randystad,nross@example.net,(567)321-3757,SME,48482,2023-07-31,4,1945.55,2025-07-24,2,1,1,0.45,No
+CUST_0464,Leslie,Rivera,Female,67,Austria,New Erikmouth,luis66@example.com,+1-916-372-4183,Corporate,29171,2022-02-21,16,360.36,2024-11-20,1,3,1,0.43,No
+CUST_0465,Emily,Huang,Other,50,Sri Lanka,North Anna,davisjamie@example.org,303-772-3162x8052,Retail,120755,2023-08-26,9,740.6,2025-08-30,3,5,2,0.55,No
+CUST_0466,Lisa,Cook,Male,19,Germany,Meganmouth,blake90@example.org,921-217-1075x54848,SME,118932,2021-01-12,6,867.99,2025-08-25,5,3,0,0.83,Yes
+CUST_0467,Shannon,Moore,Male,50,Azerbaijan,Harperburgh,dwalsh@example.net,001-621-478-1027,SME,128125,2022-06-18,8,811.85,2024-12-23,5,2,1,0.8,Yes
+CUST_0468,Melissa,Jackson,Female,50,Sweden,Williamburgh,mariothompson@example.org,001-562-630-5397,SME,126082,2025-06-03,10,1348.37,2024-10-28,1,1,1,0.1,No
+CUST_0469,Amanda,Abbott,Male,58,Portugal,New Madison,andreavazquez@example.com,(614)229-2058x18065,Retail,23696,2024-10-24,11,470.25,2024-12-30,4,1,0,0.93,Yes
+CUST_0470,Linda,Tyler,Other,30,Spain,East James,qmorgan@example.net,294.231.1665,Corporate,146310,2024-07-07,6,481.09,2024-10-16,3,4,0,0.11,No
+CUST_0471,Erin,Green,Male,47,Comoros,Susanmouth,kristina20@example.net,(599)987-8473,Enterprise,40058,2024-03-09,7,1471.96,2025-04-08,1,2,2,0.63,No
+CUST_0472,Kenneth,Gross,Other,50,Colombia,East Zacharychester,ramseyvincent@example.org,+1-541-776-4512x43705,SME,40313,2025-05-13,9,1025.57,2025-05-13,4,3,2,0.67,No
+CUST_0473,John,Daniels,Male,30,Christmas Island,Shawnview,onealjeremy@example.org,+1-788-404-2252x2189,Retail,39149,2022-06-21,8,859.55,2025-05-30,5,1,1,0.68,No
+CUST_0474,Alexandria,Henderson,Female,69,Bouvet Island (Bouvetoya),Port Davidfurt,evansthomas@example.net,+1-857-721-2692x410,Retail,73521,2022-05-06,10,379.95,2025-06-10,2,1,1,0.27,No
+CUST_0475,Amber,Hutchinson,Female,43,Lebanon,Kevinshire,jeffreywells@example.net,2298278996,Corporate,65740,2024-12-07,7,415.68,2024-11-03,3,2,2,0.33,No
+CUST_0476,Anita,Moody,Other,39,China,North Elizabeth,watsoncatherine@example.com,981-906-3075x375,Enterprise,126611,2025-01-06,15,70.58,2025-02-12,3,1,1,0.55,Yes
+CUST_0477,Sarah,Jones,Male,56,Falkland Islands (Malvinas),East Garrettmouth,jcross@example.com,(567)911-2159x480,Corporate,24956,2025-06-16,9,228.28,2025-03-20,4,2,1,0.2,No
+CUST_0478,Emily,Thompson,Female,19,Cameroon,New Martin,corey75@example.net,(696)562-5502x994,Corporate,95731,2022-12-17,11,1135.84,2025-05-08,1,5,3,0.02,Yes
+CUST_0479,James,Thomas,Other,55,Canada,New Brian,alikayla@example.org,3924066628,Retail,102612,2023-12-14,6,1789.15,2025-09-03,5,1,0,0.56,Yes
+CUST_0480,Molly,Jensen,Female,56,Jamaica,South Lee,browngabriel@example.org,(589)778-4348x0983,Corporate,137850,2021-08-12,12,609.97,2025-05-10,4,3,2,0.47,No
+CUST_0481,Cynthia,Benton,Female,43,Ukraine,Jacksonmouth,andrew91@example.org,693.650.7560x623,SME,86641,2025-04-09,5,689.11,2024-12-10,2,1,1,0.66,No
+CUST_0482,Kari,Guerra,Female,63,Saint Martin,Jessicaside,david47@example.net,+1-465-386-4556,Retail,83811,2025-05-27,12,275.43,2025-06-04,2,3,0,0.15,Yes
+CUST_0483,Joseph,Carlson,Male,67,Guatemala,North Kenneth,elizabeth25@example.com,001-924-598-6619,SME,72160,2022-05-05,3,807.83,2024-10-23,2,3,3,0.84,Yes
+CUST_0484,Sarah,Rodgers,Female,32,Pakistan,Marquezton,timothy87@example.net,(827)467-6685x033,Enterprise,71313,2025-03-07,13,122.58,2024-11-12,4,3,3,0.15,Yes
+CUST_0485,Melissa,Torres,Female,51,Eritrea,East Kennethside,alice54@example.net,+1-815-319-6348x7671,Retail,83232,2023-08-26,11,1839.32,2025-04-06,5,3,3,0.89,No
+CUST_0486,Scott,Terry,Female,59,Tanzania,Wrightchester,christina44@example.com,001-642-724-7422x49368,Corporate,35417,2020-10-17,5,1362.57,2025-03-21,3,3,0,0.45,No
+CUST_0487,David,Sweeney,Male,61,British Indian Ocean Territory (Chagos Archipelago),Lake Javierberg,brownwendy@example.com,(914)971-3061,Retail,44729,2025-08-08,6,1981.96,2025-09-20,1,4,0,0.55,Yes
+CUST_0488,Diane,Walter,Male,66,Saint Kitts and Nevis,Joshuaton,nicole64@example.org,230-398-1342x8467,SME,132492,2021-09-16,11,1771.51,2025-03-24,3,0,0,0.9,No
+CUST_0489,Corey,Wright,Female,57,Lithuania,Port Heather,victorschultz@example.org,+1-231-733-0877x21975,Corporate,50099,2022-11-10,11,972.33,2024-12-19,5,3,3,0.3,No
+CUST_0490,Larry,Church,Female,28,Pitcairn Islands,Reedfurt,chapmanpatricia@example.net,859-207-3053,Corporate,138387,2025-03-18,8,1063.39,2024-12-12,3,2,1,0.18,No
+CUST_0491,Michael,Simpson,Male,20,Peru,Gabrielfort,codywhite@example.com,001-961-284-0890,SME,118134,2024-10-27,9,421.62,2025-08-22,4,0,0,0.45,No
+CUST_0492,Lori,Hanson,Female,23,Vietnam,North Cory,bryantchristopher@example.org,(550)258-5470x67722,Retail,49961,2020-11-22,11,950.98,2025-09-27,2,5,2,0.24,No
+CUST_0493,Gabriel,Odonnell,Male,26,Serbia,Cobbhaven,georgebobby@example.net,923-906-3565x60156,Enterprise,32602,2023-10-30,8,1810.9,2025-03-17,5,3,1,0.53,No
+CUST_0494,Devin,Pham,Male,23,Azerbaijan,North Edwinport,mary86@example.com,263-315-4622x42078,Corporate,138474,2023-04-30,10,149.16,2025-09-25,5,2,2,0.28,No
+CUST_0495,Brandy,Richardson,Male,26,Palau,Allenville,belljulie@example.net,001-812-753-6262x01009,Retail,29256,2024-06-26,12,1733.94,2025-05-25,3,1,1,0.86,Yes
+CUST_0496,Elizabeth,Torres,Male,56,Nicaragua,Debbiechester,fosborne@example.net,295.278.9841x8606,Corporate,106120,2023-05-03,13,714.85,2024-12-09,4,3,2,0.61,No
+CUST_0497,Jessica,Olsen,Female,48,Italy,Lake Joshuafort,changjames@example.org,967-966-2282x650,SME,132516,2021-09-04,12,1804.05,2024-11-25,3,0,0,0.0,No
+CUST_0498,Lisa,Bishop,Male,49,Armenia,West Johnbury,jonathan47@example.com,726-781-2773x470,Retail,54681,2023-09-17,10,1884.72,2025-02-27,3,0,0,0.81,No
+CUST_0499,Charles,Holloway,Other,58,Wallis and Futuna,Oneillchester,michael28@example.com,(294)781-5613x13524,SME,111328,2023-12-12,10,1358.19,2025-02-14,5,1,1,0.33,No
+CUST_0500,Barbara,Cooper,Other,67,Mauritius,Arthurbury,davishannah@example.org,(801)666-6795x358,Enterprise,107440,2024-04-08,11,1345.63,2025-09-13,3,1,1,0.32,Yes
+CUST_0501,Elizabeth,Jackson,Female,29,Cayman Islands,Melissaborough,collinfletcher@example.org,(884)910-9724,Retail,84789,2024-08-06,4,932.87,2025-03-28,2,2,0,0.38,No
+CUST_0502,Richard,Wolfe,Female,25,Heard Island and McDonald Islands,West Paul,sandra56@example.com,792-745-9207x27944,Enterprise,63361,2024-11-03,11,1679.3,2025-07-03,3,3,3,0.63,Yes
+CUST_0503,Michele,Page,Male,25,Thailand,Walkershire,schultzmichael@example.com,(517)335-7526,Retail,84503,2025-08-02,6,1925.14,2025-03-03,2,2,2,0.44,No
+CUST_0504,Jacqueline,Webb,Female,67,Haiti,North Shannon,daniel61@example.net,+1-756-449-2291x53607,Retail,54540,2023-02-18,8,1561.41,2025-03-10,5,3,0,0.63,No
+CUST_0505,Carrie,Olson,Female,45,Somalia,Steelemouth,shannonkeller@example.net,(532)350-8045x049,Retail,46536,2022-04-29,12,1262.78,2024-10-23,4,3,1,0.15,No
+CUST_0506,Michael,Robertson,Male,37,Trinidad and Tobago,Myersberg,james91@example.org,262.935.8484,SME,104700,2024-04-10,8,1233.25,2025-07-29,2,3,1,0.97,No
+CUST_0507,Kimberly,Vincent,Female,64,Saint Martin,North Kyleside,welchdeborah@example.net,+1-966-302-5369x112,Corporate,83043,2025-09-22,11,1706.47,2024-10-22,4,3,1,0.73,No
+CUST_0508,Jo,Suarez,Female,24,Saint Lucia,Port Scottfurt,arnoldrichard@example.com,659.385.4081x477,Retail,98532,2023-06-08,8,1105.35,2024-12-25,4,4,3,0.25,No
+CUST_0509,Joseph,Taylor,Female,28,Equatorial Guinea,North Stevenberg,jessica85@example.org,(393)403-4421x0657,Corporate,76575,2024-09-21,7,1617.53,2025-06-29,2,3,1,0.72,No
+CUST_0510,Wesley,Hernandez,Female,37,El Salvador,West Chelsea,tamarawright@example.org,614.228.7719x9004,Corporate,147626,2025-07-27,8,1042.33,2025-03-01,5,2,1,0.58,Yes
+CUST_0511,Hannah,Turner,Female,33,Saudi Arabia,Lake Jamesmouth,ggarcia@example.org,+1-986-911-9425x300,Retail,22871,2021-12-16,9,171.77,2025-06-19,1,0,0,0.11,No
+CUST_0512,Robert,Roach,Male,21,Eritrea,East David,smitherica@example.org,(647)585-6363,SME,66002,2024-12-06,10,798.7,2025-02-04,4,4,1,0.18,No
+CUST_0513,William,Moran,Female,23,Suriname,Lynntown,dwilliams@example.org,879.777.4060,SME,69812,2022-10-29,9,916.66,2025-06-26,4,5,2,0.04,No
+CUST_0514,Ryan,Moreno,Female,39,Mozambique,Petersonland,flowerselizabeth@example.net,860.932.1730,Corporate,42626,2022-08-30,15,326.15,2025-07-13,5,4,2,0.81,No
+CUST_0515,Adriana,Martinez,Male,43,Swaziland,New Erinbury,opayne@example.org,586-676-5516x248,Enterprise,79979,2023-05-16,12,249.87,2025-03-01,5,1,0,0.55,Yes
+CUST_0516,Scott,Mathews,Male,20,Norway,Millerburgh,joshua99@example.com,920-689-5194x19878,Corporate,96057,2022-12-05,8,1094.16,2024-12-10,3,0,0,0.32,No
+CUST_0517,Thomas,Carter,Male,58,Bosnia and Herzegovina,East Leslieport,tyler57@example.net,(714)252-5345,Enterprise,146834,2024-03-29,15,216.03,2025-10-04,5,2,2,0.13,No
+CUST_0518,Nichole,Clark,Female,59,Micronesia,South Andrea,shawmegan@example.net,(708)272-8777x426,Corporate,128946,2025-04-18,5,640.74,2025-06-10,4,4,3,0.48,Yes
+CUST_0519,Danielle,Byrd,Other,31,Montserrat,North Taylorbury,tmendez@example.org,+1-233-867-3045x23727,Corporate,86668,2024-04-18,5,1501.96,2025-01-29,2,1,1,0.53,No
+CUST_0520,Sandra,Lozano,Male,28,Papua New Guinea,Carpenterfurt,bergmark@example.net,+1-316-865-8356,Retail,119003,2025-02-06,11,1930.64,2025-05-30,1,0,0,0.7,No
+CUST_0521,Kari,Ramos,Female,35,Niue,East Kathyville,ralphrice@example.net,001-267-759-4185x57383,SME,100070,2023-03-01,9,1449.85,2025-05-04,3,1,0,0.97,No
+CUST_0522,Brad,Riley,Male,29,Anguilla,Houstonshire,roberthines@example.org,+1-582-238-1867,Corporate,109390,2022-02-16,7,1985.62,2025-06-01,2,4,0,0.43,No
+CUST_0523,Andrea,Gregory,Other,40,Liechtenstein,Vaughnborough,lwilcox@example.org,312.371.8176x56867,Retail,62998,2023-09-19,8,1411.76,2025-06-21,1,2,2,0.41,Yes
+CUST_0524,Anthony,King,Female,29,Ethiopia,East Erica,davidball@example.com,001-917-366-6785x3977,Retail,83814,2020-11-02,6,622.9,2025-01-05,1,0,0,0.37,No
+CUST_0525,Amy,Ray,Female,30,Macao,Smithmouth,bfuller@example.net,949-560-7869x144,Corporate,124601,2024-04-21,8,1360.5,2025-04-04,1,3,2,0.83,No
+CUST_0526,Matthew,Harrison,Male,42,Belarus,Reynoldsborough,reginahughes@example.org,+1-717-741-8854x393,Corporate,65607,2022-02-21,13,1419.21,2024-12-23,2,2,2,0.16,Yes
+CUST_0527,Ashley,Nguyen,Male,62,Rwanda,Aliciaborough,michelle94@example.net,001-746-456-0937x052,SME,27812,2022-04-02,8,774.87,2025-02-25,3,6,2,0.34,No
+CUST_0528,John,Baker,Male,68,Paraguay,Whiteland,pbrown@example.org,001-712-987-2836,SME,81844,2024-07-11,8,84.54,2025-04-30,3,2,2,0.72,No
+CUST_0529,Monica,Williams,Male,36,Bahrain,East Ian,davidflores@example.com,920.312.8913x474,Retail,90093,2025-07-03,7,1421.24,2025-08-22,1,2,2,0.02,No
+CUST_0530,Christopher,Potts,Female,63,Israel,Lake Garrettshire,kimberly59@example.com,+1-487-834-9317,SME,22179,2021-12-17,9,92.32,2025-04-03,2,4,3,0.29,Yes
+CUST_0531,Gregory,Roach,Female,53,Jordan,Lake Ashley,daniellewerner@example.com,+1-817-905-4167x9212,Retail,63798,2023-04-24,11,1280.82,2025-04-09,1,3,2,0.64,No
+CUST_0532,Anna,Macias,Other,62,Cote d'Ivoire,Mariafort,berryjames@example.org,555.899.6177x395,SME,94601,2022-10-19,11,369.05,2024-12-27,5,1,1,0.19,No
+CUST_0533,Alexandra,Moses,Other,25,United States Virgin Islands,Lindsaymouth,cpatterson@example.org,+1-874-596-7484x62119,SME,28275,2021-12-17,9,1152.93,2025-04-22,3,2,1,0.3,No
+CUST_0534,Brenda,Williams,Female,46,Palau,Lake Wayneborough,xgoodwin@example.net,355.639.7897x7318,Corporate,70574,2023-04-08,9,1032.63,2024-11-05,4,2,2,0.49,Yes
+CUST_0535,Chad,Nelson,Female,49,Jordan,Gardnerfurt,nicolegonzalez@example.com,+1-785-975-6717x9274,SME,67857,2022-09-10,8,76.35,2025-07-29,1,3,2,0.42,No
+CUST_0536,Benjamin,Gonzalez,Female,68,India,Janiceville,rossjonathan@example.net,+1-473-762-0504x61169,Retail,145555,2023-08-11,8,757.59,2024-12-04,5,2,2,0.11,No
+CUST_0537,Gary,Craig,Female,61,Liechtenstein,West Amandaberg,wconner@example.com,+1-581-974-6035x011,Corporate,121484,2025-01-13,10,1222.13,2025-04-30,3,1,1,0.94,No
+CUST_0538,Michelle,Myers,Male,35,Mexico,Buchananhaven,princekyle@example.net,5434046545,SME,40700,2024-09-27,14,1704.78,2025-06-16,2,0,0,0.04,No
+CUST_0539,Mark,Morales,Male,23,British Indian Ocean Territory (Chagos Archipelago),New Ryanberg,khoffman@example.com,331.812.8000,Corporate,146855,2025-03-21,7,1782.85,2024-10-11,3,2,1,0.75,No
+CUST_0540,Frank,Gilmore,Male,35,Solomon Islands,Yorkton,weissleonard@example.com,741-986-2975,Retail,59464,2022-01-26,11,993.51,2025-10-08,2,2,0,0.07,No
+CUST_0541,Carolyn,Taylor,Female,36,Nepal,South Sydney,pittskevin@example.net,(841)522-0958,Corporate,62351,2024-04-09,3,1470.42,2025-05-16,2,1,0,0.47,Yes
+CUST_0542,Brittany,Woods,Female,39,North Macedonia,East Stacyview,aclarke@example.org,+1-860-638-3379x5492,SME,113330,2021-01-12,9,667.09,2024-12-14,1,1,1,0.18,No
+CUST_0543,Christopher,Shaw,Male,54,Lesotho,Port Bradley,fjohnson@example.net,(222)897-9705x06100,Retail,114319,2025-02-27,15,717.26,2025-07-08,1,0,0,0.14,Yes
+CUST_0544,Lisa,Wilkerson,Female,49,Serbia,West Stacymouth,gmorales@example.org,+1-707-608-3415,Retail,102534,2023-08-09,10,429.2,2025-09-16,3,4,4,0.13,No
+CUST_0545,Jacqueline,Bell,Female,58,Saint Barthelemy,East Anthony,horozco@example.com,(795)927-4547,SME,33869,2024-08-06,16,1145.8,2025-04-19,5,1,1,0.45,Yes
+CUST_0546,Juan,Hodges,Male,20,Monaco,Bernardmouth,amahoney@example.com,001-458-874-1220x7716,SME,80315,2025-10-08,13,663.4,2025-05-05,3,0,0,0.52,No
+CUST_0547,Reginald,Duarte,Male,45,United Kingdom,West Jeanettefurt,louis34@example.org,935.676.0710x5785,Retail,130061,2024-09-03,9,214.52,2025-04-17,4,1,0,0.13,No
+CUST_0548,Susan,Cameron,Female,27,Solomon Islands,Miamouth,fsweeney@example.net,001-737-824-3537x99444,Retail,113688,2022-10-10,14,1385.76,2025-01-06,2,1,1,0.98,No
+CUST_0549,Tina,Bryant,Female,68,Belize,East Teresa,omiller@example.net,001-340-595-5013x21911,Retail,40954,2020-10-24,6,1430.12,2025-03-23,2,2,2,0.26,No
+CUST_0550,Michelle,Collins,Female,52,Burundi,Pierceport,fmartinez@example.org,539.673.6066x095,Retail,51555,2024-11-29,3,751.99,2024-12-10,1,3,3,0.46,No
+CUST_0551,Jacob,Richardson,Female,46,Cambodia,Youngchester,irobinson@example.org,556-995-4926,Corporate,83353,2024-10-21,18,199.61,2024-10-22,5,3,0,0.22,No
+CUST_0552,Erika,Walker,Female,32,Tonga,Woodstad,rogerhall@example.org,001-706-729-2055x49521,SME,102190,2021-11-12,11,881.28,2025-07-29,1,2,2,0.49,No
+CUST_0553,Cynthia,Carr,Female,50,Nauru,Michaelton,ataylor@example.org,301-583-0902x944,Corporate,65026,2023-11-17,9,912.55,2025-07-05,4,3,1,0.76,No
+CUST_0554,Jane,Acosta,Female,24,Guam,Port John,xwilliams@example.org,3483706000,Corporate,120772,2024-11-08,7,1353.91,2025-03-24,3,3,0,0.52,No
+CUST_0555,Sean,Joseph,Female,29,Haiti,Amandahaven,xdavis@example.net,224-889-4294x219,Retail,66976,2023-05-27,11,665.06,2025-10-02,3,3,1,0.29,No
+CUST_0556,David,Morris,Male,66,Armenia,Lindafort,jean62@example.net,(320)265-6755x578,SME,100578,2025-05-08,15,1381.07,2025-04-19,5,2,2,0.25,No
+CUST_0557,Benjamin,Thomas,Male,47,Nauru,Laurenfort,webbkevin@example.com,631.788.5524x72173,Corporate,111502,2022-04-06,8,1749.4,2024-11-13,1,2,2,0.76,No
+CUST_0558,Jason,Juarez,Male,38,Armenia,South John,tracy62@example.org,620-329-0180,Enterprise,133943,2023-10-17,6,513.1,2025-07-08,1,1,1,0.12,No
+CUST_0559,Andrew,Smith,Female,48,Haiti,Holdenstad,andrewenglish@example.net,(336)909-9077x076,Corporate,129850,2023-07-15,11,1958.89,2025-09-11,4,3,0,0.37,No
+CUST_0560,Dustin,Castillo,Female,41,Poland,Lauraberg,brockchristina@example.net,(936)277-1620x9684,Retail,65095,2025-08-27,8,803.42,2025-07-08,3,2,0,0.15,No
+CUST_0561,Craig,Schultz,Female,37,Bosnia and Herzegovina,Lake Hannah,ublankenship@example.net,734-911-7395,Corporate,34270,2022-02-17,5,571.15,2024-12-10,1,2,2,0.26,No
+CUST_0562,Kimberly,King,Male,54,Paraguay,Lake Davidchester,moraashley@example.com,6303337317,Retail,50908,2024-06-03,10,871.95,2024-11-08,5,1,1,0.15,No
+CUST_0563,Matthew,Miller,Male,21,Hong Kong,Mooreburgh,webbjenny@example.com,593.527.5137x936,Corporate,35523,2025-08-15,13,234.08,2024-12-12,3,0,0,0.89,No
+CUST_0564,Casey,Townsend,Male,45,Estonia,West Jessicatown,mstone@example.org,+1-896-703-2669x7089,Retail,82433,2021-09-27,15,295.13,2025-04-29,4,2,2,0.73,Yes
+CUST_0565,William,Oliver,Male,61,Haiti,Port Ryanhaven,lwallace@example.com,(251)948-1847,Retail,67068,2020-12-08,14,858.15,2025-07-21,5,1,1,0.56,Yes
+CUST_0566,Suzanne,Ramirez,Female,37,Turkey,Andersonmouth,justin40@example.org,628-913-3682,SME,39991,2021-03-06,7,1536.77,2024-11-08,2,2,2,0.22,No
+CUST_0567,Matthew,Hart,Male,41,Oman,Petersfurt,kdurham@example.net,(494)818-9515x09020,Retail,30775,2025-04-14,8,1805.61,2025-06-01,4,1,1,0.51,Yes
+CUST_0568,Kaitlyn,Kelley,Male,67,Cape Verde,East Shannonshire,howelljason@example.org,593-235-6684x4417,SME,97801,2022-12-15,6,1346.4,2024-10-16,5,2,2,0.52,No
+CUST_0569,Gregory,Montgomery,Female,66,Svalbard & Jan Mayen Islands,New Natashafort,kellyhart@example.com,001-252-966-4353x69324,Retail,104995,2025-01-09,9,255.18,2025-08-10,1,1,1,0.59,No
+CUST_0570,Cassidy,Monroe,Male,68,Poland,South Ryanport,adamalvarez@example.org,001-644-983-4419x6216,Corporate,81250,2022-08-05,12,1360.44,2025-08-14,2,1,1,0.06,Yes
+CUST_0571,Erin,Burke,Female,49,French Polynesia,Luceroberg,danielle56@example.net,(524)847-9007,Corporate,36673,2023-06-29,16,1289.08,2024-12-12,4,3,1,0.97,Yes
+CUST_0572,Deborah,Delgado,Female,58,Angola,Tiffanyberg,lchristensen@example.org,972.205.4099x8617,Corporate,142808,2023-08-01,8,1621.24,2024-11-01,1,3,2,0.47,No
+CUST_0573,David,Sweeney,Male,53,Saint Martin,Lake Lindsay,mcarlson@example.com,585.437.5085x9038,Retail,47056,2025-06-16,11,1659.23,2025-08-30,2,2,2,0.93,Yes
+CUST_0574,Jeffery,Clark,Female,51,United States Virgin Islands,Rachelbury,kdavies@example.org,499.944.3860x1137,Retail,26614,2025-06-28,11,1743.0,2025-05-06,3,2,0,0.01,No
+CUST_0575,William,Perez,Female,53,Singapore,North Andrew,christinatate@example.com,+1-397-461-3249,Retail,121556,2021-01-09,11,857.56,2025-08-24,1,1,1,0.25,No
+CUST_0576,Nathaniel,Coffey,Female,19,Faroe Islands,Port Heatherhaven,vherrera@example.net,462.370.2899x309,Retail,27415,2021-08-28,7,1410.84,2024-12-13,5,4,3,0.1,No
+CUST_0577,Ricky,Johnson,Male,32,Finland,South Rachelton,davidjohnson@example.org,279.439.0570x0350,Corporate,108691,2025-08-20,7,573.09,2024-12-20,4,2,2,0.77,No
+CUST_0578,Andrew,Rodriguez,Female,51,New Zealand,Brownville,sfrederick@example.com,(772)580-0583x9076,Enterprise,134966,2023-07-06,12,1998.71,2025-08-05,2,1,1,0.32,No
+CUST_0579,Sarah,Brown,Female,53,Bulgaria,South Christopher,jacob01@example.net,373-953-9932x498,SME,63884,2021-10-08,9,391.9,2025-02-10,1,5,5,0.84,No
+CUST_0580,Christina,Curry,Male,23,Australia,Carolineview,vbeck@example.net,741-261-0679,SME,36964,2024-01-12,8,69.72,2024-12-26,3,6,1,0.83,No
+CUST_0581,Jessica,Palmer,Male,56,Mali,Hillfurt,danielgamble@example.net,001-884-993-8280,SME,57726,2024-03-09,9,340.18,2025-05-21,4,4,2,0.67,No
+CUST_0582,Kimberly,Wallace,Other,59,Kazakhstan,Lake Kathleenstad,othomas@example.net,454-463-2963x79653,Corporate,143133,2024-05-30,6,1562.95,2025-06-29,4,3,2,0.67,No
+CUST_0583,Kristen,Pierce,Female,68,Montenegro,Rodriguezton,qlarson@example.com,569.614.9176x09270,Retail,57044,2024-09-27,6,921.23,2025-03-10,1,0,0,0.7,No
+CUST_0584,Shelby,Allen,Male,68,Namibia,Port Michaelport,vkeith@example.net,(244)269-1978x2117,Enterprise,77149,2025-09-16,8,922.63,2024-12-24,3,1,1,0.67,No
+CUST_0585,Jeffrey,Wright,Female,29,New Zealand,Rebeccaland,kristine74@example.org,001-718-929-4868x227,Corporate,57544,2021-10-03,4,1912.29,2025-08-12,2,0,0,0.39,No
+CUST_0586,Ryan,Kaufman,Male,20,Iceland,South Kathleenview,ryan05@example.org,498-579-1519x780,Corporate,69976,2022-07-10,14,1843.29,2025-03-10,1,2,2,0.68,No
+CUST_0587,Matthew,Norton,Male,62,South Africa,Michaelborough,benjamin06@example.net,001-742-690-6055x27728,Retail,52252,2022-12-11,12,656.83,2025-09-30,2,0,0,0.9,Yes
+CUST_0588,Chad,Taylor,Male,35,Bolivia,Port Richard,john76@example.net,347-763-8685x337,Corporate,23832,2022-04-10,14,457.66,2025-06-17,4,2,1,0.33,No
+CUST_0589,John,Fields,Male,57,Djibouti,Matthewbury,stephanie36@example.com,746-911-7954x27516,Corporate,110811,2024-08-08,7,1704.54,2024-10-16,2,2,2,0.94,No
+CUST_0590,Jeff,Chan,Male,38,French Polynesia,New Caleb,reidanthony@example.com,(704)754-5219x44028,SME,100437,2023-11-20,7,1816.74,2024-11-19,3,3,1,0.01,No
+CUST_0591,Carl,Thomas,Male,32,Taiwan,South Andrewmouth,kgreer@example.org,+1-378-599-6638x78074,Corporate,123749,2024-05-19,6,1106.11,2025-02-16,5,4,0,0.35,No
+CUST_0592,Michelle,Cox,Female,50,Equatorial Guinea,East Johnmouth,steven41@example.net,325-720-3462,Retail,54148,2022-05-13,10,1277.38,2025-06-05,3,2,0,0.13,No
+CUST_0593,Dakota,Floyd,Male,52,British Virgin Islands,Sarahside,emartinez@example.org,478-393-7939x469,Enterprise,81240,2024-07-10,6,550.98,2025-06-28,2,2,0,0.13,No
+CUST_0594,Nicole,Dean,Male,43,Sri Lanka,South Brianview,juan06@example.com,+1-423-248-8247x3417,Retail,128169,2021-03-18,4,1611.57,2025-01-09,1,3,1,0.82,No
+CUST_0595,Kathy,West,Female,25,Myanmar,Matthewstad,jreyes@example.com,713.684.7368x5256,Corporate,145607,2021-09-23,10,1282.64,2025-06-09,4,1,1,0.92,No
+CUST_0596,Michael,Torres,Male,53,Falkland Islands (Malvinas),Craneton,jennifer89@example.com,+1-916-212-6336x53751,Retail,108454,2021-02-08,14,1031.85,2025-03-03,5,2,2,0.78,No
+CUST_0597,Charles,Williams,Female,65,Turkmenistan,Allenview,lewisthomas@example.net,7775885933,SME,132230,2024-12-21,10,167.21,2025-06-21,1,2,1,0.98,No
+CUST_0598,Carolyn,Davies,Male,47,Bangladesh,Cortezborough,mlopez@example.com,423.457.7250,Enterprise,148933,2025-01-23,6,1836.07,2025-09-29,1,3,0,0.22,No
+CUST_0599,Ashley,Rasmussen,Male,40,Libyan Arab Jamahiriya,Jeffreyfort,paulvargas@example.org,001-287-241-6740x37773,Retail,105076,2021-07-15,8,1250.13,2025-04-03,3,3,0,0.14,Yes
+CUST_0600,Jake,Madden,Male,59,Greece,Harperbury,johnnelson@example.net,001-693-578-9440x96304,SME,97116,2023-08-12,7,425.75,2024-12-03,2,3,3,0.52,No
+CUST_0601,Michael,Johnston,Male,61,Argentina,West Brandonbury,kimberly23@example.com,735-516-6798x3024,Retail,73459,2021-06-13,9,1232.45,2025-07-08,3,2,2,0.83,No
+CUST_0602,Martin,Contreras,Male,31,Iraq,New Meredith,kathryn64@example.com,542.390.9239x24023,Enterprise,58402,2021-04-14,10,1371.05,2025-07-19,2,3,3,0.04,No
+CUST_0603,Jennifer,Hamilton,Male,31,Chad,Andrewsborough,fernandezstephanie@example.com,001-239-685-4168x42521,SME,77727,2021-04-27,5,1075.25,2025-10-04,3,1,1,1.0,No
+CUST_0604,Robert,Brooks,Male,19,Sao Tome and Principe,Biancamouth,megan72@example.org,804-493-2981x204,SME,58578,2022-09-03,10,1450.3,2025-04-05,1,2,0,0.6,Yes
+CUST_0605,Kathryn,Koch,Male,54,Bermuda,North Christine,krystal94@example.com,(343)608-5648x20329,Retail,110453,2022-08-19,13,1183.84,2025-05-15,4,2,1,0.98,No
+CUST_0606,Melissa,Hall,Male,22,Panama,Johnsonchester,timothy36@example.com,7276173227,Enterprise,42318,2021-12-09,12,1898.15,2025-07-12,2,0,0,0.37,No
+CUST_0607,Cheryl,Ortiz,Male,55,Chad,South Andrewburgh,gwilliams@example.com,+1-835-735-3794x5296,SME,95715,2025-08-25,12,154.71,2024-11-12,5,3,2,0.46,No
+CUST_0608,Jenna,Henson,Male,62,Saint Martin,East Todd,debradowns@example.com,788-405-8333x1984,Retail,97787,2024-01-01,7,257.18,2024-12-10,5,3,3,0.75,No
+CUST_0609,Alex,Cooley,Female,58,United Kingdom,Coleborough,fhatfield@example.net,(885)920-4155,SME,131435,2021-08-05,12,388.66,2025-09-27,1,4,1,0.79,Yes
+CUST_0610,Christopher,Manning,Female,64,Spain,South Stephenfurt,bullockjennifer@example.org,+1-974-212-5310x9684,Retail,105029,2025-08-05,7,1395.83,2025-07-08,3,0,0,0.23,Yes
+CUST_0611,Juan,Parker,Male,31,Tuvalu,Rivasport,trobertson@example.net,204-977-0221,SME,40466,2025-02-21,15,1308.91,2025-04-14,3,0,0,0.93,No
+CUST_0612,Angela,Brown,Female,56,British Indian Ocean Territory (Chagos Archipelago),Stacyshire,yfoster@example.net,733-783-5837,Retail,115742,2021-03-27,7,1789.51,2025-09-24,1,2,2,0.87,No
+CUST_0613,Stacey,Edwards,Female,42,Morocco,East Johnland,jluna@example.org,366-218-3008x318,SME,65475,2024-07-12,8,1479.11,2025-07-27,5,1,1,0.02,Yes
+CUST_0614,Christina,Baker,Male,37,Tokelau,Theresamouth,hannah04@example.net,(774)247-6373x7091,Corporate,80142,2021-02-10,5,1041.29,2025-09-29,5,4,3,0.13,No
+CUST_0615,Kyle,Campbell,Female,19,Burkina Faso,Galvanborough,alexis80@example.org,001-693-313-8074x119,Retail,105160,2025-04-26,12,1984.07,2025-06-12,3,2,2,0.5,No
+CUST_0616,Andrea,Mcdaniel,Female,56,Togo,East Crystalchester,lopezalejandro@example.org,731.752.5805x2929,Retail,46564,2023-01-03,8,568.91,2025-04-06,2,3,2,0.46,No
+CUST_0617,Claudia,Miller,Male,23,Solomon Islands,Port Kristen,rosschristopher@example.org,(244)423-7407x344,Retail,42412,2022-07-27,8,1674.72,2024-11-11,4,0,0,0.71,No
+CUST_0618,Dustin,Smith,Male,34,San Marino,New Sean,ralph74@example.org,+1-666-623-2916,Corporate,113526,2023-07-13,14,882.24,2025-07-21,2,2,2,0.09,No
+CUST_0619,Emily,Hamilton,Female,42,Mongolia,Brownburgh,franklinsheila@example.org,366.309.4158x33364,Retail,71001,2024-01-23,14,1315.03,2025-09-26,5,1,0,0.64,No
+CUST_0620,Victor,Acosta,Female,45,Dominican Republic,Mathewport,robertdoyle@example.com,846-493-7474x75347,Corporate,77649,2023-05-11,10,1468.17,2025-03-03,2,1,1,0.62,No
+CUST_0621,James,Villegas,Male,19,Bouvet Island (Bouvetoya),North Lisa,taylordavis@example.net,001-505-898-1976x3566,Retail,80957,2023-03-02,6,1285.82,2024-11-20,4,0,0,0.23,No
+CUST_0622,Kevin,Wright,Male,52,Croatia,Pittmanmouth,wallen@example.com,(866)566-0019x720,Retail,55517,2021-05-05,15,323.99,2025-06-01,2,1,0,0.54,No
+CUST_0623,Brandon,Davis,Male,54,Gibraltar,South David,joseph63@example.net,702-762-8856,SME,33156,2021-09-20,6,913.75,2025-01-06,2,1,1,0.22,Yes
+CUST_0624,Charles,Williams,Female,22,Nauru,East Amanda,destiny87@example.org,920.358.4364,Retail,43064,2021-06-18,7,1144.8,2024-12-16,2,1,1,0.15,Yes
+CUST_0625,Joshua,Taylor,Female,18,Colombia,Jeffreyside,sherry61@example.com,(686)916-4779,Enterprise,45711,2021-04-15,4,1705.64,2025-09-20,2,0,0,0.57,Yes
+CUST_0626,Matthew,Snow,Male,57,Greenland,East Lisaburgh,shortsusan@example.net,(741)577-1508,SME,50106,2022-06-13,9,915.11,2025-03-25,1,3,0,0.98,No
+CUST_0627,Joshua,Schneider,Male,29,Falkland Islands (Malvinas),Phillipsfurt,ralph47@example.net,571.324.5979x01052,Corporate,85458,2022-01-30,12,1841.56,2025-04-11,5,1,1,0.24,No
+CUST_0628,Nicole,Miller,Female,53,India,Smithmouth,perezanthony@example.org,558-997-9784,Corporate,36589,2025-01-10,14,908.73,2025-04-20,4,0,0,0.36,Yes
+CUST_0629,Matthew,Williams,Male,62,Russian Federation,Wilkinsburgh,marshallsherri@example.com,7196086306,SME,109272,2025-06-19,8,1120.12,2025-06-18,5,1,1,0.26,No
+CUST_0630,John,Hernandez,Male,40,Burundi,East Sarahfurt,xwatkins@example.org,(547)342-9762,Retail,106511,2022-03-25,12,1602.76,2025-08-10,1,2,1,0.27,No
+CUST_0631,James,Wagner,Female,64,Belize,South Michaeltown,sandraprince@example.net,467.222.7069,Retail,121754,2022-01-29,8,1186.98,2025-08-01,1,3,1,0.4,Yes
+CUST_0632,Christopher,Carr,Female,48,Saint Helena,Marcside,nicholsmark@example.org,666.841.5044x5570,Retail,27214,2025-08-14,13,1922.43,2025-03-10,1,2,1,0.7,No
+CUST_0633,Francisco,Blair,Female,28,Tokelau,Butlerbury,thompsoncarrie@example.org,(629)719-7313,SME,116117,2021-09-29,14,1337.65,2025-05-09,1,3,2,0.04,Yes
+CUST_0634,Jennifer,Reed,Female,27,Serbia,Harrisburgh,loriwhite@example.net,302-943-6844,Retail,105731,2023-04-05,6,1069.28,2024-11-25,2,1,1,0.96,No
+CUST_0635,Judith,Herrera,Male,20,British Indian Ocean Territory (Chagos Archipelago),Melanieland,flowersjeff@example.org,+1-284-970-1129x015,Corporate,130118,2023-05-11,12,96.0,2025-05-24,5,1,1,0.05,No
+CUST_0636,Amber,Mills,Male,31,Malawi,Brianton,riverakelly@example.net,+1-912-741-3676x19935,Enterprise,146479,2023-04-17,9,856.78,2025-04-14,3,2,0,0.88,No
+CUST_0637,Jessica,Martin,Female,33,Turks and Caicos Islands,Lake Johnathan,jonathannorman@example.org,970.731.5215x2952,SME,47127,2021-11-07,7,633.53,2025-01-11,4,1,1,0.89,No
+CUST_0638,David,Knapp,Male,27,Palestinian Territory,New Evan,ocarter@example.com,(564)822-5755x34389,Corporate,25141,2023-04-17,14,1508.81,2025-06-16,1,2,2,0.52,No
+CUST_0639,Brandy,Reyes,Male,46,Turks and Caicos Islands,Rickyberg,kylegarcia@example.com,723.411.0635x942,Retail,48884,2021-09-11,10,456.14,2025-04-07,5,1,1,0.14,No
+CUST_0640,Tommy,Todd,Male,27,Somalia,Port Joshua,sarahthompson@example.com,5312584231,SME,110421,2021-04-09,17,450.18,2024-12-25,1,2,2,0.57,No
+CUST_0641,Erin,Hill,Male,29,Ireland,Prattport,ryanflowers@example.org,219.617.3163,Corporate,22708,2020-12-16,9,419.56,2025-06-21,1,1,1,0.63,Yes
+CUST_0642,Daniel,Hall,Male,47,Philippines,Morrisport,colin33@example.org,001-405-883-2212,Retail,38375,2023-08-09,12,294.95,2025-08-22,1,4,0,0.86,No
+CUST_0643,Sydney,Martin,Male,58,Sao Tome and Principe,Robertsonbury,fray@example.net,(237)211-5306,Retail,35088,2023-11-03,9,656.46,2025-01-24,1,2,2,0.55,No
+CUST_0644,Paul,Ruiz,Male,18,Sri Lanka,Ronaldfurt,lucas02@example.net,(911)396-9154x029,Enterprise,77615,2023-03-03,11,1777.55,2024-11-21,1,1,0,0.41,No
+CUST_0645,Jacob,Wilson,Male,22,United Arab Emirates,Jenningsville,rick67@example.com,+1-402-741-5021x67715,Corporate,130138,2024-10-08,12,1561.11,2024-10-19,4,3,1,0.84,No
+CUST_0646,Ashley,Peterson,Female,37,Saint Barthelemy,Port Lorrainefort,jennifer01@example.org,(420)677-9361,SME,65046,2023-09-13,9,1483.74,2025-04-10,5,2,2,0.98,No
+CUST_0647,Robert,Garcia,Female,25,Panama,East Jennifer,danielwalter@example.org,294.251.5225x0184,SME,30014,2025-06-12,7,1604.81,2025-05-22,1,1,1,0.65,No
+CUST_0648,Ashley,Humphrey,Female,60,Croatia,Port Barbaraburgh,owu@example.net,924-831-7522x57902,Corporate,84425,2024-06-08,17,575.36,2025-05-09,1,3,3,0.87,No
+CUST_0649,Danielle,Tate,Female,29,China,Stevenstad,treid@example.net,+1-405-382-0006,Corporate,23273,2021-03-03,12,1780.51,2025-06-13,1,3,3,0.6,Yes
+CUST_0650,Debra,Rodriguez,Female,18,Bahrain,East Wendy,erinprice@example.org,+1-522-257-3499x24039,Corporate,67135,2021-12-23,14,317.74,2024-10-13,1,0,0,0.69,No
+CUST_0651,Emily,Davila,Male,37,Costa Rica,Annechester,williamsshari@example.net,901.892.3264,Retail,122842,2024-12-01,12,705.87,2024-11-05,2,1,1,0.69,Yes
+CUST_0652,Nicole,Buckley,Female,45,British Indian Ocean Territory (Chagos Archipelago),Herberttown,tmoran@example.com,(521)456-8210,Corporate,50881,2023-06-28,13,1194.16,2025-05-23,2,0,0,0.7,No
+CUST_0653,Maria,Rice,Female,60,Rwanda,South Thomasmouth,nicholsonshannon@example.org,207.225.0150x6363,SME,117022,2022-03-18,11,250.66,2025-09-13,3,0,0,0.32,No
+CUST_0654,Charles,Chavez,Female,54,Ukraine,Port Lindsayside,williamlarsen@example.net,(669)482-8453x918,Corporate,98077,2025-07-22,10,1473.75,2025-02-09,1,3,1,0.58,No
+CUST_0655,Eric,Gregory,Male,64,Saint Helena,Paulaland,adamheath@example.com,835.252.1149,SME,28712,2023-03-09,11,805.13,2024-12-26,3,1,1,0.59,No
+CUST_0656,Brenda,Harris,Male,54,Antarctica (the territory South of 60 deg S),Lake Kellyville,theresarose@example.org,+1-767-818-9398,Corporate,94704,2023-05-20,9,1579.59,2025-02-23,4,3,3,0.32,No
+CUST_0657,Kelly,Shelton,Male,29,Turkey,Darrenview,barbaralewis@example.com,001-452-431-3195x579,Corporate,72874,2022-12-31,13,1011.15,2025-03-20,3,0,0,0.35,No
+CUST_0658,Donald,Vasquez,Male,54,Australia,Tiffanyfort,hgregory@example.com,343.239.8910x88093,Corporate,89087,2022-01-28,11,402.71,2025-02-06,5,2,1,0.76,No
+CUST_0659,Gina,Ramos,Female,66,Iraq,Thomashaven,dlucas@example.com,001-729-628-5965,Corporate,32297,2025-09-11,12,1482.79,2024-11-18,2,4,3,0.58,No
+CUST_0660,Tiffany,Taylor,Female,66,Niger,Port Kellychester,hannabrian@example.org,648-345-3226,SME,129269,2022-01-22,7,541.68,2025-06-15,2,0,0,0.15,No
+CUST_0661,Ashley,House,Male,61,Albania,Katherinefort,elizabethsoto@example.com,983-322-9215x890,Retail,47128,2021-11-28,11,1007.08,2025-08-15,1,0,0,0.84,No
+CUST_0662,Joshua,Harris,Other,45,Ethiopia,New Amy,carterkaren@example.net,995-272-4044x3078,Corporate,88368,2021-04-21,7,197.29,2025-02-01,1,1,1,0.88,No
+CUST_0663,Kathy,Sanders,Female,64,Cook Islands,Port Abigail,lauriebeck@example.com,343.243.6421x80456,Retail,114019,2025-03-06,10,1254.84,2025-02-23,4,2,2,0.47,No
+CUST_0664,Sarah,Martin,Male,32,Chad,South Connie,dylanbowman@example.com,(507)934-2520x776,Retail,107599,2024-10-06,10,1348.42,2025-09-15,4,2,1,0.21,No
+CUST_0665,Jacob,Lopez,Male,23,Taiwan,Vaughanmouth,yreed@example.org,954.579.6529x95664,Corporate,108499,2021-05-05,7,788.41,2025-01-29,5,2,2,0.95,No
+CUST_0666,Susan,Matthews,Male,61,Netherlands Antilles,Lake Monica,hinesbrian@example.net,577.347.0551x0750,Corporate,98958,2021-01-07,9,1911.12,2025-08-21,1,1,1,0.88,No
+CUST_0667,Guy,Clarke,Male,37,Australia,Lake Kathryn,zyoung@example.net,3353285929,Enterprise,52920,2023-08-07,7,1754.63,2025-06-14,1,3,3,0.24,No
+CUST_0668,Kelsey,Hicks,Male,67,Hong Kong,Shermanchester,christinahernandez@example.net,999-322-6746x94734,Corporate,140442,2021-03-14,7,1430.48,2024-12-17,4,2,2,0.1,No
+CUST_0669,Philip,Jones,Male,31,Guinea-Bissau,Kaylamouth,victoriaellis@example.com,302.430.0491x203,SME,31156,2023-12-10,9,1441.62,2025-05-18,4,3,2,0.44,Yes
+CUST_0670,Robert,Snyder,Male,19,Montenegro,Maciaschester,laura56@example.com,(903)639-3927x447,Corporate,31108,2022-10-04,13,542.18,2025-02-18,4,1,1,0.68,No
+CUST_0671,Maureen,Fowler,Male,26,Bermuda,Cortezberg,kleinvincent@example.com,(433)941-9421,Corporate,51845,2022-09-22,5,1330.79,2025-03-31,2,0,0,0.18,No
+CUST_0672,Heather,Roberts,Female,54,American Samoa,Christopherhaven,tonijennings@example.org,001-396-898-9093,Retail,22800,2022-01-23,11,436.5,2024-10-13,3,3,1,0.51,No
+CUST_0673,Christopher,Rogers,Male,37,Cameroon,North Pamelafurt,debbietaylor@example.com,8395276846,Retail,148832,2021-01-16,7,330.81,2025-05-18,3,0,0,0.43,Yes
+CUST_0674,Timothy,Smith,Female,43,Western Sahara,East Pamela,thansen@example.com,876.369.8393x90945,Retail,123614,2022-01-11,8,1998.96,2025-03-17,1,1,1,0.89,No
+CUST_0675,Monica,Doyle,Male,46,Honduras,Port Caseyborough,soliskatherine@example.net,(912)294-9090x8211,Corporate,62712,2025-01-08,14,1263.63,2025-09-03,2,1,1,0.43,No
+CUST_0676,Ricardo,Martin,Other,18,Brunei Darussalam,Port Ronald,desiree99@example.com,307-891-2388,Retail,22610,2022-03-11,8,890.43,2025-02-10,4,0,0,0.53,No
+CUST_0677,Rita,Miranda,Male,52,Serbia,Anthonychester,garciajason@example.com,(808)359-5625x42238,Retail,97603,2021-12-08,5,611.92,2025-01-02,1,2,2,0.96,No
+CUST_0678,Brandon,Lucas,Male,23,Iceland,Ramirezburgh,susan09@example.net,349.808.1400x41831,Retail,53872,2025-06-25,10,1227.64,2025-04-22,2,1,1,0.3,No
+CUST_0679,Julie,Anderson,Other,54,Algeria,Teresaside,sramirez@example.net,652.614.3368x67472,Enterprise,30728,2023-08-03,11,146.71,2025-07-27,5,2,2,0.29,No
+CUST_0680,Sandra,Jacobs,Female,22,Zimbabwe,North Daniellemouth,wesleyrosales@example.com,001-862-320-8038,Retail,115102,2024-01-03,8,234.63,2025-09-28,2,3,2,0.8,No
+CUST_0681,Christina,Webster,Female,50,Solomon Islands,East Tara,james26@example.com,287-973-7906x142,Corporate,115319,2025-09-24,5,114.07,2025-10-02,1,5,2,0.28,No
+CUST_0682,Tanya,Miller,Male,66,Philippines,Brianmouth,matthew54@example.org,771.503.9222x7995,Retail,142049,2021-05-26,12,1023.38,2024-12-24,3,2,2,0.83,No
+CUST_0683,Douglas,Wade,Male,68,Kazakhstan,Ryanstad,dayvictor@example.net,001-220-752-4814,Corporate,40583,2021-12-21,11,1221.18,2025-03-21,4,3,1,0.1,Yes
+CUST_0684,Taylor,Schneider,Female,31,Belize,East Robertborough,cooperchad@example.org,730.602.8034x200,Retail,105774,2025-09-22,10,171.84,2025-10-08,5,2,2,0.11,No
+CUST_0685,Sarah,Brown,Female,29,Iran,Gordonside,mtaylor@example.com,+1-475-525-6400x4733,Retail,27263,2024-09-05,9,1456.39,2024-10-11,2,3,3,0.9,No
+CUST_0686,Erin,Mitchell,Female,59,Cocos (Keeling) Islands,South John,kennedydesiree@example.net,4517209407,Corporate,146374,2021-12-06,13,499.27,2025-03-21,1,1,0,0.54,No
+CUST_0687,Jenna,Hendricks,Female,37,Romania,Joneshaven,mortoncharles@example.org,358-433-5648,Retail,87450,2022-03-15,8,1386.14,2024-10-16,1,2,0,0.72,No
+CUST_0688,Rebecca,Myers,Male,67,Cuba,New Dustinshire,baxterryan@example.org,001-833-862-5475x6609,Retail,109285,2021-03-15,9,1964.7,2025-07-24,4,0,0,0.23,No
+CUST_0689,James,Simmons,Female,41,Cambodia,New Justinberg,vasquezchristopher@example.net,228-287-4749x4039,Retail,39456,2022-11-11,4,1397.66,2024-11-05,1,1,1,0.17,Yes
+CUST_0690,Michael,Wilkins,Male,60,Grenada,Hugheschester,pwalters@example.net,262.648.3187,Retail,111118,2023-08-18,11,1772.23,2025-07-21,1,0,0,0.83,Yes
+CUST_0691,Alicia,Butler,Male,51,Yemen,Snyderview,danielsmargaret@example.com,798-943-2960,Retail,85942,2023-10-19,11,1898.99,2025-06-10,4,3,1,0.36,No
+CUST_0692,Kimberly,Ramirez,Male,42,Swaziland,East Kevinhaven,sarascott@example.org,(913)278-6369x984,Retail,33689,2022-06-17,12,999.16,2024-12-05,5,1,1,0.46,No
+CUST_0693,Dana,Elliott,Female,67,Taiwan,South Meganside,dmoore@example.org,345.456.8577x4057,SME,52934,2023-01-30,5,1419.53,2025-09-09,3,2,2,0.03,No
+CUST_0694,Michael,Smith,Male,46,Gambia,Scottburgh,nunezelizabeth@example.net,+1-348-541-7729x747,Corporate,53276,2024-06-05,10,1711.34,2025-08-14,3,1,0,0.39,No
+CUST_0695,Shane,Johnson,Male,56,Cyprus,Andersonfort,alison76@example.org,001-575-416-2971x7791,Corporate,136349,2021-01-19,9,745.39,2025-06-17,2,0,0,0.77,No
+CUST_0696,Taylor,Gomez,Female,48,Latvia,Larsenchester,kylejohnston@example.com,9155642448,Retail,149336,2022-03-28,10,559.72,2025-07-04,5,2,2,0.82,No
+CUST_0697,Nicole,Jackson,Male,64,Estonia,Lake Aaron,ashleyharris@example.net,001-429-859-1385x211,Enterprise,121968,2020-12-26,11,1895.87,2025-03-04,2,2,0,0.7,No
+CUST_0698,Anthony,Washington,Female,60,Micronesia,Jamesport,rachel19@example.com,842-664-4333,Retail,39873,2023-02-07,10,1466.29,2025-06-04,3,2,0,0.69,No
+CUST_0699,James,Jenkins,Male,67,Bulgaria,South Matthewport,patricia41@example.org,383.257.5942,Retail,33050,2022-05-01,12,478.38,2024-12-10,4,1,0,0.51,No
+CUST_0700,Chad,Wright,Female,40,India,Bradleyhaven,malonekevin@example.org,001-386-348-8151x514,Corporate,86216,2022-02-18,10,925.71,2025-09-10,1,3,3,0.54,Yes
+CUST_0701,Aaron,Houston,Female,61,Malawi,West Mark,linmatthew@example.org,+1-805-739-7033,Retail,104444,2024-07-04,3,1603.08,2024-12-07,3,4,3,0.74,No
+CUST_0702,David,Galvan,Male,55,Belarus,North Brittneyborough,barbermelanie@example.net,+1-229-563-0813x652,Retail,104040,2023-03-24,9,1116.77,2025-01-17,5,2,2,0.25,Yes
+CUST_0703,Brittany,Davis,Male,37,Turkey,Cooleyshire,william77@example.net,(328)817-8717x3780,Corporate,41644,2024-09-19,9,1317.41,2025-06-18,3,3,2,0.23,No
+CUST_0704,Amanda,Cox,Male,40,Angola,Annaville,martinezvictoria@example.org,468.303.1885x3812,SME,82021,2024-10-21,16,1519.85,2025-03-27,5,2,1,0.95,No
+CUST_0705,Courtney,Franklin,Male,62,Ecuador,West Jacob,rebeccaryan@example.net,(898)537-2999x6556,Corporate,57125,2021-11-17,9,1262.92,2024-12-24,5,6,3,0.03,No
+CUST_0706,Natasha,Graham,Other,69,Guatemala,East Larryport,cassandrarivers@example.net,(730)620-3652x5757,SME,86899,2022-12-22,16,1103.15,2025-03-06,5,5,1,0.14,No
+CUST_0707,Abigail,Levine,Male,33,Panama,North Chadmouth,brian73@example.org,001-824-368-3243,Enterprise,62291,2025-02-27,10,1511.75,2025-04-07,2,1,1,0.57,No
+CUST_0708,Anthony,Alexander,Female,67,British Indian Ocean Territory (Chagos Archipelago),Hopkinsshire,msmith@example.com,(924)295-1705x571,Retail,55060,2024-02-10,11,1468.75,2025-01-26,4,1,0,0.74,Yes
+CUST_0709,Adam,Goodman,Male,59,Tuvalu,North Janet,zwright@example.net,001-692-336-6541x6769,Retail,21538,2025-01-25,7,1278.25,2025-02-13,3,3,2,0.54,No
+CUST_0710,Julie,Parker,Female,25,Slovakia (Slovak Republic),Weaverstad,cassie72@example.com,+1-655-968-0348x286,Retail,56176,2023-12-11,11,751.59,2025-04-23,4,3,3,0.36,No
+CUST_0711,Kenneth,Norton,Female,67,Ghana,New Laura,fowlerjesse@example.org,(390)430-1627,Corporate,142430,2021-01-15,14,841.33,2025-03-20,1,6,3,0.98,No
+CUST_0712,Donald,Rocha,Female,38,Heard Island and McDonald Islands,Lake Anitamouth,deborahgreen@example.net,001-370-266-6694x3657,Corporate,61520,2025-01-08,9,1942.36,2025-09-24,3,2,1,0.7,No
+CUST_0713,Mark,Smith,Male,18,Bahamas,Cohenfort,tonyafreeman@example.org,560.539.4062x96790,Enterprise,45675,2021-09-16,8,269.15,2025-09-21,4,1,1,0.83,No
+CUST_0714,Lori,Downs,Male,25,Albania,Amyhaven,jessicamcintosh@example.com,(714)323-3317x7695,SME,38287,2025-03-18,12,573.58,2025-09-02,4,0,0,0.04,No
+CUST_0715,Kenneth,Odonnell,Male,46,Sierra Leone,East Alexandraton,jeremytran@example.net,001-652-979-1778x700,Corporate,20174,2025-03-11,5,1010.18,2025-03-24,1,2,1,0.24,No
+CUST_0716,John,Carter,Female,49,Yemen,West Johnathan,aprilmcintosh@example.net,234.205.7524,Retail,112268,2020-10-31,8,1681.62,2025-04-16,5,3,1,0.37,No
+CUST_0717,Connie,Mitchell,Female,55,Cyprus,West Joseph,kathleenshaw@example.com,(749)326-3409x39917,SME,54998,2021-11-30,12,369.17,2025-01-19,3,2,2,0.18,No
+CUST_0718,Jimmy,Bennett,Other,22,Madagascar,North Felicia,matthew87@example.com,+1-449-760-2848x48015,Enterprise,122591,2020-12-27,8,590.06,2025-01-09,3,3,1,0.07,No
+CUST_0719,Gary,Villegas,Male,64,Congo,Lake Scott,matthew82@example.org,574-538-6533x817,SME,73312,2021-05-21,7,178.31,2025-06-23,1,1,1,0.23,No
+CUST_0720,Shannon,Williams,Female,39,Andorra,North Victoria,mcdonaldgrace@example.com,400-563-5194,Retail,32112,2023-09-13,10,1426.67,2024-11-30,5,1,1,0.53,Yes
+CUST_0721,Courtney,Hart,Female,64,Cyprus,North Christopherhaven,sdominguez@example.org,447.553.5225,Corporate,125410,2025-05-13,13,514.51,2024-12-25,3,3,2,0.7,No
+CUST_0722,Shawn,Diaz,Male,51,Tajikistan,Alextown,kayla79@example.net,(286)581-1411x6273,Retail,95225,2023-06-18,3,807.92,2024-10-17,3,0,0,0.77,No
+CUST_0723,Melissa,Villarreal,Male,18,Anguilla,Matthewberg,pettyamy@example.com,9945093523,Retail,64814,2021-02-20,12,915.22,2024-12-14,3,1,1,0.04,No
+CUST_0724,Melissa,Lawrence,Female,43,Norway,Shawbury,lindaclark@example.net,+1-816-532-9235x70516,Retail,105091,2023-05-18,15,1788.06,2025-05-25,5,3,0,0.43,No
+CUST_0725,Joseph,Schultz,Female,60,Kiribati,Suttonberg,robertgomez@example.org,001-914-455-4390,Corporate,70719,2024-01-25,6,852.09,2025-07-03,1,2,0,0.12,No
+CUST_0726,Stephen,Arnold,Female,27,Niue,South Brian,robertsryan@example.org,885-618-5932,Corporate,149887,2025-04-08,12,333.19,2024-11-20,3,1,1,0.43,No
+CUST_0727,Erica,Nash,Male,47,Eritrea,South Johnmouth,jonesdawn@example.net,+1-369-579-1613x0389,Retail,53919,2022-04-24,8,1072.41,2024-11-21,4,1,1,0.43,No
+CUST_0728,Karen,Jones,Female,67,Trinidad and Tobago,Bellchester,caseyjustin@example.net,299.871.5850x3163,Retail,93155,2023-06-16,9,1927.77,2025-05-19,5,6,1,0.5,Yes
+CUST_0729,Charles,Mclaughlin,Male,35,Comoros,New Carolynhaven,allencrystal@example.com,550.992.9700,Corporate,91569,2024-06-28,6,1234.99,2025-03-26,2,1,1,0.89,No
+CUST_0730,Kathryn,Johnston,Male,34,Gambia,Moodyside,gutierrezhunter@example.com,975.885.1491,Retail,61328,2023-06-16,13,1967.61,2024-11-22,1,2,0,0.81,No
+CUST_0731,Anthony,Garcia,Male,43,Mayotte,East Katherine,holmeschad@example.org,874-984-8741,Retail,90482,2021-08-06,13,1690.16,2025-09-09,4,1,0,0.64,No
+CUST_0732,Amanda,Mathews,Female,25,Angola,West Brittney,balldeborah@example.net,9809943313,Corporate,44618,2022-03-19,10,120.13,2025-02-18,3,1,1,0.89,No
+CUST_0733,Kyle,Davis,Female,64,Lao People's Democratic Republic,Port Joshua,joshuarichards@example.net,612-400-9670,SME,54675,2024-01-30,12,1333.88,2025-02-04,2,2,1,0.68,No
+CUST_0734,Joseph,Burns,Female,57,Algeria,East Joshua,heatherstrickland@example.com,(852)914-0917x6746,Retail,121794,2022-01-23,6,609.2,2024-11-30,1,2,1,0.82,No
+CUST_0735,Molly,Walls,Male,66,Tokelau,North Melissa,pamelawilson@example.com,5602010066,Retail,38919,2020-10-17,15,1141.25,2025-04-15,5,1,0,0.56,Yes
+CUST_0736,Lori,Nichols,Female,29,Norfolk Island,Carterfort,lshaw@example.net,364-274-4025,Retail,24173,2022-04-17,8,594.72,2025-06-06,2,2,2,0.53,No
+CUST_0737,Peter,Diaz,Male,44,Tunisia,Ruizview,mckenziewilliam@example.com,5442422815,Enterprise,129369,2025-05-27,8,730.3,2025-09-04,2,1,1,0.72,No
+CUST_0738,Theresa,Martinez,Female,25,Nauru,Port Mary,osampson@example.org,8834082278,Corporate,46400,2025-05-31,2,1850.18,2025-07-03,4,3,2,0.02,No
+CUST_0739,Charles,Turner,Male,42,Norway,South Shaunbury,julian85@example.net,+1-947-312-5663,Corporate,70445,2024-08-26,11,452.95,2025-09-11,1,3,2,0.69,No
+CUST_0740,Sylvia,Garcia,Male,63,Martinique,West Ryanside,ajacobson@example.org,(783)617-1570,Retail,90305,2023-04-25,8,1754.51,2025-08-03,4,3,1,0.93,Yes
+CUST_0741,Raymond,Ortiz,Male,21,Timor-Leste,East Aprilborough,ngriffith@example.org,+1-749-802-4766x3355,Corporate,57564,2022-11-09,8,109.39,2025-04-23,4,3,3,0.71,No
+CUST_0742,Andrea,Williams,Male,50,Equatorial Guinea,New Nicholas,sarah21@example.com,+1-520-618-1757,Retail,65814,2025-05-02,8,227.21,2025-09-07,3,4,1,0.04,No
+CUST_0743,James,Parks,Female,18,Tonga,Porterland,wfranklin@example.org,293-307-9734,Corporate,99747,2022-09-01,10,1716.62,2025-04-10,5,3,2,0.38,No
+CUST_0744,James,Williams,Female,36,Saudi Arabia,Williamburgh,morajohn@example.com,+1-841-459-6571x782,Enterprise,108791,2022-03-05,12,1279.58,2024-12-12,2,0,0,0.81,No
+CUST_0745,Patricia,Patterson,Male,48,North Macedonia,Dustinchester,sheilahooper@example.org,478-915-9768x9381,Corporate,47962,2022-04-25,14,1507.11,2025-05-31,1,0,0,0.96,No
+CUST_0746,Eric,Mcdaniel,Female,33,Cuba,Erinmouth,jaredduncan@example.net,667.748.3804x851,SME,104892,2021-12-09,10,458.36,2025-03-21,5,2,0,0.37,No
+CUST_0747,Victor,Freeman,Male,31,Slovenia,Lyonsport,anthonybuchanan@example.org,+1-689-431-7571x66431,SME,105842,2023-08-02,9,1097.31,2025-09-11,5,3,3,0.84,No
+CUST_0748,Brianna,Morales,Female,65,Cocos (Keeling) Islands,Millerburgh,jenkinsjennifer@example.net,+1-880-765-2941x464,Retail,90533,2024-09-05,9,1487.58,2024-11-03,1,1,1,0.86,No
+CUST_0749,Timothy,Shaw,Female,22,Singapore,Coxstad,stevensonpatrick@example.net,403-914-0663x7959,Enterprise,76184,2021-02-11,7,1273.26,2025-08-24,5,2,2,0.12,Yes
+CUST_0750,Edward,Goodman,Female,58,Egypt,Port Zachary,xwebb@example.com,379.715.2407,Retail,102912,2022-08-27,9,969.81,2024-11-05,3,2,2,0.85,No
+CUST_0751,Susan,Walters,Male,43,Botswana,Hicksview,williamstami@example.net,510.325.7187x220,Corporate,126416,2025-01-11,14,1921.58,2025-02-15,5,3,1,0.32,No
+CUST_0752,Ellen,Johnson,Female,45,Kyrgyz Republic,Port Kellymouth,armstrongmark@example.org,756-555-2906x8849,Retail,123591,2024-04-21,11,1368.51,2025-07-14,3,0,0,0.59,No
+CUST_0753,Ashley,Fischer,Female,19,Togo,Lake Janet,smoss@example.com,8858445258,Retail,30578,2021-10-11,7,1820.11,2024-12-08,2,1,1,0.54,No
+CUST_0754,Benjamin,Shaw,Male,67,Greenland,New Mary,yelliott@example.org,4733283219,Corporate,38624,2025-07-22,11,1473.05,2025-03-19,2,1,1,0.66,No
+CUST_0755,Meredith,James,Male,23,Turks and Caicos Islands,Cynthiaport,croberts@example.org,827-370-2936x8706,Retail,136164,2021-05-13,8,1484.15,2025-10-03,4,1,1,0.74,Yes
+CUST_0756,Troy,Dunn,Female,26,Mayotte,Carterberg,uweber@example.com,+1-456-584-1169x93962,Corporate,59194,2023-05-06,8,206.04,2024-12-25,3,0,0,0.44,No
+CUST_0757,Julie,Burke,Female,50,Greece,Lake Anna,stephaniescott@example.net,(278)540-6648x953,Corporate,129903,2023-10-07,8,750.96,2025-01-01,2,2,2,0.89,No
+CUST_0758,Karen,Harvey,Female,58,Israel,Dominguezbury,tfrye@example.com,323.215.5283x57568,Retail,20389,2024-05-31,5,1723.82,2025-02-20,5,0,0,0.81,No
+CUST_0759,Cole,Cobb,Female,42,Uzbekistan,Parkview,andrew44@example.com,001-654-283-2877x1881,Retail,119303,2025-03-29,5,503.58,2025-06-27,1,0,0,0.79,No
+CUST_0760,Timothy,Allison,Female,65,Eritrea,Port Barbarastad,nelsonjennifer@example.net,692-622-9580x07335,Corporate,131116,2021-08-09,10,275.24,2025-06-08,1,2,1,0.46,Yes
+CUST_0761,Christopher,Mahoney,Male,30,Montenegro,Larsonville,meganholland@example.net,(650)426-5421x3194,Retail,133903,2024-02-06,4,685.91,2025-04-13,3,4,1,0.04,No
+CUST_0762,Erin,Parker,Male,26,Tuvalu,Boydhaven,kevinromero@example.com,(370)405-6683,SME,87391,2023-11-28,7,479.85,2025-04-05,4,1,1,0.49,No
+CUST_0763,Robert,Hoffman,Male,30,Malaysia,Lake Brandy,mturner@example.org,001-791-352-4114,Corporate,126429,2023-02-22,10,1854.31,2024-10-31,5,3,3,0.9,No
+CUST_0764,Virginia,Lowery,Female,48,Jersey,South Erica,blevinstina@example.net,001-973-992-3498x1353,SME,33794,2022-02-20,12,1742.53,2025-09-13,3,1,1,0.19,No
+CUST_0765,Andrea,Newman,Male,58,Tajikistan,New Tony,kelly04@example.net,(657)529-4625,Corporate,78002,2021-12-18,9,1024.38,2025-05-08,1,2,2,0.98,Yes
+CUST_0766,Lauren,Meyer,Female,28,Mozambique,East Kristinbury,davidfowler@example.org,(350)836-9873x387,Corporate,55531,2024-06-24,8,169.62,2024-10-10,3,2,2,0.81,Yes
+CUST_0767,Sierra,Grant,Female,21,Turks and Caicos Islands,West Robertburgh,gmclaughlin@example.org,001-332-255-8328x3457,Corporate,72815,2024-06-18,12,1443.4,2025-05-23,5,0,0,0.71,Yes
+CUST_0768,Lisa,Martin,Female,51,Japan,Brianfurt,theresajones@example.com,627-557-6816x6593,Retail,24986,2025-06-26,6,1265.65,2025-09-11,2,3,1,0.68,No
+CUST_0769,Evelyn,Thomas,Male,55,Bouvet Island (Bouvetoya),Garciaberg,rodriguezcharles@example.net,(386)807-1286x711,Retail,52298,2021-03-07,7,1942.58,2025-07-30,5,2,2,0.59,Yes
+CUST_0770,Ashley,King,Female,63,Bulgaria,South Markbury,williamwoods@example.com,(290)211-4065x69724,SME,21481,2024-04-17,8,1139.96,2024-10-12,2,7,5,0.72,Yes
+CUST_0771,David,Davis,Male,21,Tuvalu,North Jessica,suarezcolleen@example.com,6045831765,Corporate,76408,2025-03-16,14,705.97,2024-11-11,2,1,1,0.42,No
+CUST_0772,Jennifer,Black,Female,55,French Polynesia,West Kennethhaven,kendra87@example.com,+1-778-230-0029x339,SME,89267,2025-07-17,12,1062.09,2025-03-13,2,2,2,0.85,No
+CUST_0773,Michelle,Brown,Male,36,Slovakia (Slovak Republic),South Eugeneport,sharon49@example.com,721-316-5869x649,SME,141950,2021-05-24,8,1959.56,2025-05-11,3,1,1,0.7,No
+CUST_0774,Kayla,Bates,Male,23,Gibraltar,Anthonyshire,woodryan@example.org,666-577-3981x540,SME,36835,2024-12-12,6,1407.91,2025-03-17,1,1,1,0.77,Yes
+CUST_0775,Robert,Christensen,Female,51,Hong Kong,East Todd,npotts@example.net,6939225010,Enterprise,145355,2024-10-31,7,1360.35,2025-02-27,3,1,1,0.79,No
+CUST_0776,Chad,Rodriguez,Male,35,Iraq,East Bradmouth,ysanford@example.org,001-308-428-6374,Corporate,47798,2022-09-20,16,519.33,2025-02-11,1,6,2,0.09,Yes
+CUST_0777,Kelsey,Smith,Male,30,United Kingdom,West Jessicahaven,vcox@example.com,8945191459,Retail,111649,2024-06-05,9,1500.02,2025-08-04,5,0,0,0.06,No
+CUST_0778,Michael,Huynh,Female,58,Myanmar,Brianstad,michael22@example.org,(893)933-3010,Corporate,84887,2021-06-08,9,1513.03,2025-03-27,4,1,1,0.8,No
+CUST_0779,Dwayne,Wright,Female,40,Falkland Islands (Malvinas),West Philiphaven,harrisamanda@example.net,+1-462-974-0461x507,Retail,39477,2023-07-26,8,668.71,2025-02-16,5,0,0,0.26,No
+CUST_0780,Eric,Pitts,Female,36,Algeria,East Rhonda,simskaren@example.net,594.767.6008,Corporate,37266,2022-09-14,9,993.24,2025-04-24,3,6,3,0.58,No
+CUST_0781,Allison,Moore,Female,62,Taiwan,Sotoberg,xvelazquez@example.com,+1-909-219-3351,SME,106328,2022-01-05,9,624.48,2025-08-12,3,1,1,0.44,No
+CUST_0782,Kelly,Porter,Female,28,Tunisia,Port Bradleyside,toddwallace@example.org,001-468-935-2819x4220,Corporate,105988,2022-06-29,11,554.47,2025-01-17,1,2,1,0.02,No
+CUST_0783,Connor,Richardson,Male,18,Costa Rica,Hectorport,oadams@example.net,001-475-958-3069x0629,Retail,147815,2024-04-25,21,100.5,2025-02-23,3,4,2,0.04,No
+CUST_0784,Russell,Casey,Male,41,Tanzania,Lake Coryland,gewing@example.net,001-813-410-5293x64679,Retail,63526,2022-02-19,9,606.16,2025-09-17,2,0,0,0.83,No
+CUST_0785,Sue,Gonzalez,Male,24,French Polynesia,South Tracy,smedina@example.net,001-759-257-8460,Corporate,137965,2024-03-11,13,1130.24,2025-01-12,3,2,2,0.61,No
+CUST_0786,Hailey,Farmer,Female,42,Hong Kong,Myersland,jefferysmith@example.com,659-232-1361x207,Retail,134615,2021-01-28,9,53.12,2025-07-08,1,2,1,0.52,No
+CUST_0787,Elizabeth,Ward,Female,38,New Zealand,West Robert,ruthkaiser@example.org,990-322-6470,SME,126870,2023-10-08,7,602.28,2025-06-01,1,1,1,0.94,No
+CUST_0788,Kenneth,Watkins,Male,32,Jersey,Lake Albert,bbutler@example.com,001-507-885-9827x62428,Retail,147426,2024-01-01,8,1768.75,2025-05-10,2,4,4,0.17,No
+CUST_0789,Edward,Lopez,Male,18,Jersey,South Willie,elizabethsimmons@example.com,231.752.7391x200,Retail,31889,2022-06-29,7,1207.61,2025-09-30,1,2,2,0.26,No
+CUST_0790,David,Morton,Female,29,Zambia,Jessicamouth,vkramer@example.net,902.493.2013x36118,Retail,44335,2024-02-29,3,1235.33,2025-04-17,4,2,0,0.76,No
+CUST_0791,Donna,Moore,Male,24,Ecuador,Williamsfort,turnerapril@example.com,(798)776-4964x79991,Corporate,31254,2023-05-16,9,836.56,2025-07-22,5,1,1,0.78,No
+CUST_0792,Robert,Page,Female,32,Barbados,West Kevinmouth,ashleyhenson@example.org,309.869.5065x9976,Corporate,106610,2022-11-06,11,1369.12,2025-08-29,3,1,1,0.4,No
+CUST_0793,Michelle,Harper,Female,38,Malta,Lake Sherrichester,zbaker@example.net,969.371.4591x6075,Retail,31442,2024-02-29,10,420.37,2025-07-25,4,6,1,0.95,Yes
+CUST_0794,Anthony,Johnson,Female,36,Niue,South Danielle,joannestevens@example.com,001-555-478-9921x10577,Retail,66289,2023-11-21,8,1646.56,2025-07-26,3,3,1,0.94,No
+CUST_0795,Julia,Bowen,Male,46,Bulgaria,West Amber,traviswilliams@example.com,(690)727-6140x22321,Corporate,73747,2023-06-21,10,277.54,2025-07-28,4,2,2,0.01,No
+CUST_0796,Corey,Thompson,Female,42,Solomon Islands,New Barbaramouth,ballardbrian@example.org,879.243.5387x0337,Retail,57327,2023-03-11,7,1329.2,2025-09-26,3,4,0,0.17,No
+CUST_0797,Edward,Davidson,Female,50,Mexico,North Michael,xwilliams@example.org,001-855-248-2515x0714,Corporate,36199,2024-08-03,16,715.24,2025-07-12,2,0,0,0.82,No
+CUST_0798,Debbie,Brown,Female,66,Samoa,Taylorchester,kimberlyrogers@example.net,+1-407-874-8055,Corporate,92827,2020-11-08,8,1507.65,2025-07-05,1,0,0,0.34,No
+CUST_0799,Brandon,Kramer,Female,49,Puerto Rico,Wellsville,steven41@example.net,366-507-7840x81512,Retail,126464,2021-09-18,12,1122.04,2025-03-09,1,2,0,0.1,No
+CUST_0800,Alyssa,Ruiz,Female,66,Sweden,South Angel,christopherlee@example.net,001-310-634-2018x494,Retail,20112,2021-02-18,11,932.09,2025-08-21,2,2,2,0.78,No
+CUST_0801,Jose,Mills,Female,52,Iceland,Amymouth,howellreginald@example.org,(809)857-3236,Enterprise,107051,2024-12-22,13,380.37,2025-03-15,4,3,0,0.45,No
+CUST_0802,Bruce,King,Male,61,Cayman Islands,Angelaburgh,ythompson@example.com,989.541.5908x0783,Corporate,39581,2025-07-11,8,1291.8,2025-03-29,5,2,2,0.49,No
+CUST_0803,Cynthia,Kelly,Female,55,Czech Republic,Tammyberg,thomas62@example.net,906.470.9729,Corporate,134228,2024-09-12,6,1950.8,2024-12-21,4,4,1,0.19,No
+CUST_0804,David,Norris,Female,43,Uruguay,Lake Karen,bmiller@example.org,8782706288,Retail,79722,2022-12-20,10,1659.93,2025-07-29,1,6,1,0.66,No
+CUST_0805,Gloria,Moon,Male,28,Martinique,East Curtistown,morrisvictor@example.org,828.359.0150x16713,Corporate,112036,2023-10-13,8,167.02,2025-04-03,5,0,0,0.55,No
+CUST_0806,Patrick,David,Female,52,Iceland,Lake Jose,michaelsmith@example.org,001-830-472-3224x428,Retail,117562,2024-10-04,14,783.65,2025-03-21,3,2,2,0.21,No
+CUST_0807,David,Johnson,Female,25,Switzerland,South Andreaborough,dbrock@example.org,862.933.6305x386,Corporate,36523,2023-02-11,9,1854.89,2025-05-04,5,0,0,0.34,No
+CUST_0808,Edward,Figueroa,Female,63,Romania,East William,amywilliams@example.com,282.973.5242x134,Enterprise,86960,2025-08-02,12,1030.94,2025-09-27,4,1,1,0.6,No
+CUST_0809,Anita,Hernandez,Male,31,New Zealand,New Danielleport,austin66@example.com,512-788-0946x2066,Retail,137637,2021-02-08,16,1341.12,2025-03-13,2,0,0,0.92,No
+CUST_0810,Tracy,Spencer,Male,27,Andorra,East Richard,gregorycompton@example.net,9915361189,Retail,39552,2025-02-07,10,1829.57,2025-04-20,3,1,1,0.92,No
+CUST_0811,Lori,Barker,Other,19,Saudi Arabia,Cameronmouth,gravesbrittney@example.net,+1-690-270-8129x18228,Retail,143396,2023-12-27,5,1753.9,2025-08-14,4,4,0,0.29,Yes
+CUST_0812,Erica,Perry,Female,63,Lithuania,Lloydview,dchurch@example.org,+1-412-694-1692,Retail,30808,2024-10-15,7,1028.55,2025-05-06,3,2,2,0.74,No
+CUST_0813,Christopher,Smith,Male,26,Zimbabwe,Russellburgh,richardgarcia@example.net,001-867-412-0886x8607,Retail,124347,2022-03-11,8,903.41,2025-04-11,5,5,2,0.78,No
+CUST_0814,Maria,Frazier,Female,20,Senegal,Johnstonfort,aarongriffin@example.net,+1-873-998-3216x6926,Retail,92525,2023-08-10,10,712.4,2025-03-28,1,2,2,0.81,No
+CUST_0815,Kaitlin,Smith,Female,38,Mauritius,Wallaceview,ayalarichard@example.com,(685)952-9779x5634,SME,43620,2024-06-21,11,1452.09,2025-06-17,4,3,1,0.57,No
+CUST_0816,Stephen,Velasquez,Female,43,Eritrea,Jenkinsfort,carrie60@example.net,679.951.6929x171,Corporate,124565,2022-01-10,6,609.62,2025-08-15,2,1,1,0.01,Yes
+CUST_0817,Melanie,Blackwell,Female,25,Morocco,Leeburgh,shari99@example.com,306-571-5451x37927,Retail,20887,2024-02-24,7,537.28,2024-10-11,5,5,0,0.76,No
+CUST_0818,Andrew,Gonzales,Male,65,Venezuela,Pamelaberg,ophillips@example.org,(821)531-8071x429,Enterprise,51802,2021-12-21,4,744.69,2024-11-22,4,2,2,0.11,No
+CUST_0819,Sandra,Zimmerman,Male,19,Nigeria,Johnsonville,brett89@example.com,001-479-908-6472,Retail,105024,2021-11-11,13,395.57,2024-10-31,2,0,0,0.12,No
+CUST_0820,David,Alvarado,Male,23,Czech Republic,South Matthewhaven,hernandezwayne@example.net,(600)999-9644x34507,Enterprise,115549,2023-11-24,10,1405.48,2025-05-08,4,4,4,0.61,No
+CUST_0821,Rodney,Kim,Female,45,Czech Republic,Lake Teresaburgh,jacqueline27@example.com,713.767.1717,Retail,134737,2021-04-24,7,1251.67,2025-06-09,5,1,1,0.98,No
+CUST_0822,Abigail,Hernandez,Male,46,Gabon,North Julie,robertblackburn@example.com,662.498.3677x03750,SME,138639,2024-08-14,12,991.61,2025-03-05,4,2,2,0.24,No
+CUST_0823,Diane,Fitzgerald,Male,43,Cameroon,North Mark,chopkins@example.net,(889)485-9831,Corporate,138248,2020-11-09,11,811.14,2025-07-05,3,5,2,0.65,No
+CUST_0824,Cindy,Lewis,Male,42,Argentina,Joneschester,shirleykim@example.org,001-897-253-6121x22830,SME,101938,2025-06-24,4,1822.67,2024-12-28,5,2,2,0.3,Yes
+CUST_0825,Sheri,Waller,Female,29,Marshall Islands,Heatherfort,elizabeth24@example.net,+1-598-504-1156,Enterprise,106741,2024-10-24,10,106.79,2025-04-08,4,2,1,0.9,No
+CUST_0826,Sherry,Suarez,Female,22,Pitcairn Islands,Glentown,meganmartin@example.com,(357)529-1468,Retail,141028,2022-07-28,11,1549.76,2025-02-26,1,5,1,0.59,No
+CUST_0827,Brandon,Hodges,Male,51,Venezuela,Joneshaven,reneestein@example.com,994-326-4631,Enterprise,142746,2024-09-01,11,1808.72,2025-07-01,4,0,0,0.21,No
+CUST_0828,David,Bennett,Male,65,United Arab Emirates,Hartfort,bullockcharles@example.com,+1-596-452-6822x02542,Retail,46049,2022-04-04,7,920.39,2025-06-27,3,4,1,0.26,No
+CUST_0829,Andrew,Hayes,Female,54,Hong Kong,Fullerfort,riverakatrina@example.org,548.374.8936x2983,Retail,97789,2021-11-30,15,1123.85,2025-05-20,2,3,2,0.43,No
+CUST_0830,Heather,Brown,Male,32,Belgium,Anitatown,brandon02@example.com,+1-387-567-5876x0065,Retail,104526,2023-01-21,10,1891.7,2025-03-09,2,5,3,0.12,No
+CUST_0831,Steven,Curry,Male,61,Liberia,Hornville,emmajackson@example.net,668-731-8621,Corporate,27846,2021-02-22,12,463.94,2024-12-26,2,0,0,0.08,Yes
+CUST_0832,Marissa,Lewis,Male,53,Tunisia,Melissaburgh,marshalljames@example.org,569-591-5498,Retail,110563,2024-04-14,13,1064.26,2025-02-08,1,2,2,0.68,No
+CUST_0833,Charles,Harris,Male,32,Argentina,Swansonville,gking@example.com,+1-649-639-0950x1215,Corporate,124736,2024-04-04,9,975.71,2025-08-20,3,1,1,0.41,No
+CUST_0834,Sarah,Mcclure,Male,60,Palestinian Territory,Jessicaton,moralesaaron@example.net,+1-849-821-5342x65836,Corporate,66220,2024-08-14,9,553.87,2025-07-31,5,5,2,0.73,Yes
+CUST_0835,Sarah,Long,Female,65,French Southern Territories,Port Stephanieside,bentleytiffany@example.com,+1-202-384-3772x879,SME,66163,2023-02-26,4,1646.26,2025-09-23,2,3,1,0.11,Yes
+CUST_0836,Kelly,Hughes,Male,40,Poland,East Emily,ajohnston@example.org,001-976-426-8655x9294,SME,23765,2023-01-27,14,1804.22,2025-06-03,3,1,1,0.61,No
+CUST_0837,Caleb,Parrish,Female,23,United States Virgin Islands,Sarahtown,gabrielaphillips@example.net,001-347-755-8368,Corporate,137126,2021-01-03,12,1574.77,2025-08-30,4,2,2,0.44,Yes
+CUST_0838,Robert,Mack,Male,63,Vietnam,New Michelleville,staffordlindsay@example.net,606.423.4876x647,Retail,101486,2021-12-21,7,430.95,2025-05-17,1,0,0,0.06,Yes
+CUST_0839,Sara,Jones,Female,67,Vanuatu,North Tylerhaven,hansensean@example.org,+1-567-785-8560x64461,Retail,65270,2020-11-19,13,219.16,2025-06-01,3,1,1,0.54,No
+CUST_0840,Christopher,Johnson,Female,61,Burundi,Sandyhaven,ramirezgeorge@example.net,433-976-4498x5655,Retail,95277,2024-07-07,16,1230.62,2025-02-10,3,5,0,0.08,Yes
+CUST_0841,David,Young,Male,60,Guam,Whiteshire,finleyemily@example.net,497-580-3584,Retail,108278,2024-08-07,11,161.33,2025-01-19,5,1,1,0.83,No
+CUST_0842,Jennifer,Harris,Female,62,Saint Pierre and Miquelon,South Kevin,caseywhite@example.org,001-591-540-3053x66878,Retail,146354,2023-07-10,16,1362.01,2024-12-24,3,3,3,0.63,Yes
+CUST_0843,Daniel,Jefferson,Male,38,Australia,North Emilybury,cynthia93@example.com,(800)490-1597,Retail,110239,2021-07-25,12,1084.33,2025-01-14,5,1,1,0.56,No
+CUST_0844,Amber,Warner,Other,40,Singapore,Woodsmouth,fbryant@example.net,(916)282-2677x468,Enterprise,124245,2022-08-27,17,1342.43,2024-11-17,1,3,2,0.13,No
+CUST_0845,Maria,Booth,Male,60,Luxembourg,Maysborough,kalexander@example.org,704-865-4658x9765,Corporate,142332,2022-01-12,14,1200.83,2025-09-02,1,5,3,0.29,No
+CUST_0846,Teresa,Saunders,Male,33,Argentina,West Rick,rjackson@example.org,+1-697-777-4093x22408,Retail,123159,2020-12-18,3,874.27,2025-01-22,4,0,0,0.49,No
+CUST_0847,Kristine,Harris,Male,64,Faroe Islands,Michaelmouth,garrettmark@example.net,+1-451-431-4810x287,Corporate,42931,2022-06-18,4,441.71,2025-01-16,5,1,1,0.63,Yes
+CUST_0848,Alex,Brown,Other,32,Colombia,Martinside,bhutchinson@example.org,6759933195,Retail,109116,2021-11-23,5,646.12,2024-12-31,5,3,3,0.18,No
+CUST_0849,Rebecca,Davis,Female,42,Ecuador,Port Taylortown,webbandrew@example.com,774.511.7402,Corporate,140599,2021-10-26,5,1072.78,2025-04-16,2,1,1,0.01,Yes
+CUST_0850,Penny,Mendez,Female,53,Thailand,Port Benjaminville,qrobinson@example.com,265-253-3941,Corporate,75633,2025-10-01,6,1321.14,2025-08-03,2,3,2,0.34,Yes
+CUST_0851,William,Huffman,Male,28,Martinique,Joshuaburgh,bryankrause@example.org,(295)388-8632x26004,Corporate,100702,2024-04-05,13,1569.99,2025-01-30,4,0,0,0.48,No
+CUST_0852,Brian,Hubbard,Female,68,Syrian Arab Republic,Port Diana,joelmiles@example.com,822.812.6081x96686,Corporate,71913,2022-08-21,15,1545.98,2025-09-10,1,1,1,0.18,No
+CUST_0853,Andrea,Sparks,Male,32,Nepal,Matthewston,xgordon@example.net,(943)231-7563x6335,Enterprise,139144,2024-07-24,7,1946.74,2025-07-30,2,0,0,0.49,No
+CUST_0854,Jeffrey,Benson,Female,21,Hungary,Williamborough,grantcalvin@example.org,+1-637-531-0983,SME,114776,2024-05-17,8,607.39,2025-09-29,3,2,1,0.34,Yes
+CUST_0855,Paul,Hardin,Male,38,Guinea-Bissau,Johnsonshire,tyler78@example.net,6687690642,Corporate,45991,2022-07-03,13,188.67,2025-06-15,1,4,3,0.46,No
+CUST_0856,Madison,Fuller,Male,30,Cook Islands,Matthewport,reevesallison@example.net,(559)442-6854,Corporate,141049,2024-05-16,12,724.03,2025-05-13,3,1,1,0.35,Yes
+CUST_0857,Julie,Morris,Male,39,Christmas Island,Bobbyshire,tammyfranklin@example.net,+1-657-962-6431,Corporate,74845,2025-09-22,12,1499.42,2024-11-30,5,3,3,0.63,No
+CUST_0858,Lindsey,Phillips,Male,36,Oman,New Shannon,bradley42@example.com,277-350-2689x0437,Retail,124092,2022-03-22,6,904.32,2025-05-12,1,1,1,0.04,No
+CUST_0859,Angela,Hinton,Female,51,Bangladesh,Madisonton,justinclark@example.org,(642)534-8037x71222,Retail,118505,2021-03-02,7,1644.69,2024-11-02,4,2,2,0.17,No
+CUST_0860,Peter,Smith,Male,31,Heard Island and McDonald Islands,Conleyland,richard65@example.org,+1-932-781-3469x46709,Retail,75312,2023-08-01,14,1121.19,2025-06-17,5,3,2,0.43,No
+CUST_0861,Roger,Bush,Female,21,Nauru,Johnport,sbrown@example.org,+1-554-364-1364x502,Corporate,30561,2024-09-29,12,1863.09,2025-07-16,5,0,0,0.36,No
+CUST_0862,Shannon,Aguilar,Male,65,Niue,Hopkinsland,bethdecker@example.org,521.710.7012,Corporate,36901,2021-01-08,14,1898.33,2025-08-04,3,2,2,0.39,No
+CUST_0863,Natalie,Arnold,Female,69,North Macedonia,Williamborough,medinaalexandra@example.org,729.745.1647,Retail,126041,2020-12-16,12,185.14,2025-02-12,5,3,3,0.8,No
+CUST_0864,Margaret,Hartman,Male,63,Botswana,South Donnaside,scottbarry@example.org,839.512.1275,Enterprise,115556,2023-07-04,6,940.01,2025-01-07,2,3,3,0.89,No
+CUST_0865,Donald,Powell,Male,44,Mali,South Katherinemouth,travis44@example.net,317.493.5506,Enterprise,82875,2025-07-26,11,1238.89,2025-04-22,1,1,1,0.25,No
+CUST_0866,Edward,Burton,Female,46,Tuvalu,Gilbertfort,jamie53@example.org,(220)482-3510x45101,SME,45917,2022-07-12,6,548.95,2024-11-12,2,1,0,0.84,No
+CUST_0867,Robert,Lawrence,Male,64,Puerto Rico,South Markton,samanthacoleman@example.com,463-281-8049,Corporate,82120,2025-02-16,10,843.8,2025-06-12,3,2,2,0.46,No
+CUST_0868,Wendy,Powell,Male,45,Saint Kitts and Nevis,Port Rachel,cgarza@example.org,+1-900-789-4471,SME,21988,2022-04-07,8,1371.48,2025-09-18,3,0,0,0.27,Yes
+CUST_0869,Janet,Davila,Female,52,Botswana,West Kimhaven,joelpark@example.com,(475)406-4876x701,Retail,133745,2020-12-24,6,492.13,2025-08-08,1,1,1,0.99,No
+CUST_0870,David,Oconnell,Female,25,Bangladesh,Smithbury,derrick34@example.org,388-695-3835x0659,SME,130041,2023-11-30,8,1223.86,2025-04-06,5,4,3,0.82,No
+CUST_0871,Justin,Hawkins,Male,33,Uruguay,New Sarah,bryanharrington@example.net,518-701-4695x71530,Retail,148467,2021-08-16,7,1410.02,2025-07-10,4,1,1,0.99,No
+CUST_0872,Austin,Smith,Male,59,Netherlands Antilles,New Christinehaven,jacksonandrew@example.com,(950)703-1344x403,SME,147400,2025-05-15,13,226.47,2024-12-30,3,3,2,0.17,Yes
+CUST_0873,Rebecca,Hahn,Female,53,Kenya,Josephborough,jenniferbell@example.com,+1-436-460-3288x27781,Retail,34256,2022-06-05,12,1020.18,2025-09-26,1,5,3,0.14,No
+CUST_0874,James,Brown,Male,47,Norway,New Hollymouth,jeremy56@example.net,001-325-770-4681x61414,SME,138490,2022-03-28,10,563.01,2025-07-21,4,2,2,0.5,No
+CUST_0875,Christopher,Young,Male,35,United States Virgin Islands,West Christophermouth,millercourtney@example.org,001-683-464-3675x5267,Enterprise,107728,2023-10-23,10,1462.55,2025-07-19,5,2,0,0.64,No
+CUST_0876,Russell,Shelton,Male,19,Moldova,North Franciscoton,efranklin@example.net,522.983.2316x2162,Retail,146155,2022-02-16,13,419.63,2024-12-14,3,1,1,0.17,No
+CUST_0877,Nicole,Barnes,Female,66,Bhutan,East Jacqueline,tlewis@example.com,841-340-7821,Corporate,48230,2021-05-30,9,1789.86,2025-04-23,1,3,1,0.86,Yes
+CUST_0878,Lisa,Jones,Female,30,France,Laurenland,michaelbrock@example.com,304.973.5712x125,Enterprise,125466,2024-03-18,9,890.34,2024-11-24,1,1,1,0.53,No
+CUST_0879,Danielle,Smith,Male,21,Mauritius,West Phyllischester,patricialee@example.com,+1-408-210-8133x759,Corporate,79778,2020-12-09,13,436.11,2024-12-27,1,2,2,0.41,No
+CUST_0880,Christopher,Smith,Male,43,Wallis and Futuna,Port Stevenberg,greenjeffrey@example.net,5875783121,SME,65833,2024-05-27,12,904.14,2025-09-28,3,2,2,0.6,Yes
+CUST_0881,Bruce,Glover,Male,42,Pakistan,Walkerview,astevens@example.com,001-291-253-1201x059,Corporate,42625,2022-05-30,4,847.05,2025-07-08,4,1,1,0.63,No
+CUST_0882,William,Gill,Female,47,Zambia,North Emilymouth,hardybradley@example.com,001-647-412-2411x035,Retail,52088,2024-01-19,7,886.39,2025-08-20,1,4,1,0.04,No
+CUST_0883,Justin,Gilmore,Male,28,Greece,Martinezhaven,hallison@example.com,+1-768-401-0974,Retail,99650,2021-08-28,14,1191.84,2025-07-08,5,2,2,1.0,No
+CUST_0884,Heather,Pugh,Male,24,Trinidad and Tobago,Jillside,imorales@example.org,468-788-5978,Retail,61167,2023-09-02,12,1066.29,2024-11-23,1,1,1,0.36,No
+CUST_0885,Jared,Banks,Female,48,Turkmenistan,Port Phillipberg,tina88@example.net,(999)980-3266x0746,SME,123937,2022-11-08,14,342.07,2024-10-19,4,2,0,0.06,No
+CUST_0886,Bradley,Austin,Male,61,Kenya,Nicholasmouth,williamsanthony@example.net,461.215.8579x20264,Retail,91291,2023-07-27,9,177.88,2025-08-19,3,0,0,0.85,No
+CUST_0887,Diane,Vance,Female,27,Namibia,Wilsonview,amyramsey@example.com,(245)768-5950,Corporate,85303,2024-05-29,12,1472.36,2025-02-09,1,0,0,0.99,No
+CUST_0888,Adam,Baker,Male,56,Solomon Islands,Patelside,parkergeoffrey@example.org,885-940-4435,Corporate,96361,2024-10-12,8,1141.45,2024-12-09,1,1,1,0.82,No
+CUST_0889,Bryan,Novak,Male,30,Saint Kitts and Nevis,Kyleborough,edwardroberts@example.org,001-478-983-4730x190,Corporate,108229,2022-01-05,5,750.05,2025-07-21,5,0,0,0.85,No
+CUST_0890,Christy,Leonard,Male,48,Panama,East Triciastad,blairjulie@example.net,001-965-621-8534x350,SME,24117,2022-05-03,7,1626.3,2024-10-21,5,2,1,0.63,No
+CUST_0891,Mia,Thompson,Female,24,Paraguay,Joyfort,zacharyperez@example.net,(792)936-5609x4860,Enterprise,110265,2023-06-09,13,806.71,2025-01-14,1,4,2,0.92,No
+CUST_0892,Madison,Davis,Female,66,Burundi,South Paulport,scottmaynard@example.net,(848)939-4840,Corporate,148938,2024-07-15,9,1602.13,2025-08-31,1,2,2,0.04,No
+CUST_0893,Ryan,Morgan,Female,59,South Georgia and the South Sandwich Islands,Clarkborough,maryward@example.org,365.549.2239,SME,117718,2022-09-10,14,646.22,2025-03-28,5,5,2,0.77,No
+CUST_0894,Todd,Smith,Male,59,Turks and Caicos Islands,Michealport,carla25@example.com,001-716-798-5434x1750,SME,80710,2025-01-01,5,192.05,2025-03-07,4,4,2,0.67,No
+CUST_0895,Shannon,Alexander,Female,53,Kiribati,Codyland,mendezcynthia@example.net,(462)794-0712x66917,Corporate,114426,2021-06-19,10,1868.65,2025-06-27,2,4,3,0.05,Yes
+CUST_0896,Charlene,Bishop,Male,37,Equatorial Guinea,East Susanchester,washingtonjulie@example.net,001-429-802-1160x49209,Enterprise,114876,2025-03-14,9,819.37,2025-08-26,2,2,1,0.54,No
+CUST_0897,James,Pittman,Male,21,Korea,Port Jenna,mark72@example.org,+1-695-690-4177x9182,Retail,87054,2024-09-13,11,1595.75,2025-07-11,1,3,2,0.52,No
+CUST_0898,Richard,Mcgee,Female,24,Saint Martin,Portershire,maryunderwood@example.net,513.877.5596x2691,Retail,50949,2020-10-29,7,594.33,2024-10-16,5,3,0,0.69,Yes
+CUST_0899,Jade,Wright,Male,18,Thailand,Heathport,alexandria85@example.com,3636774987,SME,42547,2025-09-04,12,1310.41,2025-07-15,3,2,2,0.08,No
+CUST_0900,Alyssa,Marshall,Male,61,Bhutan,Elizabethfurt,carrollstephen@example.com,001-887-635-8452x32160,Corporate,101882,2025-05-17,10,1752.96,2025-07-07,3,3,3,0.81,No
+CUST_0901,Jonathan,Maxwell,Male,62,Somalia,Jeffland,scott58@example.com,876-493-9146x0152,SME,88136,2021-12-03,9,131.21,2025-09-01,2,2,1,0.14,No
+CUST_0902,Peter,Valenzuela,Male,59,Venezuela,Port Josephton,qgonzalez@example.org,+1-267-971-1681x56939,SME,131541,2024-10-19,9,1669.74,2024-10-24,4,1,0,0.42,No
+CUST_0903,Scott,Zuniga,Male,64,Bouvet Island (Bouvetoya),Lake Tinaland,aross@example.net,6166994619,Retail,136883,2025-04-30,16,1164.1,2025-06-07,2,2,1,0.88,No
+CUST_0904,Brittany,Clark,Female,30,Syrian Arab Republic,Solishaven,stephen50@example.org,(802)955-7905,SME,84619,2023-04-02,11,1234.57,2025-06-03,1,1,1,0.56,Yes
+CUST_0905,David,Pennington,Male,39,Ethiopia,Williammouth,brendahenderson@example.com,8333215218,Corporate,81842,2022-02-24,9,1070.16,2025-07-14,4,1,1,0.38,No
+CUST_0906,Karen,Adams,Female,38,Lebanon,Steventown,nwalton@example.org,619.961.2751,Corporate,114803,2020-11-01,8,1755.23,2024-11-07,3,6,5,0.05,Yes
+CUST_0907,Cheryl,Barr,Female,39,Thailand,South Jesseburgh,esanford@example.net,621.853.2341x62270,Corporate,121858,2024-03-22,6,134.7,2025-06-27,5,2,2,0.67,Yes
+CUST_0908,James,Bryant,Male,45,Slovenia,Lake Heidi,tyler83@example.com,001-979-709-1051x60848,Enterprise,46990,2025-04-09,11,559.01,2024-12-16,5,1,1,0.99,Yes
+CUST_0909,Andrew,Hester,Male,26,Libyan Arab Jamahiriya,Branchbury,angela54@example.org,544.616.0770,Retail,36193,2025-08-13,15,1757.74,2025-08-25,1,2,2,0.91,Yes
+CUST_0910,Joshua,Howell,Male,43,Faroe Islands,Port Vincent,paigeholmes@example.com,001-216-365-1383,Corporate,50109,2021-06-04,9,1517.07,2024-11-04,2,1,1,0.72,No
+CUST_0911,Sabrina,Gutierrez,Female,26,Honduras,South Joshua,ashley21@example.org,297-756-2003x3109,Corporate,39233,2021-07-26,10,84.41,2025-10-03,1,2,2,0.11,No
+CUST_0912,Isaac,Singh,Male,32,Guadeloupe,Michaeltown,robert33@example.net,+1-351-499-1118x2146,SME,133557,2022-04-25,8,1058.16,2025-09-01,5,4,0,0.24,No
+CUST_0913,Dustin,Shepherd,Female,27,Oman,South Lacey,fphillips@example.net,280-881-2830x3173,Corporate,101730,2020-10-26,5,1082.67,2025-06-07,3,1,1,0.19,No
+CUST_0914,Shawn,Patrick,Male,41,Belarus,Port Ashleyside,johnhamilton@example.com,+1-449-868-0395,Retail,148133,2023-05-19,10,831.72,2025-02-17,5,1,1,0.36,No
+CUST_0915,Jillian,Schmidt,Female,59,Russian Federation,Alanberg,xavier80@example.net,495-751-3315x699,Retail,54510,2025-07-21,8,629.92,2025-01-14,4,4,2,0.24,No
+CUST_0916,Jessica,Peterson,Male,25,Lithuania,North Amandaville,kristen10@example.org,683.951.7983,Retail,21306,2022-03-11,5,1379.36,2024-12-12,5,4,1,0.24,No
+CUST_0917,Rebecca,Wallace,Male,41,Saint Lucia,Shirleyborough,williamsstephanie@example.com,(843)999-2635x1185,SME,23849,2025-03-29,10,455.19,2025-03-01,5,2,1,0.62,No
+CUST_0918,Jennifer,Mitchell,Female,33,Guam,Frostville,johnsonjames@example.org,001-381-727-1066,Retail,32360,2023-10-09,12,1607.95,2025-03-01,4,3,1,0.32,No
+CUST_0919,Penny,Kim,Female,66,Guinea,New Bonnieview,fosterdaniel@example.net,509-698-0175x112,Retail,131072,2024-10-07,15,1615.92,2025-08-06,2,3,1,0.68,Yes
+CUST_0920,Nicholas,Doyle,Male,43,Namibia,Carriehaven,vrobertson@example.com,809-365-7089,Enterprise,142207,2020-10-31,6,859.76,2025-03-14,5,3,1,0.95,No
+CUST_0921,Jennifer,Bryant,Female,44,United States Virgin Islands,Dianetown,charles08@example.net,(559)282-9991x961,Retail,114767,2023-09-28,11,602.92,2025-09-07,1,1,1,0.64,No
+CUST_0922,Lisa,Thompson,Female,54,Italy,Ewingstad,samanthahoffman@example.net,206-985-0573,Enterprise,65800,2022-10-15,11,603.56,2025-08-27,5,1,1,0.75,No
+CUST_0923,Hannah,Collins,Female,21,Jamaica,North Heatherport,michelleneal@example.net,+1-948-522-5112x546,Corporate,148442,2023-12-02,9,990.47,2025-05-12,1,0,0,0.75,No
+CUST_0924,Mary,Baldwin,Female,67,Saint Lucia,New Timothy,lunaemily@example.net,880.698.6110,SME,56963,2021-03-25,6,1453.18,2025-06-30,4,0,0,0.33,No
+CUST_0925,Sarah,Turner,Male,41,American Samoa,Rodneyton,jamesanderson@example.org,901-289-7439x32284,Retail,74330,2022-09-12,9,749.79,2024-11-05,5,2,2,0.01,Yes
+CUST_0926,Amy,Phillips,Male,36,British Indian Ocean Territory (Chagos Archipelago),Davisfort,gabriella41@example.net,(527)760-9155x563,Retail,71707,2023-03-30,14,1239.58,2025-04-15,4,2,2,0.06,No
+CUST_0927,Amber,Reyes,Male,53,Belize,Jeanettefort,wardjennifer@example.com,+1-954-921-3394x2886,SME,38689,2022-04-29,9,795.84,2025-07-18,4,3,1,0.28,No
+CUST_0928,Jasmine,Jackson,Female,56,Norway,North Jason,ryan35@example.com,834-750-5694,SME,49084,2022-02-14,13,643.82,2025-09-05,2,3,3,0.69,No
+CUST_0929,Brian,Perry,Female,27,Jordan,North Charles,flee@example.org,470-442-9187,SME,60387,2021-06-23,4,98.48,2024-12-28,5,3,1,0.91,No
+CUST_0930,Sabrina,Edwards,Male,42,Myanmar,West Stephenstad,rbyrd@example.net,252.393.1339x142,Retail,94816,2024-06-08,9,57.63,2025-08-06,1,2,2,0.96,No
+CUST_0931,Anthony,Evans,Male,35,Pakistan,Johnsonburgh,brewerbrian@example.net,635.989.9042x492,SME,22642,2021-11-23,10,493.05,2025-01-11,1,2,0,0.03,No
+CUST_0932,Christina,Murphy,Female,36,Trinidad and Tobago,Lake Cynthia,brandongomez@example.com,259-785-0850x5730,SME,62137,2022-07-24,7,842.49,2025-02-01,5,1,1,0.99,No
+CUST_0933,Emily,Clark,Other,53,Cayman Islands,Williamport,johnsonvanessa@example.net,4602636085,Corporate,99832,2023-03-22,13,1709.96,2025-01-02,2,1,1,0.32,No
+CUST_0934,Michael,Martinez,Female,27,United States of America,Nicoleberg,gregorylopez@example.com,001-971-267-3939x9688,SME,75561,2024-11-21,7,1607.04,2025-06-28,2,3,2,0.84,Yes
+CUST_0935,Adrian,Gray,Male,50,Tajikistan,East Debraland,hhill@example.com,888.581.6337x1333,SME,82260,2021-02-13,4,570.97,2024-11-06,2,6,3,0.18,No
+CUST_0936,Scott,Meyer,Male,67,Northern Mariana Islands,West Jamie,gharrison@example.org,918-688-5818x0915,Corporate,35438,2022-05-28,10,526.85,2025-02-19,1,0,0,0.06,No
+CUST_0937,Debbie,Norton,Male,22,Honduras,New Anne,tonyaford@example.org,586-821-8068x663,Retail,68442,2024-04-02,17,493.28,2025-01-05,4,2,2,0.38,Yes
+CUST_0938,Alyssa,Torres,Female,64,Spain,Brianaside,jonessusan@example.org,001-937-584-7433,Corporate,123061,2023-06-02,9,711.51,2025-04-05,2,2,2,0.86,No
+CUST_0939,Deanna,Casey,Male,66,Tajikistan,Joefurt,solisbeverly@example.net,566-784-4566,Retail,22994,2024-06-02,13,1021.49,2025-05-24,1,2,0,0.22,No
+CUST_0940,Natalie,Hicks,Female,52,Azerbaijan,East Heatherbury,ohowell@example.org,(884)470-2915x19386,Corporate,143439,2021-03-15,12,905.4,2025-08-03,1,1,1,0.15,No
+CUST_0941,Eduardo,Vang,Male,61,Turks and Caicos Islands,Josephfort,michellelewis@example.com,+1-291-924-1213x277,Corporate,145844,2023-07-17,12,475.63,2025-01-12,4,2,2,0.91,No
+CUST_0942,Alexander,White,Female,51,Djibouti,Hooverton,barryrobinson@example.org,744.487.8496x753,Retail,133530,2024-04-05,10,304.38,2025-02-03,5,2,2,0.94,No
+CUST_0943,April,Taylor,Female,50,Bosnia and Herzegovina,Jilltown,pdennis@example.org,614.238.1829x3876,Retail,119575,2022-01-23,8,74.53,2025-08-01,5,2,2,0.01,No
+CUST_0944,Karen,Santiago,Female,38,Russian Federation,Davidtown,melvin61@example.net,(454)732-3829x3981,Retail,21813,2021-04-29,12,350.23,2025-07-30,2,1,1,0.73,No
+CUST_0945,Amanda,Hunter,Male,34,French Guiana,North Melissa,jeremyconway@example.net,001-591-640-7435x811,SME,113027,2023-07-18,7,1425.44,2025-07-22,2,2,2,0.31,No
+CUST_0946,Susan,Patel,Male,39,Moldova,West Chelsea,williamhall@example.net,+1-443-500-7155x658,Enterprise,143489,2022-05-06,10,525.1,2025-08-19,4,0,0,0.37,Yes
+CUST_0947,David,Gentry,Male,65,Canada,East Christopherberg,nevans@example.net,933-825-2521x344,Retail,104381,2023-03-01,11,963.77,2025-06-22,2,2,0,0.47,No
+CUST_0948,Linda,Black,Female,54,Holy See (Vatican City State),Thomasberg,nicole87@example.net,(351)518-1106,Enterprise,138808,2024-10-09,11,1203.04,2025-03-18,4,2,2,0.43,No
+CUST_0949,Sabrina,Chase,Female,32,Greece,Lake Kenneth,gilmoreralph@example.org,+1-394-211-5636x21001,Corporate,75276,2023-09-26,14,1779.34,2025-03-17,1,3,1,0.51,No
+CUST_0950,Carrie,Johnson,Female,52,Belgium,Smithborough,blove@example.org,336.477.9752x3183,Retail,61243,2024-07-03,9,1783.27,2024-12-17,2,0,0,0.58,No
+CUST_0951,Amber,Lee,Female,45,Tokelau,Port Ryan,angela61@example.org,(963)339-9047,Retail,82912,2021-03-07,10,1504.18,2024-10-20,1,1,1,0.47,No
+CUST_0952,Samantha,Lane,Female,24,Burundi,South Miranda,daviladarius@example.org,+1-343-251-3224x00805,Corporate,80272,2024-07-27,10,118.56,2024-10-09,3,2,2,0.7,No
+CUST_0953,William,Zhang,Male,49,Albania,Spearsside,bowendeborah@example.net,(278)505-6101,SME,122700,2023-09-19,9,1171.39,2025-05-05,4,5,2,0.72,No
+CUST_0954,Lauren,Cole,Female,28,Suriname,Alanmouth,michaelmorgan@example.com,6324693500,SME,62051,2022-12-14,12,1583.84,2025-05-25,3,2,1,0.44,No
+CUST_0955,Andrew,Brown,Male,27,Panama,Castilloview,dreeves@example.com,511.938.4445x852,Retail,98854,2021-09-24,12,83.71,2025-05-24,2,3,2,0.14,No
+CUST_0956,Trevor,Lam,Male,26,Saudi Arabia,New Stacychester,kaitlinmoore@example.net,9865365298,Retail,102736,2025-02-22,13,1121.88,2024-11-02,1,3,3,0.64,No
+CUST_0957,Eddie,Anderson,Female,31,Uganda,Greeneville,zacharycampos@example.net,259-558-9985x00209,Corporate,141992,2025-07-22,4,1722.64,2024-10-13,2,0,0,0.77,No
+CUST_0958,Kerry,Chavez,Male,30,French Polynesia,Torresborough,kenneth91@example.net,887-479-0810x7441,Retail,142019,2025-05-17,8,974.5,2025-07-04,3,2,2,0.64,No
+CUST_0959,Jamie,Christian,Male,42,Uzbekistan,West Lucaschester,connie15@example.org,559.299.0346x4765,Retail,85618,2023-12-27,11,58.01,2025-09-03,2,1,0,0.59,Yes
+CUST_0960,Pamela,Gonzalez,Female,19,Kuwait,Port Glenda,brentdavis@example.com,+1-201-254-4095x99081,Retail,21920,2022-12-10,13,71.48,2025-01-27,5,1,1,0.23,No
+CUST_0961,Sandra,Walker,Male,52,Georgia,Kaitlinburgh,jennifer59@example.org,(985)771-4108x345,SME,126121,2022-04-28,12,862.44,2025-06-20,3,2,1,0.65,No
+CUST_0962,Katherine,Robinson,Female,24,United States Virgin Islands,Lake Paulamouth,laura86@example.org,310.293.7661x5590,Enterprise,97219,2024-07-03,17,352.27,2025-06-15,2,2,2,0.33,No
+CUST_0963,Crystal,Thompson,Male,38,North Macedonia,Foleyton,cochranregina@example.org,(909)465-0787,Corporate,96872,2021-05-25,7,1345.68,2025-08-09,1,2,1,0.92,No
+CUST_0964,Jane,Jacobs,Male,35,Kuwait,Garyland,robert27@example.org,(439)249-0665,Enterprise,101132,2023-04-29,13,1432.16,2025-10-02,2,1,0,0.65,No
+CUST_0965,Michael,Lyons,Male,20,United States of America,Barrettshire,powelleddie@example.org,674-969-9463,Retail,22093,2022-02-14,11,396.87,2025-09-07,1,3,2,0.28,No
+CUST_0966,Kenneth,Allison,Male,59,American Samoa,East Samantha,ashleysmall@example.org,471.558.1170x049,Corporate,32905,2022-03-16,10,1782.64,2024-10-31,5,6,1,0.47,No
+CUST_0967,Brittany,Jennings,Female,56,Venezuela,Barnesland,wheelerchristopher@example.org,+1-911-771-5737,Retail,141759,2023-04-02,7,911.72,2025-07-07,2,1,0,0.85,No
+CUST_0968,Amanda,Simmons,Male,58,Sao Tome and Principe,North Timothyburgh,joshuasingleton@example.net,6559110608,Corporate,44351,2023-10-10,13,328.55,2025-02-07,5,4,2,0.34,No
+CUST_0969,Zachary,Smith,Female,66,Benin,Myersland,rvalencia@example.net,635-941-2951x5716,Enterprise,50981,2020-11-22,15,1540.29,2025-02-17,3,1,1,0.53,No
+CUST_0970,Patricia,Powers,Male,28,Tajikistan,Port Barbara,colemanwilliam@example.org,543-953-7875x373,Corporate,93903,2025-02-08,8,1590.45,2025-09-23,1,2,2,0.68,No
+CUST_0971,Alexandra,Stewart,Female,56,Iran,Lake Danielle,arthurkim@example.net,374.976.4674,Retail,90821,2023-05-10,16,1296.63,2025-01-23,3,0,0,0.75,No
+CUST_0972,Robert,Herring,Female,41,Australia,Arthurchester,wilsondiane@example.com,(501)444-9686,Corporate,129200,2021-01-08,15,1714.26,2025-03-04,1,3,3,0.17,No
+CUST_0973,Ashley,Lee,Female,63,Saint Barthelemy,East Alexandria,melissawoods@example.org,(227)262-1311x4637,Retail,123241,2023-01-04,14,1487.88,2025-05-26,5,1,1,0.57,Yes
+CUST_0974,Paula,Gentry,Male,36,Libyan Arab Jamahiriya,Lake Aprilborough,dbarrett@example.net,769-508-9512,SME,102289,2020-11-25,7,1770.3,2024-12-06,4,1,1,0.91,No
+CUST_0975,Michael,Madden,Male,21,Brunei Darussalam,Fletcherbury,mirandacharles@example.com,001-441-420-1891x6874,Corporate,136506,2023-04-08,7,896.08,2025-04-10,2,1,1,0.97,No
+CUST_0976,Robert,Elliott,Male,43,Argentina,North Timothy,williamstimothy@example.com,9942928366,Corporate,104021,2022-06-04,12,1507.81,2025-09-06,5,1,1,0.66,No
+CUST_0977,Erik,Bernard,Female,55,Sao Tome and Principe,New Stephanieport,thomasbrandy@example.net,(237)802-6870x831,Corporate,98513,2022-07-19,10,1999.52,2025-06-27,1,0,0,0.98,No
+CUST_0978,Jennifer,Cummings,Male,59,Kazakhstan,Jenniferbury,uchristian@example.org,292-280-7438x0642,Corporate,39874,2023-06-17,8,1463.62,2025-01-20,1,3,3,0.57,No
+CUST_0979,Veronica,Ruiz,Female,49,Holy See (Vatican City State),Tonyamouth,wellspaul@example.com,(490)991-8247x821,Retail,70931,2024-11-12,10,272.66,2025-08-03,1,0,0,0.44,No
+CUST_0980,Monica,Bradley,Female,56,Cuba,Roblesport,ericjackson@example.com,+1-821-573-9086x1148,Corporate,27674,2024-05-16,5,1060.72,2024-10-11,1,0,0,0.55,No
+CUST_0981,Tommy,Lyons,Male,62,Korea,Scottberg,nclarke@example.org,681.972.4138,Retail,70516,2023-12-09,9,1195.33,2024-11-03,2,4,1,0.12,No
+CUST_0982,Paul,Holden,Female,63,Sao Tome and Principe,Jenniferland,carterwilliam@example.net,725.498.3017,SME,141982,2021-06-24,14,389.71,2025-06-29,3,3,3,0.4,No
+CUST_0983,Carolyn,Hayes,Male,53,Pakistan,Johnsonbury,sallyharris@example.com,(297)244-8978x9263,SME,148408,2023-07-23,5,1927.64,2025-05-24,4,3,3,0.46,No
+CUST_0984,David,Lewis,Male,57,Mongolia,Thorntonmouth,kristineterrell@example.com,(475)778-5656x0427,SME,114574,2024-09-07,6,392.38,2025-08-11,2,1,1,0.85,No
+CUST_0985,Shane,Cruz,Female,54,El Salvador,Michaelbury,justinjackson@example.net,+1-590-645-8848,Corporate,80686,2022-08-23,9,396.24,2025-08-07,1,1,1,0.76,No
+CUST_0986,Linda,Green,Female,50,Tonga,Kruegerville,msnyder@example.com,976.682.3793x633,Corporate,114851,2025-02-03,7,1834.58,2024-12-28,2,3,0,0.6,Yes
+CUST_0987,Jesse,Barton,Female,53,Greece,Greenhaven,andrewwalker@example.com,505-569-9771x23705,Retail,89212,2023-03-06,6,957.15,2024-12-09,5,0,0,0.35,No
+CUST_0988,Sabrina,Taylor,Male,20,Brunei Darussalam,Freyland,ssmith@example.org,237-904-8905x03592,SME,22426,2025-03-14,10,173.22,2025-08-01,1,3,1,0.19,No
+CUST_0989,Pamela,Moore,Male,26,Cocos (Keeling) Islands,North Karen,greenchristopher@example.net,803-438-5662x5913,Retail,142952,2023-05-06,9,1216.47,2024-10-27,4,3,0,0.35,Yes
+CUST_0990,Anthony,King,Female,25,Czech Republic,North Masonside,elizabeth22@example.net,905.918.3340x04975,Corporate,110009,2025-02-19,7,1223.56,2024-12-23,1,2,1,0.68,Yes
+CUST_0991,Joshua,Johnson,Female,50,Iran,East Benjamin,amanda80@example.com,(697)848-1560x78163,Retail,88498,2025-07-17,10,175.78,2025-09-26,4,1,1,0.26,No
+CUST_0992,Christopher,Peters,Female,23,Solomon Islands,New Sara,fdeleon@example.org,360-377-9809x2092,Retail,49943,2022-05-16,7,1946.42,2024-12-17,4,4,3,0.43,No
+CUST_0993,Zachary,Snow,Male,58,Isle of Man,Brianstad,kim03@example.org,001-667-605-4755x36798,Corporate,86395,2021-02-14,15,1110.86,2025-10-01,3,2,2,0.39,No
+CUST_0994,Stephen,Ross,Female,56,Brazil,Smithland,annamorgan@example.org,210.895.9964x19968,Retail,64816,2025-04-10,13,1141.6,2025-01-03,3,3,1,0.77,Yes
+CUST_0995,Jeffery,Martin,Male,21,Tonga,New Abigailfurt,marshmichelle@example.net,+1-470-832-6486x269,SME,24138,2024-06-16,10,1064.23,2025-05-11,2,2,1,0.88,No
+CUST_0996,Kevin,Ramirez,Male,30,Chile,Yoderville,kevin68@example.com,799-741-5259x2302,Retail,120728,2023-03-14,5,1240.93,2024-10-25,2,3,3,0.7,No
+CUST_0997,Robert,Baird,Female,66,Iceland,Lake Jennifer,watsonmakayla@example.net,001-573-664-3590x43172,Retail,111176,2021-05-11,7,565.38,2025-01-29,4,0,0,0.34,No
+CUST_0998,Stephen,Yang,Male,19,Western Sahara,North Rebeccaberg,ycoleman@example.org,(374)431-0505x1227,Corporate,95945,2023-02-09,10,610.12,2024-12-30,1,5,2,0.43,No
+CUST_0999,Kelly,Smith,Female,22,Cape Verde,New Joel,qharris@example.org,281-655-0329x056,Retail,24017,2025-09-25,8,1047.11,2025-09-15,5,3,2,0.14,Yes
+CUST_1000,Gabriela,Martinez,Male,61,Ghana,Williamsport,mlowe@example.com,6948566112,Retail,30451,2025-07-05,6,1623.04,2024-11-07,5,2,2,0.17,No
